@@ -6,7 +6,8 @@ import logging
 from pydriller import RepositoryMining
 from pydriller import GitRepository
 
-REPO_NAME = 'repositories/pandas'
+REPO_NAME = 'repositories/sympy'
+# REPO_NAME = 'repositories/pandas'
 
 class Visitor(ast.NodeVisitor):
 
@@ -55,6 +56,6 @@ def check_modifications(commit):
 
 
 if __name__ == '__main__':
-    for commit in RepositoryMining(REPO_NAME, only_modifications_with_file_types=['.py'], from_commit='70d2eb64cf53fb7ef95ec64b1eb02d61116e58a0').traverse_commits():
+    for commit in RepositoryMining(REPO_NAME, only_modifications_with_file_types=['.py']).traverse_commits():
         print ('Hash: {}'.format(commit.hash))
         check_modifications(commit)
