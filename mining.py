@@ -19,10 +19,12 @@ class Visitor(ast.NodeVisitor):
         self.modified_lines = [line for line, _ in self.repo.parse_diff(modification.diff)['added']]
         self.commit_message = ''
         self.except_found = False
+        self.count = 0
     
     def visit_ExceptHandler(self, node):
         if len(node.body) == 1 and all(isinstance(x, ast.Pass) for x in node.body) and node.lineno in self.modified_lines:
             self.except_found = True
+            self.count += 1
 
 class RepositoryParser():
 
@@ -49,9 +51,9 @@ class RepositoryParser():
                 v = Visitor(modification, self.repository_name)
                 v.visit(root)
                 if v.except_found:
-                    self.commits.append({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date})
+                    self.commits.append({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date, 'handlers': v.count})
                     self.check_issues(commit)
-                    logging.error('{}'.format({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date}))
+                    logging.error('{}'.format({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date, 'handlers': v.count}))
             self.last_checked_file = modification.filename
 
     def check_issues(self, commit):
