@@ -1,0 +1,1568 @@
+data;handlers;hash;message
+2010-01-05 13:42:10+00:00;1;4b049f1102ff2646aa0c5de6f546d5e6e5abe82f;"Add function to handle Nan data for scaling.
+
+From: cdavid <cdavid@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@18 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 13:56:03+00:00;2;3de66ffb26eaa00bad25cfc9d02186362528b870;"initial checkin of ga library.
+
+From: ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646 <ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@38 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 13:56:03+00:00;2;3de66ffb26eaa00bad25cfc9d02186362528b870;"initial checkin of ga library.
+
+From: ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646 <ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@38 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 13:56:03+00:00;4;3de66ffb26eaa00bad25cfc9d02186362528b870;"initial checkin of ga library.
+
+From: ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646 <ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@38 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 13:56:03+00:00;1;3de66ffb26eaa00bad25cfc9d02186362528b870;"initial checkin of ga library.
+
+From: ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646 <ej@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@38 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 14:17:48+00:00;4;612312553118371289330f50b38653d1206246c0;"Fixed import problem with importing __pre___init__
+
+Fixed problems with changes to stats objects calls.
+
+From: eric <eric@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@56 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 14:53:22+00:00;2;c017b1f34da310ee64fc3098c7d6a16f1c5baa24;"Run reindent.py (script distributed with Python) over the source to remove extraneous whitespace
+
+From: cookedm <cookedm@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@62 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-05 14:53:22+00:00;1;c017b1f34da310ee64fc3098c7d6a16f1c5baa24;"Run reindent.py (script distributed with Python) over the source to remove extraneous whitespace
+
+From: cookedm <cookedm@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@62 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-06 10:49:35+00:00;2;b9eb69be4a0a0453ee68acefd627946636391157;"Add tests for logsumexp and mnormalik.
+
+From: cdavid <cdavid@cb17146a-f446-4be1-a4f7-bd7c5bb65646>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@299 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-01-19 12:43:10+00:00;1;81be8f7d1565a09013602709c5748b2ab6150646;"Sphinx extensions.
+
+Added numpydoc Sphinx extension, needed to render correctly numpy's
+docstring conventions. They are copied from numpy's source directory.
+
+From: Fabian Pedregosa <fabian.pedregosa@inria.fr>
+
+git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@356 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8"
+2010-07-29 00:10:28+02:00;5;a3bd41971720ae466b4e1e99f8b1484501c8954e;ENH: Add joblib as a bundle dependency.
+2010-07-29 21:55:18+02:00;5;e6272b0627c592b904ca89f9346ab8e38bd050b2;Merge branch 'master' of http://github.com/GaelVaroquaux/scikit-learn
+2010-08-27 14:02:03+02:00;1;0f24c7a07c5cea484bd4dd6f9b8d655d9b70721b;ENH: Backport a fast graph connect component algorithm from scipy.
+2010-09-11 20:25:28+02:00;1;2ab74cdb6adc979195f6ba60d5f8e9bf9dd4b74d;ENH: Add a tester to the scikit.
+2010-09-12 01:30:13+02:00;1;0de7e5dc9b1bd73a340efd01b63df921127734c1;Merge branch 'master' of github.com:scikit-learn/scikit-learn
+2010-09-14 09:29:35+02:00;1;a555f22f3524637df4389daf60c16da5de306d6d;Merge branch 'master' into issue-77-sparse-cd
+2010-09-14 22:34:07+09:00;1;fe93d4714fbd2702ffa6327698cb4fcbde0b0063;Added a non-hashing dense vectorizer object.
+2010-09-15 14:30:31+02:00;1;ac02b3308838d5b67ecd7abbec8dadd53ecfdddf;merged origin
+2010-09-15 18:23:21+02:00;1;0b8aa6c261d5e553002c6f60f94a95d3ba4b7f0a;Merge branch 'textextract' of git://github.com/mblondel/scikit-learn
+2010-09-21 05:54:46+02:00;1;c9aaaaa6babf75230fac8f42762c5ed4eb557e23;Merge branch 'master' of github.com:scikit-learn/scikit-learn
+2010-10-01 15:58:49+02:00;1;5cb8e6c2e2620ed5633fd457d67a436935a56c2d;Update joblib to 0.4.5
+2010-10-04 12:03:50+02:00;1;652550ac55c1d07f94dac541fe8b901bcc84cd1d;Merge branch 'master' of github.com:scikit-learn/scikit-learn
+2010-10-07 17:13:58+02:00;1;50902c445ed182895be0aea4d0f5ed05b011dfdd;tracking changes from master
+2010-10-23 20:40:46+02:00;3;2847e3d3e897758aa6193fe9b3d5b54a2d1af50b;"added class encoding.
+added tests
+added l1 final penalty."
+2010-10-24 11:32:37+02:00;3;8ce4c6456e307c247d2009cd2df7b3609c7be42e;Merge branch 'master' of git@github.com:pprett/scikit-learn
+2010-10-24 14:53:21+02:00;3;d9ddde0c976f5e3dce098c5aaf27e44bd0284bbb;mereging pprett sgd work while tracking master
+2010-10-24 17:29:54-04:00;1;314c6870f10f46434ab3cde4776ca95b2a6787c8;merge
+2010-10-23 20:40:46+02:00;3;843fe8b29208dd6d1cba55354689bfdc07546fd6;"added class encoding.
+added tests
+added l1 final penalty."
+2010-10-25 08:58:44-04:00;6;2ae5c6587935408e0590b37799482427529e837f;merge
+2010-10-26 14:55:34+09:00;6;b0eb68c6cba14043d2d14d9cdd80cbaa05e64631;Merge branch 'master' into textextract
+2010-10-26 14:31:38+02:00;6;bd4c5959dd721bb55ed82caa1f8b1d846a233c67;Merge branch 'master' into textextract
+2010-11-03 15:53:35+09:00;1;526c0be2e12b7c5f42954fb481a51eeb6cbc2498;"Merge branch 'textextract'
+
+Conflicts:
+	examples/mlcomp_document_classification.py"
+2010-11-03 10:49:57+01:00;1;41aef36b5ee6b14795edb1b059457e93c6e77565;Merge branch 'master' into ova
+2010-11-03 18:21:39+01:00;2;de4caee868b1ad1f62b58b1a8e97937a3a4c04fd;SGD classifier supports multi-class with OVA.
+2010-11-04 11:17:36+01:00;3;fada652163b27cdebc5fafe250c87854c33827c8;Changed docstrings for coef_ and intercept_ in sgd package. Wrap intercept_ in an array in the case of binary classification.
+2010-11-04 18:09:25+01:00;10;13e059fadc4ae7c4a81ae5da806dbd229ffd2aa9;"Added dense implemenation of SGD.
+Modified plot_separating_hyperplane to use dense instead of sparse version."
+2010-11-05 09:22:40+01:00;10;82338487cbfdc5404e35ffd1116f7f8fa8a826e8;Merge branch 'dense' of github.com:pprett/scikit-learn
+2010-11-10 10:37:33+01:00;1;51393006943bcfd46ad207340da0cdcdd7d884c0;merged the mainr epo
+2010-11-22 13:08:23+01:00;1;e50c37c9eadc8b10658878b478cc734b24c50133;ENH: Update embedded joblib to 0.4.6
+2010-11-22 19:42:49+01:00;1;dede5c47a9b90aa9681930e0ba747f0271a50fa4;Merge branch 'master' into importanceweighting
+2010-11-24 18:48:37+01:00;1;d2ec8a36d85d7fd821a6f770210fcc0785db4f12;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn
+
+Conflicts:
+	scikits/learn/__init__.py"
+2010-11-24 18:48:37+01:00;1;d2ec8a36d85d7fd821a6f770210fcc0785db4f12;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn
+
+Conflicts:
+	scikits/learn/__init__.py"
+2011-02-28 09:34:28+01:00;1;075931dc6cea4003c4a0534e47e03597c477ef12;"Python 3 compatibility.
+
+Simplified version of scipy strategy: copy files into build/py3k, and
+patch them using lib2to3."
+2011-04-01 00:25:00+03:00;1;1c04b54339c43c7cbcc1a708dc04b8fcd08dedfd;Merge branch 'master' into nmf-nnls
+2011-04-01 08:14:28+02:00;1;160c9529d57fdc3eaacb5eef7192a77c0902ad04;MISC: Update joblib
+2011-04-01 16:23:13+02:00;1;d4fd5f7d5cf326a0628772c9513150af157ce30a;"Python 3 compat, this time with npy_3kcompat.h
+
+This reverts commit 95ece32fc7a95455154e2ded46cb76dc8f85bbce."
+2011-04-01 15:51:49-03:00;1;4f9a126404731e2d896755c34ed3d8d0f7c7097f;Merge branch 'master' into variational-infinite-gmm
+2011-04-02 12:29:04-07:00;1;e5d8ded64095df92976d7f9d76aa1af24c0321b5;Merge branch 'master' of git://github.com/scikit-learn/scikit-learn
+2011-04-03 00:37:18+03:00;1;8868aaa2fcc06997f758be243b57653678a3445e;Merge branch 'master' into nmf-lite
+2011-04-04 14:58:49+09:00;1;5020fbd26fd6dd81f011f93cd96b27ccc1ab1c29;"Merge branch 'master' into lda
+
+Conflicts:
+	scikits/learn/lda.py"
+2011-04-04 14:58:49+09:00;1;5020fbd26fd6dd81f011f93cd96b27ccc1ab1c29;"Merge branch 'master' into lda
+
+Conflicts:
+	scikits/learn/lda.py"
+2011-05-11 17:27:37+03:00;1;595bf835c27a87537bd68ef0f1236eb42eb52a0f;"Merge remote branch 'upstream/master'
+
+Conflicts:
+	scikits/learn/naive_bayes.py"
+2011-05-11 17:27:37+03:00;1;595bf835c27a87537bd68ef0f1236eb42eb52a0f;"Merge remote branch 'upstream/master'
+
+Conflicts:
+	scikits/learn/naive_bayes.py"
+2011-05-24 07:24:55-07:00;1;4ec4a02e5991150af5154ce78afff39b99a8c7b4;"Merge pull request #1 from ogrisel/pberkes-mldata
+
+pep8 fixes"
+2011-07-05 10:57:42+02:00;1;24ab71e11182e81ed13be5c201ddcfd3a1f50f47;Backward compatibility fixes for testing LLE.
+2011-07-08 14:42:12+03:00;1;6fa3a6bd9a328ae3bec004b910a83a354bc8b232;Merge branch 'master' into sparsepca
+2011-07-08 14:44:02+03:00;1;c154810e188ac11beb196d15d9d2a4b79136d789;Merge branch 'sparsepca' into sc
+2011-07-16 10:42:38-06:00;1;4ca0cce7b5ea07688f23b1f97a3069712c840ab3;Merge remote-tracking branch 'master/master' into sparse-mbkm
+2011-07-28 00:44:13+10:00;1;54cc23e510aceaf0e76d317d452729a5b7790544;Merge branch 'master' of https://github.com/robertlayton/scikit-learn
+2011-08-01 14:06:05+01:00;1;1e75e9ae18461dd8641232753a4e9daa0a828279;Merge branch 'enh/ensemble' of https://github.com/satra/scikit-learn
+2011-09-02 23:19:56-07:00;1;3ec3153807701e4f58a881b8feb333c080a1657c;"Merge pull request #335 from fabianp/rename
+
+move sources from scikits/learn to sklearn"
+2011-09-03 17:55:07+10:00;1;ed9d1ac3b64dfc563a9ae66df409d13560179283;"Merge branch 'master' into pairwise_distance
+
+Conflicts:
+	scikits/learn/datasets/twenty_newsgroups.py
+	scikits/learn/metrics/__init__.py
+	sklearn/metrics/metrics.py"
+2011-09-03 13:04:27+01:00;1;b484aa443217d75273dd4c2d11de602b110309b8;merged upstream-master into enh/tree
+2011-09-03 08:02:22-07:00;1;17c4a3c8d93b5e49df1647f726b75fbe2fe7a184;merge with upstream/master
+2011-09-03 17:28:04+02:00;1;769714e9ead4edd09134506fd80ef010862812d1;Merge remote-tracking branch 'upstream/master'
+2011-09-04 21:34:26+02:00;1;b87a75da74a5eb0ef5ae2c58954d685d12b689f3;Merge remote-tracking branch 'glouppe/master' into glouppe-master
+2011-09-05 01:45:31+03:00;1;40eb1010d2701ae116304d33f9e4e8e46aeb3de2;"Merge branch 'master' into sc
+
+Conflicts:
+	doc/modules/linear_model.rst
+	scikits/learn/decomposition/__init__.py"
+2011-09-04 16:10:07-07:00;1;00c3d4df5eb3666e48c06c3871c237734d0b01a1;Merge git://github.com/scikit-learn/scikit-learn
+2011-09-08 13:46:01-07:00;1;364d1df68cd75c63c4a39ce6aa5772206a2e6e0f;Merge commit 'upstream-RW/master'
+2011-09-09 16:15:14+01:00;1;c9f20a25e42c7ed45395ea5bc782bb878228c021;merged upstream/master moving to sklearn
+2011-09-13 18:01:32+02:00;1;8cae2c142bf5f7b278b530d83bf9d630deb8fde6;Merge branch 'master' of git://github.com/scikit-learn/scikit-learn
+2011-12-25 23:15:55+01:00;1;826443e90cbb5f0391e784048ca47ddcdd60b664;"ENH: update joblib
+
+This release brings zipped storage"
+2011-12-25 23:15:55+01:00;1;826443e90cbb5f0391e784048ca47ddcdd60b664;"ENH: update joblib
+
+This release brings zipped storage"
+2011-12-26 10:34:18+01:00;1;9fe13b322f521c518e4dcbf2b156f69ad2a006c4;Merge branch 'master' of github.com:scikit-learn/scikit-learn
+2011-12-26 10:34:18+01:00;1;9fe13b322f521c518e4dcbf2b156f69ad2a006c4;Merge branch 'master' of github.com:scikit-learn/scikit-learn
+2011-12-26 19:14:57+01:00;1;90a9ae6e303886f38ac4327164aca2f390604ee6;Merge branch 'master' of github.com:scikit-learn/scikit-learn into gmm-fixes
+2011-12-26 19:14:57+01:00;1;90a9ae6e303886f38ac4327164aca2f390604ee6;Merge branch 'master' of github.com:scikit-learn/scikit-learn into gmm-fixes
+2011-12-27 09:53:09+01:00;1;59cdcc748bd72e7edbf39f55e482f1e2d3ea9ac9;Merge branch 'master' into sparse-scaler
+2011-12-27 09:53:09+01:00;1;59cdcc748bd72e7edbf39f55e482f1e2d3ea9ac9;Merge branch 'master' into sparse-scaler
+2011-12-27 17:51:07+01:00;1;ab23e22fd0c508027c3f85ec3e3186f2d3da5d89;"Merge remote-tracking branch 'upstream/master' into tree
+
+Conflicts:
+	sklearn/ensemble/forest.py
+	sklearn/tree/tree.py"
+2011-12-27 17:51:07+01:00;1;ab23e22fd0c508027c3f85ec3e3186f2d3da5d89;"Merge remote-tracking branch 'upstream/master' into tree
+
+Conflicts:
+	sklearn/ensemble/forest.py
+	sklearn/tree/tree.py"
+2011-12-29 11:57:41+01:00;1;a3aa805bc5d55ee673793d5bd6cf6f2fdc2cc7ef;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into doc_underscores_for_real
+
+Conflicts:
+	sklearn/decomposition/nmf.py
+	sklearn/decomposition/pca.py"
+2011-12-29 11:57:41+01:00;1;a3aa805bc5d55ee673793d5bd6cf6f2fdc2cc7ef;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into doc_underscores_for_real
+
+Conflicts:
+	sklearn/decomposition/nmf.py
+	sklearn/decomposition/pca.py"
+2011-12-29 21:03:56+01:00;1;84a4d39c5f587adb2b057a36e3805bd050a56449;"Merge remote-tracking branch 'upstream/master' into parallel-forest
+
+Conflicts:
+	sklearn/ensemble/forest.py"
+2011-12-29 21:03:56+01:00;1;84a4d39c5f587adb2b057a36e3805bd050a56449;"Merge remote-tracking branch 'upstream/master' into parallel-forest
+
+Conflicts:
+	sklearn/ensemble/forest.py"
+2012-01-02 23:44:31+09:00;1;51024b9cbf856193f1807c00b8ef4a20d8c12064;Merge remote branch 'upstream/master'
+2012-01-02 23:44:31+09:00;1;51024b9cbf856193f1807c00b8ef4a20d8c12064;Merge remote branch 'upstream/master'
+2012-01-06 20:02:15+01:00;1;4a70636701d71549fc2f5474ab6d521509912f6c;"Merge branch 'tree-feature-importance' into old-gradient-boosting
+
+Conflicts:
+	sklearn/tree/_tree.c
+	sklearn/tree/tree.py"
+2012-01-06 20:02:15+01:00;1;4a70636701d71549fc2f5474ab6d521509912f6c;"Merge branch 'tree-feature-importance' into old-gradient-boosting
+
+Conflicts:
+	sklearn/tree/_tree.c
+	sklearn/tree/tree.py"
+2012-01-09 16:39:44-08:00;1;fdfb53177d5d16bc5db0aceab76341760bd20eb0;"Merge branch 'larsmans-label-propagation'
+
+Conflicts:
+	doc/modules/classes.rst
+	doc/modules/label_propagation.rst
+	sklearn/label_propagation.py
+	sklearn/tests/test_label_propagation.py"
+2012-01-09 16:39:44-08:00;1;fdfb53177d5d16bc5db0aceab76341760bd20eb0;"Merge branch 'larsmans-label-propagation'
+
+Conflicts:
+	doc/modules/classes.rst
+	doc/modules/label_propagation.rst
+	sklearn/label_propagation.py
+	sklearn/tests/test_label_propagation.py"
+2012-01-27 09:13:43-05:00;1;c68f4f540dba0eea7f713a36363aacba7111e74e;"Merge remote-tracking branch 'upstream/master' into enh/metrics
+
+* upstream/master: (823 commits)
+  Set the download link to PYPI.
+  Address Issue #590 : use relative path link to about.html
+  check random state in _fit_transform
+  add random_state to LocallyLinearEmbedding
+  MISC: fix bibtex
+  Add n_jobs option to pairwise_distances and pairwise_kernels.
+  euclidian_distances is to be deprecated in v0.11.
+  Better default threshold for L1-regularized models.
+  Remove CoefSelectTransformerMixin and use SelectorMixin instead.
+  COSMIT removed unused imports
+  Cosmit: remove unused imports
+  Refactor in KFold.
+  COSMIT pep8
+  FIX: MurmurHash3 compilation on older GCC
+  DOC added required versions of python, numpy and scipy to install documentation. Closes issue #579
+  DOC website: added link to 0.10 docs under support.
+  FIX: broken build / tests
+  Move preprocessing.py to sklearn/.
+  preprocessing/__init__.py -> preprocessing/preprocessing.py
+  ENH: Default in Vectorizer ""None"" as @ogrisel suggested
+  ..."
+2012-03-07 18:25:25+01:00;1;86f621b1c738bd2b6d50a663b117500eae2fd63f;ENH add DictVectorizer
+2012-03-17 00:48:28+01:00;2;49e29534d5ee0d2ef642c58b7166221e405091d7;"ENH optimize DictVectorizer (sparse case)
+
+Constructing a 7944 × 9491 coo_matrix (55608 non-empty elements)
+is about 3x faster than with the old lil_matrix-based code."
+2012-03-18 18:09:43+01:00;2;20b04689d9ae04b2bce6749d258449c52287f549;"Merge branch 'dictvectorizer'
+
+Conflicts:
+	doc/modules/feature_extraction.rst"
+2012-03-18 20:30:22+01:00;2;0d1777c18122d45da4ce4455e8e0ac869faf42fe;Merge remote branch 'upstream/master' into sgd-weight-vector
+2012-03-19 10:00:34+01:00;2;c831764bf840a176dcab433dc1ea0fc0c7ad7052;Merge branch 'master' into gradient_boosting
+2012-03-22 17:12:36+01:00;2;0d63d785e7e099d7a5170dd6d25d63ebdd8d31cc;"Merge branch 'master' into WIP_tut
+
+Conflicts:
+	examples/linear_model/plot_ols.py"
+2012-05-06 17:10:55+02:00;2;1cf2faae9e2a39487726efdaab3d63f015274b6c;"BUG: fix assert_greater
+
+And add a test: when doing a backport, it is always wise to check ones
+implementation against the original"
+2012-06-07 22:14:45+02:00;2;7a585e46ea96624b633fc8613eff996352e83b1f;ENH more tests
+2012-06-26 10:05:43-07:00;2;549d82f72ef24c11665211201f5f27d0551520c6;"Merge pull request #893 from amueller/common_test
+
+MRG factorize common tests."
+2012-06-29 14:07:11+02:00;2;55dbb493ecf7edb5e5f2916edd02160ac467a311;"Merge branch 'master' of github.com:scikit-learn/scikit-learn into tree-mo
+
+Conflicts:
+	sklearn/tree/_tree.c"
+2012-07-02 08:58:50+02:00;2;8792cbd6f76c46adc9b70ef5a18b2ecd06ee3e82;Merge remote branch 'upstream/master' into gbrt-huber
+2012-07-25 11:34:04+01:00;1;d8e30f1ca8dad740e8b936c9c8d3f094cf915810;"REF: hack to be able to share distutils utilities.
+
+We took the ugly trick from NumPy to separate build vs normal use of
+sklearn imports."
+2012-07-25 12:06:08-07:00;1;bb73ff8e17c4d20da6a3433dba9b5041e5e39fdf;"Merge pull request #1 from cournape/linking_arrayfuncs
+
+REF: hack to be able to share distutils utilities."
+2012-07-26 23:33:29+02:00;1;b5519f08dabcbd632ce930273af6f9265aac5b1b;"Merge branch 'linking_arrayfuncs'
+
+Conflicts:
+	setup.py
+	sklearn/__init__.py"
+2012-08-05 14:44:05+01:00;2;5c3853cceb81adb2d32d719ea4621f069b864eeb;Merge branch 'master' into fit_pairwise
+2012-08-29 19:08:02+02:00;2;7a5e118899f0f42f735c80ba7c258feb468b0b81;ENH add test for consistend predict_proba shape also in the two-class case.
+2012-09-02 13:50:40+03:00;2;ad339a4ec054521557151556ba07cd728b0f9467;"Merge branch 'master' into mixins
+
+Conflicts:
+	sklearn/tests/test_common.py"
+2012-10-18 08:53:24+02:00;2;6ac7fbfc97fc8ba92d0d097ec60939ad5ba50abc;"Merge branch 'master' into pr/975
+
+Conflicts:
+	sklearn/ensemble/gradient_boosting.py"
+2012-11-15 10:20:19+01:00;2;1f6d7e09ec5fd3d94017b76a368b0ede5096465d;Merge branch 'master' of https://github.com/jaquesgrobler/scikit-learn into fix_doc_clean
+2012-11-19 22:41:49+01:00;1;b2dcfdd0a837781923dab3ea96cc860e66babdc4;"ENH: update joblib to 0.7.0a
+
+Changelog is:
+
+    **Dropping support for Python 2.5 in favor of support for Python 3.0**
+
+    ENH: Parallel: Turn of pre-dispatch for already expanded lists
+
+    ENH: detect recursive sub-process spawning, as when people do not
+    protect the __main__ in scripts under Windows, and raise a useful
+    error.
+
+    ENH: Full python 3 support"
+2012-11-19 22:41:49+01:00;1;b2dcfdd0a837781923dab3ea96cc860e66babdc4;"ENH: update joblib to 0.7.0a
+
+Changelog is:
+
+    **Dropping support for Python 2.5 in favor of support for Python 3.0**
+
+    ENH: Parallel: Turn of pre-dispatch for already expanded lists
+
+    ENH: detect recursive sub-process spawning, as when people do not
+    protect the __main__ in scripts under Windows, and raise a useful
+    error.
+
+    ENH: Full python 3 support"
+2012-11-19 22:41:49+01:00;4;b2dcfdd0a837781923dab3ea96cc860e66babdc4;"ENH: update joblib to 0.7.0a
+
+Changelog is:
+
+    **Dropping support for Python 2.5 in favor of support for Python 3.0**
+
+    ENH: Parallel: Turn of pre-dispatch for already expanded lists
+
+    ENH: detect recursive sub-process spawning, as when people do not
+    protect the __main__ in scripts under Windows, and raise a useful
+    error.
+
+    ENH: Full python 3 support"
+2012-11-22 23:34:51+01:00;1;41a03a5093205fd5cc667eddac8836ea05b3f382;Merge https://github.com/scikit-learn/scikit-learn
+2012-11-22 23:34:51+01:00;1;41a03a5093205fd5cc667eddac8836ea05b3f382;Merge https://github.com/scikit-learn/scikit-learn
+2012-11-22 23:34:51+01:00;4;41a03a5093205fd5cc667eddac8836ea05b3f382;Merge https://github.com/scikit-learn/scikit-learn
+2012-11-22 23:34:51+01:00;2;41a03a5093205fd5cc667eddac8836ea05b3f382;Merge https://github.com/scikit-learn/scikit-learn
+2012-11-25 21:27:16+01:00;1;66df36291f1725e8dac83bb73a9528e1d13bbab8;Merge branch 'master' into gbrt-interactions
+2012-11-25 21:27:16+01:00;1;66df36291f1725e8dac83bb73a9528e1d13bbab8;Merge branch 'master' into gbrt-interactions
+2012-11-25 21:27:16+01:00;4;66df36291f1725e8dac83bb73a9528e1d13bbab8;Merge branch 'master' into gbrt-interactions
+2013-01-22 10:49:01-05:00;1;d365c1ba5febeb064f019017362dfbd0b9217c3b;use Sphinx searchindex.js
+2013-01-24 17:00:27-05:00;1;965b6e4fc79a44f4186b60f4e934a8c6309f3124;links for scipy, cleanup
+2012-03-15 13:35:42-07:00;1;1967a0b3236ab65e6a18d402753d344860d85b9c;P3K use six to have a python 2 & 3 compatible code base
+2013-02-17 19:52:21+01:00;1;42c7496c0cdf0fd137f3466f5a7b979a6e8e4680;Merge branch 'master' into gbrt-deviance-fix
+2013-02-17 19:52:21+01:00;1;42c7496c0cdf0fd137f3466f5a7b979a6e8e4680;Merge branch 'master' into gbrt-deviance-fix
+2013-03-18 21:01:45-07:00;2;461b58559aa5cab344409230688e216ae5383b14;PY3 fixing utf8 comments in svm through try/except and six.b
+2013-03-21 13:46:20+01:00;2;b556759a560650506da58e59f6a7c6a2c4bcb8f4;Merge branch 'pr/1790' -- Python 3 support from PyCon sprint
+2013-03-25 08:41:43+01:00;2;bf0c1a38bb01c138c354319d4d7cf5bf5fbffe67;Merge branch 'master' into pr/1798
+2013-04-23 17:16:09+02:00;14;707887d85841f987f1ce82028906a3490456d365;add instructions for editing Readme, and script needed for that
+2013-05-14 21:28:30+02:00;14;962e2e1d9946523785715e17474dae9d62d3b1dc;maintenance scripts added for machine learning maps - needed for modifying the map in future
+2013-07-06 07:53:37-07:00;14;eaac7aa19f8e3188b8eccc0be593ac2ae1c87a9f;fix conflicts with master
+2013-07-06 07:53:37-07:00;2;eaac7aa19f8e3188b8eccc0be593ac2ae1c87a9f;fix conflicts with master
+2013-07-10 12:17:01+10:00;1;c3f973950ab6144fd91d63f27f0cbd7714347b6c;ENH print number of fits in BaseSearchCV._fit
+2013-07-08 13:37:20+02:00;3;c806cdf7a1a094acdb204d93939bbddf6d6e280c;FIX: set random_state in adaboost
+2013-07-13 09:06:30+02:00;2;9b5cafe696fb815a4ad2a9ec2ea7980086dd15f4;WIP: catch ValueError only
+2013-07-13 23:06:30+02:00;1;10a4155c300991261f6753c7497cd668e72377d9;WIP: address @ogrisel comments (2)
+2013-07-22 03:44:01-07:00;3;239054d1409d05d828f918b6c4b3530568b1bfbd;"Merge pull request #2131 from glouppe/trees-v2
+
+[MRG] Complete rewrite of the tree module"
+2013-07-22 16:20:31+02:00;14;65cce1b43cedd39ba5644304b433b4af2a0a2101;fix merge conflict
+2013-07-22 16:20:31+02:00;3;65cce1b43cedd39ba5644304b433b4af2a0a2101;fix merge conflict
+2013-06-29 19:40:56+02:00;1;0e55dfe2023bc54b2490e3aefb9cbfafa18f87d3;"ENH fit_inverse_transform for FastICA
+
+Modeled after KernelPCA's parameter of the same name.
+
+Conflicts:
+	sklearn/decomposition/fastica_.py"
+2013-05-28 13:48:57+02:00;1;cdfaa825f574399b5af72238c4f26834e4a6cffc;Backport assert_warns and assert_no_warnings from np 1.7
+2013-08-07 09:47:08+02:00;3;a25e4364f102fc626e900431e1d054cc0f476e47;merge conflict fix
+2013-08-07 09:47:08+02:00;1;a25e4364f102fc626e900431e1d054cc0f476e47;merge conflict fix
+2013-08-24 19:04:11+03:00;1;fd3a816afb1b05eeb299560b29e06ebcb35f069e;"renamed supported_loss to _SUPPORTED_LOSS (constants)
+add test for deprecated warning"
+2013-08-24 14:00:48-07:00;1;f2f67e2b88cfa1b31cdfaf7040278136907259dd;"Merge pull request #2308 from pprett/gbrt-check-supported-loss
+
+GBRT checks if ``loss`` is in self.supported_loss"
+2013-07-23 12:59:32+02:00;1;74d395215bbd2009dc922967b41c43f5469942ce;ENH bagging meta-estimator
+2013-09-11 13:51:44+02:00;1;524daee76522f00b4fda1d857bf6d1ed9426b215;"Merge branch 'bagging'
+
+Fixes #2375."
+2013-10-28 16:23:05+01:00;1;15434800d722400400feab33f414bf290c6dde7a;Merge master in hc_linkage
+2013-11-25 14:51:52+01:00;1;99e32456580c6476004b92788386cd1413e78cf9;Merge branch 'master' into DOC_olivier_tut
+2013-11-25 14:51:52+01:00;1;99e32456580c6476004b92788386cd1413e78cf9;Merge branch 'master' into DOC_olivier_tut
+2013-10-23 14:36:42+02:00;1;d2f3a8a3dac90bd99009eada33b11282407c2522;ENH: refactor warnings 1
+2013-11-29 08:59:02-08:00;1;8b037addcce1138703750b746f715f2882d1c0ca;"Merge pull request #2541 from dengemann/fix_dot
+
+[MRG]: fix tests, centralize warnings and reset `__warningregistry__`"
+2013-12-01 20:48:49+01:00;1;09d7e979ce727a2871e443501e7ca71abc7ac843;Merge remote-tracking branch 'upstream/master' into pred_latency
+2013-12-04 15:27:37+01:00;1;699079e0db0774436ece2d530a1cbd9460781935;ENH: more explicit traceback + message in case of common failure on sparse input
+2013-12-05 09:28:33+01:00;1;54b03b35a9c213df6e68bf8135d8fd88383112a2;Merge remote-tracking branch 'upstream/master' into pred_latency
+2013-12-09 14:58:10+01:00;1;97392248b24df00854dfd91c56a41dcd6a42df43;"Merge branch 'master' into gbrt-enh-stackrec-greedy
+
+Conflicts:
+	sklearn/ensemble/tests/test_gradient_boosting.py"
+2013-12-17 15:03:13+01:00;1;6996bde28d91a6e202ac671816085a9460443496;whatsnew conflict fix
+2013-12-17 15:03:13+01:00;1;6996bde28d91a6e202ac671816085a9460443496;whatsnew conflict fix
+2013-12-20 19:04:34+01:00;1;8615684f511a39ed50f088f752aee094db11277a;ENH Upgrade to joblib 0.8.0a2
+2013-12-30 13:49:17+01:00;3;40024f6477a96ed5c3a5dc7b45521b88c55f9f03;ENH use nostests yield construct for better error reporting in common tests.
+2014-01-04 13:35:43+01:00;1;a5210cf50621d9792bbb6e27df5ae521a3c1b0c8;"Merge branch 'master' into gbrt-enh-stackrec-greedy
+
+Conflicts:
+	sklearn/tree/_tree.c"
+2014-01-04 13:35:43+01:00;3;a5210cf50621d9792bbb6e27df5ae521a3c1b0c8;"Merge branch 'master' into gbrt-enh-stackrec-greedy
+
+Conflicts:
+	sklearn/tree/_tree.c"
+2014-01-07 14:10:45+01:00;1;4cf9865e3d1647f872254ecd1762fbafe903afd0;Merge branch 'master' into DOC_olivier_tut
+2014-01-07 14:10:45+01:00;3;4cf9865e3d1647f872254ecd1762fbafe903afd0;Merge branch 'master' into DOC_olivier_tut
+2014-01-08 06:19:37-08:00;1;b8bea8e73333b190546ec1b0ef0d95ed776bc411;"Merge pull request #2570 from pprett/gbrt-enh-stackrec-greedy
+
+[MRG] Gradient Boosting enhancements"
+2014-01-15 11:47:26+01:00;1;1dcab455883a0e306c709adfb13f25eefe9bbda1;conflict fix
+2014-02-04 22:04:48+01:00;1;1ada65fea2f225e6ad42a1a10c185ccf46e05a7b;"Merge branch 'master' into hc_linkage
+
+Conflicts:
+	sklearn/cluster/tests/test_hierarchical.py"
+2014-02-04 22:04:48+01:00;3;1ada65fea2f225e6ad42a1a10c185ccf46e05a7b;"Merge branch 'master' into hc_linkage
+
+Conflicts:
+	sklearn/cluster/tests/test_hierarchical.py"
+2014-03-01 14:42:37-05:00;1;a83fddf01a90dab8b5c592f6fecdb735158840d7;Merge remote-tracking branch 'upstream/master' into rbmbranch
+2014-03-01 14:42:37-05:00;1;a83fddf01a90dab8b5c592f6fecdb735158840d7;Merge remote-tracking branch 'upstream/master' into rbmbranch
+2014-03-01 14:42:37-05:00;1;a83fddf01a90dab8b5c592f6fecdb735158840d7;Merge remote-tracking branch 'upstream/master' into rbmbranch
+2014-03-01 14:42:37-05:00;1;a83fddf01a90dab8b5c592f6fecdb735158840d7;Merge remote-tracking branch 'upstream/master' into rbmbranch
+2014-05-28 15:12:27+02:00;4;181ffb87ff87ed9098b7f711041dd9f5643e9a31;MAINT: joblib 0.8.0
+2014-05-28 15:40:31+02:00;4;1e64b7b95fa95f60e1432be6f8edcea874bbbcef;"Merge pull request #3212 from ogrisel/joblib-0.8.0
+
+MAINT: joblib 0.8.0"
+2014-06-24 11:09:38+02:00;1;6544ad27f93647dbe06965225211dbcbf27805ab;FIX ensure that matplotlib.use('Agg') is called first when building the docs
+2014-07-17 19:22:03+02:00;1;4b6768f368b14566fe8b6e5da469593f07ba199e;"Merge branch 'master' into theilsen
+
+Conflicts:
+	doc/modules/linear_model.rst"
+2014-07-17 19:22:03+02:00;4;4b6768f368b14566fe8b6e5da469593f07ba199e;"Merge branch 'master' into theilsen
+
+Conflicts:
+	doc/modules/linear_model.rst"
+2014-07-18 10:02:14+02:00;2;b080d93b5ea15111ee1a97f142e020dee661dbb6;ENH don't convert dataframes in grid search and cross-validation
+2014-07-18 10:02:14+02:00;1;b080d93b5ea15111ee1a97f142e020dee661dbb6;ENH don't convert dataframes in grid search and cross-validation
+2014-07-18 13:46:35+02:00;1;718f6ad19f90794e62f56d980c6e730a854e56d7;"split test_common.py into checks and test file.
+move dataset generation into estimator_checks"
+2014-07-19 22:08:54+02:00;2;2fcba229c4c97a689919f894c01814a47c01d841;"Merge remote-tracking branch 'upstream/master' into theilsen
+
+Conflicts:
+	sklearn/metrics/__init__.py
+	sklearn/metrics/metrics.py"
+2014-07-19 22:08:54+02:00;1;2fcba229c4c97a689919f894c01814a47c01d841;"Merge remote-tracking branch 'upstream/master' into theilsen
+
+Conflicts:
+	sklearn/metrics/__init__.py
+	sklearn/metrics/metrics.py"
+2014-07-19 22:08:54+02:00;1;2fcba229c4c97a689919f894c01814a47c01d841;"Merge remote-tracking branch 'upstream/master' into theilsen
+
+Conflicts:
+	sklearn/metrics/__init__.py
+	sklearn/metrics/metrics.py"
+2014-09-30 11:37:15+02:00;1;06701fcfe04b46b94e34628461f7d9c583b03969;ENH add a benchmark script for sparse input data
+2014-11-21 10:10:33+01:00;1;8621f00f6ff711fe3a4cfe59e6c0accb72d32f97;"Merge pull request #3173 from arjoly/sparse-tree
+
+[MRG] Sparse input support for decision tree and forest"
+2014-09-26 13:00:49+02:00;1;a98e0d361dd78a11a7c9c429ee5ccb02b4de8383;Moved some common code into helper function
+2015-01-20 16:08:58-05:00;1;e3e0827243b93b5a51893f39215d7284d5d319c6;FIX check (and enforce) that estimators can accept different dtypes.
+2015-02-13 17:13:59-05:00;1;cd931fa6ba1984a442a6346aa2ae9b2d7e55fb9e;"Merge pull request #4136 from amueller/test_dtypes_all
+
+[MRG+1] More robust input validation, more testing."
+2015-04-20 19:27:30-04:00;1;2910198f14059f4a0130068cb7daa77e9d0bea8f;votingclassifier
+2015-04-21 19:01:39-04:00;1;24f88b8d548e4d5f18bd507ef8fe67dcfd7153c3;added _check_proba method
+2015-04-30 13:16:05+02:00;1;b92ed8f2dc415d89f111d887f71faf2a32d1ef7c;"Merge pull request #4550 from amueller/common_test_refactoring
+
+[MRG+1] Common test refactoring"
+2015-05-08 09:21:36+02:00;1;9eb1964724bcfd15ea35ead476f3dcf2ad367bcf;"Merge pull request #4161 from rasbt/ensemble-classifier
+
+[MRG + 2] EnsembleClassifier implementation"
+2015-05-19 15:04:45-04:00;1;c5b395fb3e6b411d45bf1ad1b868ead7c3289af0;FIX / TST make cross_val_predict work on lists, test pass-through and compatibility with various input types.
+2015-05-20 13:42:23+02:00;1;db56cf7cf53e97f398e20d4ef22b2eacb68e5bce;"Merge pull request #4705 from amueller/cross_val_predict_input_types
+
+[MRG+2] make cross_val_predict work on lists"
+2015-07-04 16:05:02+05:18;1;3bd6132f255ba97fa1c31c1d7ed201a0d46e2127;FIX make sure empty target vectors are returned as binary
+2015-08-13 22:34:32+10:00;1;4c2d61a05115625808e67693f9c6ca16865ddcb4;"Merge pull request #4919 from rvraghav93/label_binarizer
+
+[MRG] MAINT Remove deprecated sequence of sequence support etc"
+2015-08-25 14:07:56+09:00;1;535536e537f9a8f1a8375a633fe35b4a5ad8661a;merge with upstream/master
+2015-08-30 10:48:16+01:00;1;c7795695d06622acc805e98c83c305de1cb5905f;Merge branch 'master' into pr_3651
+2015-08-30 10:48:16+01:00;1;c7795695d06622acc805e98c83c305de1cb5905f;Merge branch 'master' into pr_3651
+2015-08-30 10:48:16+01:00;1;c7795695d06622acc805e98c83c305de1cb5905f;Merge branch 'master' into pr_3651
+2015-08-30 10:48:16+01:00;1;c7795695d06622acc805e98c83c305de1cb5905f;Merge branch 'master' into pr_3651
+2015-08-30 10:48:16+01:00;1;c7795695d06622acc805e98c83c305de1cb5905f;Merge branch 'master' into pr_3651
+2015-08-30 11:54:40+01:00;1;fb58d37846f2baca48117b0fa52bce54a3cd3c0f;"Merge branch 'master' into pr_4009
+
+Conflicts:
+	sklearn/neighbors/ball_tree.c
+	sklearn/neighbors/dist_metrics.c
+	sklearn/neighbors/dist_metrics.pyx
+	sklearn/neighbors/kd_tree.c
+	sklearn/neighbors/tests/test_neighbors.py"
+2015-08-30 11:54:40+01:00;1;fb58d37846f2baca48117b0fa52bce54a3cd3c0f;"Merge branch 'master' into pr_4009
+
+Conflicts:
+	sklearn/neighbors/ball_tree.c
+	sklearn/neighbors/dist_metrics.c
+	sklearn/neighbors/dist_metrics.pyx
+	sklearn/neighbors/kd_tree.c
+	sklearn/neighbors/tests/test_neighbors.py"
+2015-08-30 11:54:40+01:00;1;fb58d37846f2baca48117b0fa52bce54a3cd3c0f;"Merge branch 'master' into pr_4009
+
+Conflicts:
+	sklearn/neighbors/ball_tree.c
+	sklearn/neighbors/dist_metrics.c
+	sklearn/neighbors/dist_metrics.pyx
+	sklearn/neighbors/kd_tree.c
+	sklearn/neighbors/tests/test_neighbors.py"
+2015-08-30 11:54:40+01:00;1;fb58d37846f2baca48117b0fa52bce54a3cd3c0f;"Merge branch 'master' into pr_4009
+
+Conflicts:
+	sklearn/neighbors/ball_tree.c
+	sklearn/neighbors/dist_metrics.c
+	sklearn/neighbors/dist_metrics.pyx
+	sklearn/neighbors/kd_tree.c
+	sklearn/neighbors/tests/test_neighbors.py"
+2015-08-24 19:52:40-04:00;5;2f099334f956e91d8ac1ae8f5f9c852488de1da8;"MAINT deprecate 1d input arrays for all estimators
+
+Passing 1D arrays to check_array, without setting `ensure_2d` to false now
+raises a deprecation warning before reshaping it. This will later throw an
+error.
+
+All Scaler classes also throw warnings when 1D arrays are passed.
+
+All unit tests/doctests are modified to ensure that no 1D arrays are passed,
+except in explicit 1D array tests where the warnings have been silenced.
+
+Additional tests are also included which check for different 1D array cases.
+
+2D array tests with one samples and one features are also added and where
+they failed, `check_array` call has been modified to give a more useful error
+message"
+2015-09-23 13:59:28+02:00;3;6966881328c256bbef37752cce23bbac8e23fb27;MAINT use inspect.signature for introspection
+2015-09-23 13:59:28+02:00;2;6966881328c256bbef37752cce23bbac8e23fb27;MAINT use inspect.signature for introspection
+2015-09-23 16:36:33+01:00;3;218e255a87a62053396cb8e848bcb60832f1cce9;"Merge pull request #5301 from ogrisel/python-3.5-inspect-deprecation
+
+[MRG+2] MAINT use inspect.signature for introspection"
+2015-09-23 16:36:33+01:00;2;218e255a87a62053396cb8e848bcb60832f1cce9;"Merge pull request #5301 from ogrisel/python-3.5-inspect-deprecation
+
+[MRG+2] MAINT use inspect.signature for introspection"
+2015-10-15 15:23:00-04:00;1;79fa25ade3f9f27d2d7ade7830686609c8d5e9f4;MAINT don't print things in testing.
+2015-10-16 09:10:49+02:00;1;330189376beb9709cf06f74179f3f1729bfcff9f;"Merge pull request #5413 from amueller/cleanup_tests
+
+Cleanup tests"
+2015-10-19 13:53:13+02:00;3;56796e42d03e5cf22689d897d2b5cae707ae91bf;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into patch-1
+
+Conflicts:
+	doc/whats_new.rst"
+2015-10-19 13:53:13+02:00;2;56796e42d03e5cf22689d897d2b5cae707ae91bf;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into patch-1
+
+Conflicts:
+	doc/whats_new.rst"
+2015-10-19 13:53:13+02:00;5;56796e42d03e5cf22689d897d2b5cae707ae91bf;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into patch-1
+
+Conflicts:
+	doc/whats_new.rst"
+2015-10-19 13:53:13+02:00;1;56796e42d03e5cf22689d897d2b5cae707ae91bf;"Merge branch 'master' of https://github.com/scikit-learn/scikit-learn into patch-1
+
+Conflicts:
+	doc/whats_new.rst"
+2015-10-17 17:16:30-05:00;1;92068ef7de92752ab14a1e601e021cda4a51149d;#5322: Wrote check_supervised_y_no_nan in estimator_checks
+2014-12-04 15:26:59-05:00;1;b52bae49b1c74d9c4f09a21963c63e980c356fb3;refactor mlp optimization methods into _fit_lbfgs and _fit_sgd, add Ctrl+C stop option for SGD
+2015-06-05 01:03:10+05:18;1;3f8743f47b61a269e8bfff2322cb544170976574;"Main Commits - Major
+--------------------
+
+* ENH Reogranize classes/fn from grid_search into search.py
+* ENH Reogranize classes/fn from cross_validation into split.py
+* ENH Reogranize cls/fn from cross_validation/learning_curve into validate.py
+
+* MAINT Merge _check_cv into check_cv inside the model_selection module
+* MAINT Update all the imports to point to the model_selection module
+* FIX use iter_cv to iterate throught the new style/old style cv objs
+* TST Add tests for the new model_selection members
+* ENH Wrap the old-style cv obj/iterables instead of using iter_cv
+
+* ENH Use scipy's binomial coefficient function comb for calucation of nCk
+* ENH Few enhancements to the split module
+* ENH Improve check_cv input validation and docstring
+* MAINT _get_test_folds(X, y, labels) --> _get_test_folds(labels)
+* TST if 1d arrays for X introduce any errors
+* ENH use 1d X arrays for all tests;
+* ENH X_10 --> X (global var)
+
+Minor
+-----
+
+* ENH _PartitionIterator --> _BaseCrossValidator;
+* ENH CVIterator --> CVIterableWrapper
+* TST Import the old SKF locally
+* FIX/TST Clean up the split module's tests.
+* DOC Improve documentation of the cv parameter
+* COSMIT consistently hyphenate cross-validation/cross-validator
+* TST Calculate n_samples from X
+* COSMIT Use separate lines for each import.
+* COSMIT cross_validation_generator --> cross_validator
+
+Commits merged manually
+-----------------------
+
+* FIX Document the random_state attribute in RandomSearchCV
+* MAINT Use check_cv instead of _check_cv
+* ENH refactor OVO decision function, use it in SVC for sklearn-like
+  decision_function shape
+* FIX avoid memory cost when sampling from large parameter grids
+
+ENH Major to Minor incremental enhancements to the model_selection
+
+Squashed commit messages - (For reference)
+
+Major
+-----
+
+* ENH p --> n_labels
+* FIX *ShuffleSplit: all float/invalid type errors at init and int error at split
+* FIX make PredefinedSplit accept test_folds in constructor; Cleanup docstrings
+* ENH+TST KFold: make rng to be generated at every split call for reproducibility
+* FIX/MAINT KFold: make shuffle a public attr
+* FIX Make CVIterableWrapper private.
+* FIX reuse len_cv instead of recalculating it
+* FIX Prevent adding *SearchCV estimators from the old grid_search module
+* re-FIX In all_estimators: the sorting to use only the 1st item (name)
+    To avoid collision between the old and the new GridSearch classes.
+* FIX test_validate.py: Use 2D X (1D X is being detected as a single sample)
+* MAINT validate.py --> validation.py
+* MAINT make the submodules private
+* MAINT Support old cv/gs/lc until 0.19
+* FIX/MAINT n_splits --> get_n_splits
+* FIX/TST test_logistic.py/test_ovr_multinomial_iris:
+    pass predefined folds as an iterable
+* MAINT expose BaseCrossValidator
+* Update the model_selection module with changes from master
+  - From #5161
+  -  - MAINT remove redundant p variable
+  -  - Add check for sparse prediction in cross_val_predict
+  - From #5201 - DOC improve random_state param doc
+  - From #5190 - LabelKFold and test
+  - From #4583 - LabelShuffleSplit and tests
+  - From #5300 - shuffle the `labels` not the `indxs` in LabelKFold + tests
+  - From #5378 - Make the GridSearchCV docs more accurate.
+  - From #5458 - Remove shuffle from LabelKFold
+  - From #5466(#4270) - Gaussian Process by Jan Metzen
+  - From #4826 - Move custom error / warnings into sklearn.exception
+
+Minor
+-----
+
+* ENH Make the KFold shuffling test stronger
+* FIX/DOC Use the higher level model_selection module as ref
+* DOC in check_cv ""y : array-like, optional""
+* DOC a supervised learning problem --> supervised learning problems
+* DOC cross-validators --> cross-validation strategies
+* DOC Correct Olivier Grisel's name ;)
+* MINOR/FIX cv_indices --> kfold
+* FIX/DOC Align the 'See also' section of the new KFold, LeaveOneOut
+* TST/FIX imports on separate lines
+* FIX use __class__ instead of classmethod
+* TST/FIX import directly from model_selection
+* COSMIT Relocate the random_state documentation
+* COSMIT remove pass
+* MAINT Remove deprecation warnings from old tests
+* FIX correct import at test_split
+* FIX/MAINT Move P_sparse, X, y defns to top; rm unused W_sparse, X_sparse
+* FIX random state to avoid doctest failure
+* TST n_splits and split wrapping of _CVIterableWrapper
+* FIX/MAINT Use multilabel indicator matrix directly
+* TST/DOC clarify why we conflate classes 0 and 1
+* DOC add comment that this was taken from BaseEstimator
+* FIX use of labels is not needed in stratified k fold
+* Fix cross_validation reference
+* Fix the labels param doc
+
+FIX/DOC/MAINT Addressing the review comments by Arnaud and Andy
+
+COSMIT Sort the members alphabetically
+COSMIT len_cv --> n_splits
+COSMIT Merge 2 if; FIX Use kwargs
+DOC Add my name to the authors :D
+DOC make labels parameter consistent
+FIX Remove hack for boolean indices; + COSMIT idx --> indices; DOC Add Returns
+COSMIT preds --> predictions
+DOC Add Returns and neatly arrange X, y, labels
+FIX idx(s)/ind(s)--> indice(s)
+COSMIT Merge if and else to elif
+COSMIT n --> n_samples
+COSMIT Use bincount only once
+COSMIT cls --> class_i / class_i (ith class indices) -->
+perm_indices_class_i
+
+FIX/ENH/TST Addressing the final reviews
+
+COSMIT c --> count
+FIX/TST make check_cv raise ValueError for string cv value
+TST nested cv (gs inside cross_val_score) works for diff cvs
+FIX/ENH Raise ValueError when labels is None for label based cvs;
+TST if labels is being passed correctly to the cv and that the
+ValueError is being propagated to the cross_val_score/predict and grid
+search
+FIX pass labels to cross_val_score
+FIX use make_classification
+DOC Add Returns; COSMIT Remove scaffolding
+TST add a test to check the _build_repr helper
+REVERT the old GS/RS should also be tested by the common tests.
+ENH Add a tuple of all/label based CVS
+FIX raise VE even at get_n_splits if labels is None
+FIX Fabian's comments
+PEP8"
+2015-06-05 01:03:10+05:18;2;3f8743f47b61a269e8bfff2322cb544170976574;"Main Commits - Major
+--------------------
+
+* ENH Reogranize classes/fn from grid_search into search.py
+* ENH Reogranize classes/fn from cross_validation into split.py
+* ENH Reogranize cls/fn from cross_validation/learning_curve into validate.py
+
+* MAINT Merge _check_cv into check_cv inside the model_selection module
+* MAINT Update all the imports to point to the model_selection module
+* FIX use iter_cv to iterate throught the new style/old style cv objs
+* TST Add tests for the new model_selection members
+* ENH Wrap the old-style cv obj/iterables instead of using iter_cv
+
+* ENH Use scipy's binomial coefficient function comb for calucation of nCk
+* ENH Few enhancements to the split module
+* ENH Improve check_cv input validation and docstring
+* MAINT _get_test_folds(X, y, labels) --> _get_test_folds(labels)
+* TST if 1d arrays for X introduce any errors
+* ENH use 1d X arrays for all tests;
+* ENH X_10 --> X (global var)
+
+Minor
+-----
+
+* ENH _PartitionIterator --> _BaseCrossValidator;
+* ENH CVIterator --> CVIterableWrapper
+* TST Import the old SKF locally
+* FIX/TST Clean up the split module's tests.
+* DOC Improve documentation of the cv parameter
+* COSMIT consistently hyphenate cross-validation/cross-validator
+* TST Calculate n_samples from X
+* COSMIT Use separate lines for each import.
+* COSMIT cross_validation_generator --> cross_validator
+
+Commits merged manually
+-----------------------
+
+* FIX Document the random_state attribute in RandomSearchCV
+* MAINT Use check_cv instead of _check_cv
+* ENH refactor OVO decision function, use it in SVC for sklearn-like
+  decision_function shape
+* FIX avoid memory cost when sampling from large parameter grids
+
+ENH Major to Minor incremental enhancements to the model_selection
+
+Squashed commit messages - (For reference)
+
+Major
+-----
+
+* ENH p --> n_labels
+* FIX *ShuffleSplit: all float/invalid type errors at init and int error at split
+* FIX make PredefinedSplit accept test_folds in constructor; Cleanup docstrings
+* ENH+TST KFold: make rng to be generated at every split call for reproducibility
+* FIX/MAINT KFold: make shuffle a public attr
+* FIX Make CVIterableWrapper private.
+* FIX reuse len_cv instead of recalculating it
+* FIX Prevent adding *SearchCV estimators from the old grid_search module
+* re-FIX In all_estimators: the sorting to use only the 1st item (name)
+    To avoid collision between the old and the new GridSearch classes.
+* FIX test_validate.py: Use 2D X (1D X is being detected as a single sample)
+* MAINT validate.py --> validation.py
+* MAINT make the submodules private
+* MAINT Support old cv/gs/lc until 0.19
+* FIX/MAINT n_splits --> get_n_splits
+* FIX/TST test_logistic.py/test_ovr_multinomial_iris:
+    pass predefined folds as an iterable
+* MAINT expose BaseCrossValidator
+* Update the model_selection module with changes from master
+  - From #5161
+  -  - MAINT remove redundant p variable
+  -  - Add check for sparse prediction in cross_val_predict
+  - From #5201 - DOC improve random_state param doc
+  - From #5190 - LabelKFold and test
+  - From #4583 - LabelShuffleSplit and tests
+  - From #5300 - shuffle the `labels` not the `indxs` in LabelKFold + tests
+  - From #5378 - Make the GridSearchCV docs more accurate.
+  - From #5458 - Remove shuffle from LabelKFold
+  - From #5466(#4270) - Gaussian Process by Jan Metzen
+  - From #4826 - Move custom error / warnings into sklearn.exception
+
+Minor
+-----
+
+* ENH Make the KFold shuffling test stronger
+* FIX/DOC Use the higher level model_selection module as ref
+* DOC in check_cv ""y : array-like, optional""
+* DOC a supervised learning problem --> supervised learning problems
+* DOC cross-validators --> cross-validation strategies
+* DOC Correct Olivier Grisel's name ;)
+* MINOR/FIX cv_indices --> kfold
+* FIX/DOC Align the 'See also' section of the new KFold, LeaveOneOut
+* TST/FIX imports on separate lines
+* FIX use __class__ instead of classmethod
+* TST/FIX import directly from model_selection
+* COSMIT Relocate the random_state documentation
+* COSMIT remove pass
+* MAINT Remove deprecation warnings from old tests
+* FIX correct import at test_split
+* FIX/MAINT Move P_sparse, X, y defns to top; rm unused W_sparse, X_sparse
+* FIX random state to avoid doctest failure
+* TST n_splits and split wrapping of _CVIterableWrapper
+* FIX/MAINT Use multilabel indicator matrix directly
+* TST/DOC clarify why we conflate classes 0 and 1
+* DOC add comment that this was taken from BaseEstimator
+* FIX use of labels is not needed in stratified k fold
+* Fix cross_validation reference
+* Fix the labels param doc
+
+FIX/DOC/MAINT Addressing the review comments by Arnaud and Andy
+
+COSMIT Sort the members alphabetically
+COSMIT len_cv --> n_splits
+COSMIT Merge 2 if; FIX Use kwargs
+DOC Add my name to the authors :D
+DOC make labels parameter consistent
+FIX Remove hack for boolean indices; + COSMIT idx --> indices; DOC Add Returns
+COSMIT preds --> predictions
+DOC Add Returns and neatly arrange X, y, labels
+FIX idx(s)/ind(s)--> indice(s)
+COSMIT Merge if and else to elif
+COSMIT n --> n_samples
+COSMIT Use bincount only once
+COSMIT cls --> class_i / class_i (ith class indices) -->
+perm_indices_class_i
+
+FIX/ENH/TST Addressing the final reviews
+
+COSMIT c --> count
+FIX/TST make check_cv raise ValueError for string cv value
+TST nested cv (gs inside cross_val_score) works for diff cvs
+FIX/ENH Raise ValueError when labels is None for label based cvs;
+TST if labels is being passed correctly to the cv and that the
+ValueError is being propagated to the cross_val_score/predict and grid
+search
+FIX pass labels to cross_val_score
+FIX use make_classification
+DOC Add Returns; COSMIT Remove scaffolding
+TST add a test to check the _build_repr helper
+REVERT the old GS/RS should also be tested by the common tests.
+ENH Add a tuple of all/label based CVS
+FIX raise VE even at get_n_splits if labels is None
+FIX Fabian's comments
+PEP8"
+2015-06-05 01:03:10+05:18;2;3f8743f47b61a269e8bfff2322cb544170976574;"Main Commits - Major
+--------------------
+
+* ENH Reogranize classes/fn from grid_search into search.py
+* ENH Reogranize classes/fn from cross_validation into split.py
+* ENH Reogranize cls/fn from cross_validation/learning_curve into validate.py
+
+* MAINT Merge _check_cv into check_cv inside the model_selection module
+* MAINT Update all the imports to point to the model_selection module
+* FIX use iter_cv to iterate throught the new style/old style cv objs
+* TST Add tests for the new model_selection members
+* ENH Wrap the old-style cv obj/iterables instead of using iter_cv
+
+* ENH Use scipy's binomial coefficient function comb for calucation of nCk
+* ENH Few enhancements to the split module
+* ENH Improve check_cv input validation and docstring
+* MAINT _get_test_folds(X, y, labels) --> _get_test_folds(labels)
+* TST if 1d arrays for X introduce any errors
+* ENH use 1d X arrays for all tests;
+* ENH X_10 --> X (global var)
+
+Minor
+-----
+
+* ENH _PartitionIterator --> _BaseCrossValidator;
+* ENH CVIterator --> CVIterableWrapper
+* TST Import the old SKF locally
+* FIX/TST Clean up the split module's tests.
+* DOC Improve documentation of the cv parameter
+* COSMIT consistently hyphenate cross-validation/cross-validator
+* TST Calculate n_samples from X
+* COSMIT Use separate lines for each import.
+* COSMIT cross_validation_generator --> cross_validator
+
+Commits merged manually
+-----------------------
+
+* FIX Document the random_state attribute in RandomSearchCV
+* MAINT Use check_cv instead of _check_cv
+* ENH refactor OVO decision function, use it in SVC for sklearn-like
+  decision_function shape
+* FIX avoid memory cost when sampling from large parameter grids
+
+ENH Major to Minor incremental enhancements to the model_selection
+
+Squashed commit messages - (For reference)
+
+Major
+-----
+
+* ENH p --> n_labels
+* FIX *ShuffleSplit: all float/invalid type errors at init and int error at split
+* FIX make PredefinedSplit accept test_folds in constructor; Cleanup docstrings
+* ENH+TST KFold: make rng to be generated at every split call for reproducibility
+* FIX/MAINT KFold: make shuffle a public attr
+* FIX Make CVIterableWrapper private.
+* FIX reuse len_cv instead of recalculating it
+* FIX Prevent adding *SearchCV estimators from the old grid_search module
+* re-FIX In all_estimators: the sorting to use only the 1st item (name)
+    To avoid collision between the old and the new GridSearch classes.
+* FIX test_validate.py: Use 2D X (1D X is being detected as a single sample)
+* MAINT validate.py --> validation.py
+* MAINT make the submodules private
+* MAINT Support old cv/gs/lc until 0.19
+* FIX/MAINT n_splits --> get_n_splits
+* FIX/TST test_logistic.py/test_ovr_multinomial_iris:
+    pass predefined folds as an iterable
+* MAINT expose BaseCrossValidator
+* Update the model_selection module with changes from master
+  - From #5161
+  -  - MAINT remove redundant p variable
+  -  - Add check for sparse prediction in cross_val_predict
+  - From #5201 - DOC improve random_state param doc
+  - From #5190 - LabelKFold and test
+  - From #4583 - LabelShuffleSplit and tests
+  - From #5300 - shuffle the `labels` not the `indxs` in LabelKFold + tests
+  - From #5378 - Make the GridSearchCV docs more accurate.
+  - From #5458 - Remove shuffle from LabelKFold
+  - From #5466(#4270) - Gaussian Process by Jan Metzen
+  - From #4826 - Move custom error / warnings into sklearn.exception
+
+Minor
+-----
+
+* ENH Make the KFold shuffling test stronger
+* FIX/DOC Use the higher level model_selection module as ref
+* DOC in check_cv ""y : array-like, optional""
+* DOC a supervised learning problem --> supervised learning problems
+* DOC cross-validators --> cross-validation strategies
+* DOC Correct Olivier Grisel's name ;)
+* MINOR/FIX cv_indices --> kfold
+* FIX/DOC Align the 'See also' section of the new KFold, LeaveOneOut
+* TST/FIX imports on separate lines
+* FIX use __class__ instead of classmethod
+* TST/FIX import directly from model_selection
+* COSMIT Relocate the random_state documentation
+* COSMIT remove pass
+* MAINT Remove deprecation warnings from old tests
+* FIX correct import at test_split
+* FIX/MAINT Move P_sparse, X, y defns to top; rm unused W_sparse, X_sparse
+* FIX random state to avoid doctest failure
+* TST n_splits and split wrapping of _CVIterableWrapper
+* FIX/MAINT Use multilabel indicator matrix directly
+* TST/DOC clarify why we conflate classes 0 and 1
+* DOC add comment that this was taken from BaseEstimator
+* FIX use of labels is not needed in stratified k fold
+* Fix cross_validation reference
+* Fix the labels param doc
+
+FIX/DOC/MAINT Addressing the review comments by Arnaud and Andy
+
+COSMIT Sort the members alphabetically
+COSMIT len_cv --> n_splits
+COSMIT Merge 2 if; FIX Use kwargs
+DOC Add my name to the authors :D
+DOC make labels parameter consistent
+FIX Remove hack for boolean indices; + COSMIT idx --> indices; DOC Add Returns
+COSMIT preds --> predictions
+DOC Add Returns and neatly arrange X, y, labels
+FIX idx(s)/ind(s)--> indice(s)
+COSMIT Merge if and else to elif
+COSMIT n --> n_samples
+COSMIT Use bincount only once
+COSMIT cls --> class_i / class_i (ith class indices) -->
+perm_indices_class_i
+
+FIX/ENH/TST Addressing the final reviews
+
+COSMIT c --> count
+FIX/TST make check_cv raise ValueError for string cv value
+TST nested cv (gs inside cross_val_score) works for diff cvs
+FIX/ENH Raise ValueError when labels is None for label based cvs;
+TST if labels is being passed correctly to the cv and that the
+ValueError is being propagated to the cross_val_score/predict and grid
+search
+FIX pass labels to cross_val_score
+FIX use make_classification
+DOC Add Returns; COSMIT Remove scaffolding
+TST add a test to check the _build_repr helper
+REVERT the old GS/RS should also be tested by the common tests.
+ENH Add a tuple of all/label based CVS
+FIX raise VE even at get_n_splits if labels is None
+FIX Fabian's comments
+PEP8"
+2015-10-23 19:22:21+02:00;1;965a71517f2f06d1311ae1666a784d60f0832105;"Merge pull request #5214 from glennq/mlp_refactoring
+
+[MRG + 2] Mlp with adam, nesterov's momentum, early stopping"
+2015-10-21 17:05:19+02:00;1;986fb60947f91306d9dcf8d09a321ba52f4417af;C file removal + cython build + Travis build cache
+2015-11-11 11:41:18-05:00;1;f49a558162d2acd07ab206f72716e00e6cbf2e6d;"Merge pull request #5492 from arthurmensch/remove_cython
+
+[MRG + 2] Removing generated C files, adding build cache to Travis"
+2015-12-17 22:49:20+05:18;1;0d597c02c5b09a21195bbe515467844f63918132;"Solves issue #5715: enables pandas input to log_loss
+
+Enable pandas input to log_loss function
+Added a regression test. Correct the check_array function in log_loss"
+2015-12-31 18:23:11+01:00;1;4afbccedd3ced50e9b4019a2509df8eacdc1c7ba;"Merge pull request #6104 from maniteja123/issue5715
+
+[MRG+1] Enable pandas input to log_loss"
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;3;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;4;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;2;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;2;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;2;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;3;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;6;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-06 14:41:22+00:00;1;ef307ecf9c9a9e47aa76a318fab863dcec1b688c;Correct typo in ``decomposition.rst``. Merge latest changes.
+2016-02-18 18:36:27+08:00;2;22d7cd5cd07e301461d635aa4235c7d10135a4a9;Make dump_svmlight_file support sparse y
+2016-03-23 19:19:43+01:00;2;eed5fc5f0f84d1152604858837fa807e5716ea36;"Merge pull request #6395 from yenchenlin1994/make-dump_svmlight_file-support-sparse-y
+
+[MRG+1] Make dump_svmlight_file support sparse y (fixes #6301)"
+2016-04-14 16:30:47+02:00;1;0625e0384e320e563e30aab966243f1808759168;"Integration of the new GaussianMixture class.
+
+Depreciation of the GMM class.
+
+Modification of the GaussianMixture class.
+  Some functions from the original GSoC code have been removed, renamed or simplified.
+  Some new functions have been introduced (as the 'check_parameters' function).
+  Some parameters names have been changed :
+   - covars_ -> covariances_ : to be coherent with sklearn/covariances
+  Addition of the parameter 'warm_start' allowing to fit data by using the previous computation.
+
+The old examples have been modified to replace the deprecated GMM class by the new GaussianMixture class.
+Every exemple use the eigenvectors norm to solve the scale ellipse problem (Issues 6548).
+
+Correction of all commentaries from the PR
+- Rename MixtureBase -> BaseMixture
+- Remove n_features_
+- Fix some problems
+- Add some tests
+
+Correction of the bic/aic test.
+
+Fix the test_check_means and test_check_covariances.
+
+Remove all references to the deprecated GMM class.
+
+Remove initialized_.
+Add and correct docstring.
+
+Correct the order of random_state.
+
+Fix small typo.
+
+Some fix in prevision of the integration of the new BayesianGaussianMixture class.
+
+Modification in preparation of the integration of the BayesianGaussianMixture class.
+Add 'best_n_iter' attribute.
+Fix some bugs and tests.
+
+Change the parameter order in the documentation.
+
+Change best_n_iter_ name to n_iter_.
+
+Fix of the warm_start problem.
+Fix the divergence error message.
+Correction of the random state init in the test file.
+Fix the testing problems.
+
+Update and add comments into the monotonic test."
+2016-04-22 00:23:58+02:00;1;6bc346bbe7bdc30809ad1557b0f26e4afaf0d32b;"Merge pull request #6666 from tguillemot/GSoC-GMM-new
+
+[MRG+1] Integration of GSoC2015 Gaussian Mixture (first step)"
+2016-06-02 16:34:16+10:00;1;814223cbfd9552f1ca5925b291616006f1d269a4;"[MRG+1] FIX support memmap scalars as CV scores (#6789)
+
+* FIX support memmap scalars as CV scores
+
+* FIX test for Python 3.5 and NumPy 1.12"
+2016-06-02 16:34:16+10:00;1;814223cbfd9552f1ca5925b291616006f1d269a4;"[MRG+1] FIX support memmap scalars as CV scores (#6789)
+
+* FIX support memmap scalars as CV scores
+
+* FIX test for Python 3.5 and NumPy 1.12"
+2016-06-16 04:23:04+02:00;1;afd5d18b0cfe1512a4a8f99835c693b3724cf6ed;"[MRG] ENH Restructure grid_scores_ into a dict of 1D arrays
+
+Also, DOC what's new section for model_selection changes"
+2016-07-17 20:31:16+02:00;1;e0d501f3109e60f9fec12d4d4b4f6c74a0ff75ef;"Joblib 0.10.0 (#6985)
+
+* joblib 0.10.0
+
+* LC_ALL=C is necessary for sed"
+2016-08-30 09:35:11+02:00;1;be94946d5ff13810343728e130b2f42b3c7bf03e;Update joblib to 0.10.2
+2016-08-31 09:58:26+02:00;1;a4f632f02f0e66bf3533e5df64e936d87f6e57ee;"[MRG] Update joblib to 0.10.2 (#7290)
+
+* Update joblib to 0.10.2
+
+* Exclude sklearn/externals from diff for flake8"
+2016-09-12 13:47:08+10:00;1;802814ee015c604c98813f7e95d879ab49b4da44;make export_graphviz return string if out_file is None
+2016-09-12 14:38:17+10:00;1;95655ac54205dfd5a6c7da2dec3720f522a1e306;fix lint issues
+2016-09-27 12:14:33+02:00;1;b444cc9c6457590b33b365185b3eafb0d312b9be;"[MRG+2] Timing and training score in GridSearchCV (#7325)
+
+* Resolved issue #6894 and #6895:
+    Now *SearchCV.results_ includes both timing and training scores.
+
+wrote new test (sklearn/model_selection/test_search.py)
+and new doctest (sklearn/model_selection/_search.py)
+added a few more lines in the docstring of GridSearchCV and RandomizedSearchCV.
+Revised code according to suggestions.
+Add a few more lines to test_grid_search_results():
+    1. check test_rank_score always >= 1
+    2. check all regular scores (test/train_mean/std_score) and timing >= 0
+    3. check all regular scores <= 1
+Note that timing can be greater than 1 in general, and std of regular scores
+always <= 1 because the scores are bounded between 0 and 1.
+
+* ENH/FIX timing and training score.
+
+* ENH separate fit / score times
+* Make score_time=0 if errored; Ignore warnings in test
+* Cleanup docstrings
+* ENH Use helper to store the results
+* Move fit time computation to else of try...except...else
+* DOC readable sample scores
+* COSMIT Add a commnent on why time test is >= 0 instead of > 0
+  (Windows time.time precision is not accurate enought to be non-zero
+   for trivial fits)
+
+* Convey that times are in seconds"
+2016-12-03 15:56:22-05:00;1;04b67e2bcd26bfc8ce50b6c4b61bd6333809ed62;"[MRG+1] Fix estimators to work if sample_weight parameter is pandas Series type (#7825)
+
+* addressed comments in the PR about parameters in check_array
+
+* update the test case for the evaluation of estimators with pandas series
+
+* bug fix, need to check for *not* None explicitly
+
+* updated with isinstance check if the documentation says there is acceptance of floats
+
+* ran pep8 linter on modified files
+
+* moving the test case to estimators_check
+
+* add a predict function into the testing pandas.Series class
+
+* avoid running anything beyond the newly added meta checks
+
+* check if pandas is installed before running the specific test
+
+* changed the order of the try-catch to check for sample_weight param beforehand
+
+* pass on import error rather than printing something to std out
+
+* improve test case naming and pd.Series check in the bad estimator class
+
+* address a pep8 linter error with unused import
+
+* pep8 warning disabled for potential unused import
+
+* throw a warning when SkipTest is raised
+
+* add a SkipTestWarning
+
+* updated the whats_new.rst with this issue
+
+* rebase and fix a spacing issue"
+2016-12-29 02:46:53+01:00;1;986a49bbe018aa8060f53c146fc06f278f80b7a6;"FIX Split data using _safe_split in _permutaion_test_score (#5697)
+
+Squashed commits:
+[94fd9f4] split data using _safe_split in _permutaion_test_scorer
+[522053b] adding test case test_permutation_test_score_pandas() to check if permutation_test_score plays nice with pandas dataframe/series
+[21b23ce] running test_permutation_test_score_pandas on iris data to prevent warnings.
+[15a48bf] adding safe_indexing to _shuffle function
+[9ea5c9e] adding test case test_permutation_test_score_pandas() to check if permutation_test_score plays nice with pandas dataframe/series
+[3cf5e8f] split  data using _safe_split in _permutaion_test_scorer to fix error when using Pandas DataFrame/Series"
+2017-03-07 11:20:08+01:00;2;cee5a383bb7bed814ccff77697d0330fe6b309be;"[MRG] Update joblib to 0.11 (#8492)
+
+Use pip rather than easy_install in copy_joblib.sh. Also need to remove joblib/testing.py to avoid pytest dependency."
+2017-04-03 18:38:53+02:00;1;fc2f24927fc37d7e42917369f17de045b14c59b5;"[MRG+1] ENH/FIX Introduce min_impurity_decrease param for early stopping based on impurity; Deprecate min_impurity_split (#8449)
+
+[MRG+2] ENH/FIX Introduce min_impurity_decrease param for early stopping based on impurity; Deprecate min_impurity_split"
+2017-06-08 21:42:17+10:00;1;ee88cf44ea533803849379f48bd44fcdefc14a93;"[MRG+1] Option to suppress validation for finiteness (#7548)
+
+* ENH add suppress validation option
+
+* TST skip problematic doctest
+
+* Rename SUPPRESS_VALIDATION to PRESUME_FINITE
+
+* Change PRESUME_ to ASSUME_ for convention's sake
+
+* DOC add note regarding assert_all_finite
+
+* ENH add set_config context manager for ASSUME_FINITE
+
+* Make ASSUME_FINITE private and provide get_config
+
+* Fix ImportError due to incomplete change in last commit
+
+* TST/DOC tests and more cautious documentation for set_config
+
+* DOC what's new entry for validation suppression
+
+* context manager is now config_context; set_config affects global config
+
+* Rename missed set_config to config_context
+
+* Fix mis-named test
+
+* Mention set_config in narrative docs
+
+* More explicit about limmited restoration of context
+
+* Handle case where error raised in config_context
+
+* Reset all settings after exiting context manager"
+2017-07-07 17:12:31+02:00;2;a08555a2384884c03d5deb509192a052c06caa85;"[MRG + 2] ENH Allow `cross_val_score`, `GridSearchCV` et al. to evaluate on multiple metrics (#7388)
+
+* ENH cross_val_score now supports multiple metrics
+
+* DOCFIX permutation_test_score
+
+* ENH validate multiple metric scorers
+
+* ENH Move validation of multimetric scoring param out
+
+* ENH GridSearchCV and RandomizedSearchCV now support multiple metrics
+
+* EXA Add an example demonstrating the multiple metric in GridSearchCV
+
+* ENH Let check_multimetric_scoring tell if its multimetric or not
+
+* FIX For single metric name of scorer should remain 'score'
+
+* ENH validation_curve and learning_curve now support multiple metrics
+
+* MNT move _aggregate_score_dicts helper into _validation.py
+
+* TST More testing/ Fixing scores to the correct values
+
+* EXA Add cross_val_score to multimetric example
+
+* Rename to multiple_metric_evaluation.py
+
+* MNT Remove scaffolding
+
+* FIX doctest imports
+
+* FIX wrap the scorer and unwrap the score when using _score() in rfe
+
+* TST Cleanup the tests. Test for is_multimetric too
+
+* TST Make sure it registers as single metric when scoring is of that type
+
+* PEP8
+
+* Don't use dict comprehension to make it work in python2.6
+
+* ENH/FIX/TST grid_scores_ should not be available for multimetric evaluation
+
+* FIX+TST delegated methods NA when multimetric is enabled...
+
+TST Add general tests to GridSearchCV and RandomizedSearchCV
+
+* ENH add option to disable delegation on multimetric scoring
+
+* Remove old function from __all__
+
+* flake8
+
+* FIX revert disable_on_multimetric
+
+* stash
+
+* Fix incorrect rebase
+
+* [ci skip]
+
+* Make sure refit works as expected and remove irrelevant tests
+
+* Allow passing standard scorers by name in multimetric scorers
+
+* Fix example
+
+* flake8
+
+* Address reviews
+
+* Fix indentation
+
+* Ensure {'acc': 'accuracy'} and ['precision'] are valid inputs
+
+* Test that for single metric, 'score' is a key
+
+* Typos
+
+* Fix incorrect rebase
+
+* Compare multimetric grid search with multiple single metric searches
+
+* Test X, y list and pandas input; Test multimetric for unsupervised grid search
+
+* Fix tests; Unsupervised multimetric gs will not pass until #8117 is merged
+
+* Make a plot of Precision vs ROC AUC for RandomForest varying the n_estimators
+
+* Add example to grid_search.rst
+
+* Use the classic tuning of C param in SVM instead of estimators in RF
+
+* FIX Remove scoring arg in deafult scorer test
+
+* flake8
+
+* Search for min_samples_split in DTC; Also show f-score
+
+* REVIEW Make check_multimetric_scoring private
+
+* FIX Add more samples to see if 3% mismatch on 32 bit systems gets fixed
+
+* REVIEW Plot best score; Shorten legends
+
+* REVIEW/COSMIT multimetric --> multi-metric
+
+* REVIEW Mark the best scores of P/R scores too
+
+* Revert ""FIX Add more samples to see if 3% mismatch on 32 bit systems gets fixed""
+
+This reverts commit ba766d98353380a186fbc3dade211670ee72726d.
+
+* ENH Use looping for iid testing
+
+* FIX use param grid as scipy's stats dist in 0.12 do not accept seed
+
+* ENH more looping less code; Use small non-noisy dataset
+
+* FIX Use named arg after expanded args
+
+* TST More testing of the refit parameter
+
+* Test that in multimetric search refit to single metric, the delegated methods
+  work as expected.
+* Test that setting probability=False works with multimetric too
+* Test refit=False gives sensible error
+
+* COSMIT multimetric --> multi-metric
+
+* REV Correct example doc
+
+* COSMIT
+
+* REVIEW Make tests stronger; Fix bugs in _check_multimetric_scorer
+
+* REVIEW refit param: Raise for empty strings
+
+* TST Invalid refit params
+
+* REVIEW Use <scorer_name> alone; recall --> Recall
+
+* REV specify when we expect scorers to not be None
+
+* FLAKE8
+
+* REVERT multimetrics in learning_curve and validation_curve
+
+* REVIEW Simpler coding style
+
+* COSMIT
+
+* COSMIT
+
+* REV Compress example a bit. Move comment to top
+
+* FIX fit_grid_point's previous API must be preserved
+
+* Flake8
+
+* TST Use loop; Compare with single-metric
+
+* REVIEW Use dict-comprehension instead of helper
+
+* REVIEW Remove redundant test
+
+* Fix tests incorrect braces
+
+* COSMIT
+
+* REVIEW Use regexp
+
+* REV Simplify aggregation of score dicts
+
+* FIX precision and accuracy test
+
+* FIX doctest and flake8
+
+* TST the best_* attributes multimetric with single metric
+
+* Address @jnothman's review
+
+* Address more comments \o/
+
+* DOCFIXES
+
+* Fix use the validated fit_param from fit's arguments
+
+* Revert alpha to a lower value as before
+
+* Using def instead of lambda
+
+* Address @jnothman's review batch 1: Fix tests / Doc fixes
+
+* Remove superfluous tests
+
+* Remove more superfluous testing
+
+* TST/FIX loop over refit and check found n_clusters
+
+* Cosmetic touches
+
+* Use zip instead of manually listing the keys
+
+* Fix inverse_transform
+
+* FIX bug in fit_grid_point; Allow only single score
+
+TST if fit_grid_point works as intended
+
+* ENH Use only ROC-AUC and F1-score
+
+* Fix typos and flake8; Address Andy's reviews
+
+MNT Add a comment on why we do such a transpose + some fixes
+
+* ENH Better error messages for incorrect multimetric scoring values +...
+
+ENH Avoid exception traceback while using incorrect scoring string
+
+* Dict keys must be of string type only
+
+* 1. Better error message for invalid scoring 2...
+Internal functions return single score for single metric scoring
+
+* Fix test failures and shuffle tests
+
+* Avoid wrapping scorer as dict in learning_curve
+
+* Remove doc example as asked for
+
+* Some leftover ones
+
+* Don't wrap scorer in validation_curve either
+
+* Add a doc example and skip it as dict order fails doctest
+
+* Import zip from six for python2.7 compat
+
+* Make cross_val_score return a cv_results-like dict
+
+* Add relevant sections to userguide
+
+* Flake8 fixes
+
+* Add whatsnew and fix broken links
+
+* Use AUC and accuracy instead of f1
+
+* Fix failing doctests cross_validation.rst
+
+* DOC add the wrapper example for metrics that return multiple return values
+
+* Address andy's comments
+
+* Be less weird
+
+* Address more of andy's comments
+
+* Make a separate cross_validate function to return dict and a cross_val_score
+
+* Update the docs to reflect the new cross_validate function
+
+* Add cross_validate to toc-tree
+
+* Add more tests on type of cross_validate return and time limits
+
+* FIX failing doctests
+
+* FIX ensure keys are not plural
+
+* DOC fix
+
+* Address some pending comments
+
+* Remove the comment as it is irrelevant now
+
+* Remove excess blank line
+
+* Fix flake8 inconsistencies
+
+* Allow fit_times to be 0 to conform with windows precision
+
+* DOC specify how refit param is to be set in multiple metric case
+
+* TST ensure cross_validate works for string single metrics + address @jnothman's reviews
+
+* Doc fixes
+
+* Remove the shape and transform parameter of _aggregate_score_dicts
+
+* Address Joel's doc comments
+
+* Fix broken doctest
+
+* Fix the spurious file
+
+* Address Andy's comments
+
+* MNT Remove erroneous entry
+
+* Address Andy's comments
+
+* FIX broken links
+
+* Update whats_new.rst
+
+missing newline"
+2017-09-01 12:53:59+02:00;1;846313b57009dd9f8340f5f7004bc2bf1119b709;[MRG+1] Deprecate sklearn.utils.testing.raises and remove it from tests (#9660)
+2017-09-10 05:21:40+02:00;1;76494a1462c2f4c5660c37a037cd9e7d2a7f4276;[MRG+1] Remove hard dependency on nose (#9670)
+2017-10-01 09:31:10+02:00;1;636a73e9c5b5716982acc83649e7561962553b79;[MRG+1] Travis: move scipy-dev-wheels build to a cron job (#9852)
+2017-11-23 13:53:24+01:00;1;0a91bce8ee15cad87cea065693563ffae2e358c3;"Merge branch 'master' into discrete
+
+Conflicts:
+	doc/modules/preprocessing.rst"
+2017-11-23 13:53:24+01:00;2;0a91bce8ee15cad87cea065693563ffae2e358c3;"Merge branch 'master' into discrete
+
+Conflicts:
+	doc/modules/preprocessing.rst"
+2018-01-24 20:41:15+01:00;7;00d44d1ba6259dead0f4e4e5858cb05fbc8293f8;[MRG+1] Update pyparsing.py for compatibility with Python 3 (#10513)
+2018-03-27 07:44:40+02:00;1;20661b5018ba45f4452218a689640ff007cd361f;"TST: only run doctests on numpy 1.14. (#10835)
+
+Fix doctests due to numpy 1.14 formatting changes."
+2018-05-24 10:47:40+02:00;1;c50d9e87d024ff3d6fbfa5937101d8921a4bd1e9;[MRG+1] Pytest parametrize unit tests common tests and ensemble module (#11075)
+2018-05-30 12:56:45+10:00;1;f737fe6af3e12bb47f82226fe4e15f9ef4094bfd;Merge branch 'master' into discrete
+2018-05-30 12:56:45+10:00;7;f737fe6af3e12bb47f82226fe4e15f9ef4094bfd;Merge branch 'master' into discrete
+2018-05-30 12:56:45+10:00;1;f737fe6af3e12bb47f82226fe4e15f9ef4094bfd;Merge branch 'master' into discrete
+2018-05-31 10:15:02+10:00;1;ca4453347cf35acccc96a7b204b0972dbd800694;Merge branch 'discrete' of github.com:scikit-learn/scikit-learn into discrete
+2018-05-31 10:15:02+10:00;7;ca4453347cf35acccc96a7b204b0972dbd800694;Merge branch 'discrete' of github.com:scikit-learn/scikit-learn into discrete
+2018-05-31 10:15:02+10:00;1;ca4453347cf35acccc96a7b204b0972dbd800694;Merge branch 'discrete' of github.com:scikit-learn/scikit-learn into discrete
+2018-07-17 15:31:45-05:00;1;8e2c2aa35d234ba5d14f6c2492e2e5ca57de8af6;"raise DeprecationWarnings and FutureWarnings as errors (#11570)
+
+Towards #11252.
+In the end we'd like to make these errors so we can keep this cleaner in the future."

@@ -1,0 +1,2685 @@
+data;handlers;hash;message
+2009-08-05 03:30:16+00:00;1;c6b236db73ff81007909be6406f0e484edc4a9eb;"first commit with cleaned up code
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@5 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-08-05 03:30:16+00:00;3;c6b236db73ff81007909be6406f0e484edc4a9eb;"first commit with cleaned up code
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@5 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-08-05 03:30:16+00:00;2;c6b236db73ff81007909be6406f0e484edc4a9eb;"first commit with cleaned up code
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@5 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-08-05 03:30:16+00:00;1;c6b236db73ff81007909be6406f0e484edc4a9eb;"first commit with cleaned up code
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@5 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-09-01 15:50:21+00:00;1;39c033cbe697b488f6f612c9d154a467aaca76a1;"fixed inconsistency with dateCol parameter
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@10 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-09-03 01:16:28+00:00;1;7fb2ab07274eddf652479944a5586e47772ef9e0;"added pandas.stats.linmodel
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@13 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-11-20 16:10:50+00:00;1;6fd65acdab8b029bac6128b7e449492851fe302e;"merging latest developments, in particular LongPanel, WidePanel
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@35 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-11-20 16:10:50+00:00;1;6fd65acdab8b029bac6128b7e449492851fe302e;"merging latest developments, in particular LongPanel, WidePanel
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@35 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-11-21 17:27:42+00:00;1;a8f5cc12047e3495c957b1301f6b6bce35cf2c13;"added OLS and PanelOLS functionality
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@38 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-06 02:42:05+00:00;1;1a2555882019e6c8e0ddf7be1ed03d5028324d33;"unit test coverage for Series and Index, various reorganization in release prep
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@75 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-06 02:42:05+00:00;1;1a2555882019e6c8e0ddf7be1ed03d5028324d33;"unit test coverage for Series and Index, various reorganization in release prep
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@75 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-07 14:25:03+00:00;1;9bce8b7d25b8691d91b789d93947078fe6382144;"working on sphinx docs
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@79 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-07 14:25:03+00:00;3;9bce8b7d25b8691d91b789d93947078fe6382144;"working on sphinx docs
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@79 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-07 14:25:03+00:00;1;9bce8b7d25b8691d91b789d93947078fe6382144;"working on sphinx docs
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@79 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-07 14:25:03+00:00;1;9bce8b7d25b8691d91b789d93947078fe6382144;"working on sphinx docs
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@79 d5231056-7de3-11de-ac95-d976489f1ece"
+2009-12-07 14:25:03+00:00;1;9bce8b7d25b8691d91b789d93947078fe6382144;"working on sphinx docs
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@79 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-01-13 18:13:24+00:00;1;70d89fbaa3998306ba24a0e2491b83839a0a54a9;"Python 2.4 compatibility and enabling to be used without having SciPy installed
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@115 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-01-13 18:16:48+00:00;2;6092883e8035b8e01cddabd79e950db461993794;"restored dateutil import
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@116 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-01-26 05:28:52+00:00;1;af5ffc5d86bda5e2225745e34017497f68eb64cc;"edits to docs. unit tests
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@121 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-02-02 21:17:01+00:00;1;fbe6e035e77d5c6ca826a1f8c015e06e91c4915d;"adjustments to platform independent make.py
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@122 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-02-18 20:33:23+00:00;1;c3519f2deeaef535d558dda92e57a24c39522106;"more unit test coverage
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@126 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-02-26 22:12:47+00:00;1;5882607a09b9d99db585d1f115d81594005d69b5;"loads of cleanup, tests, and DataFrame / DataMatrix API consistency. removed DataFrame.fromDict and fromMatrix methods, incorporated into default constructor
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@131 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-04-12 23:08:02+00:00;1;3ef46c247784d159b9f7115cc5c1f54258587121;"code rearrangement
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@157 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-05-27 16:27:55+00:00;1;3bd20bf1db7ffd313d96dd99d0dc947fbf58e841;"added io.pyx file, first version of HDFStore
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@179 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-09-19 23:40:55+00:00;3;2aeb176b56526e1b3a9cc9ce12b9c3d17097078c;"misc documentation, some work on rpy2 interface. near git migration
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@202 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-09-19 23:40:55+00:00;1;2aeb176b56526e1b3a9cc9ce12b9c3d17097078c;"misc documentation, some work on rpy2 interface. near git migration
+
+git-svn-id: http://pandas.googlecode.com/svn/trunk@202 d5231056-7de3-11de-ac95-d976489f1ece"
+2010-10-15 14:04:23-04:00;1;ea958565fcce64447fff19a19476d06942e92e08;misc cleanup in rolling moments, work on var.py
+2010-10-15 14:24:46-04:00;3;b4e0d1c3032e4575e6716b90f557c802306a4004;added sql module, still in prototype stage
+2010-12-16 17:24:41-05:00;1;a58b7d01731004cd11b62aef85cac7b43cd8e451;Ran nose with Python 2.7 and fixed warnings issues, patched up missing import errors in unit tests (e.g. SciPy, statsmodels) so users without them can run the tests without having a bunch of stuff print to the screen
+2011-01-10 22:37:02-05:00;1;f437aeead507b5a769ff1951a8af6fc1b2ac432d;fixed issue GH #19
+2011-02-02 17:26:59-05:00;1;d8d15f294ff71fca1374e56ffe93844666ed695b;fixed statsmodels api in ols/unit tests. misc test coverage
+2011-04-17 21:04:33-04:00;1;372cc72c5345f2aa086fcb75c78519bca31d1c97;more sparse work
+2011-05-03 01:03:32-04:00;1;8b4d2084c8e3ddd0f0b01ddead66efe26602406d;skeleton of sparse WidePanel, unit tests and stubs, more necessary functionality
+2011-05-17 22:42:58-04:00;1;6e38eca60d0ea5fbe348a1309f0603c9fae8fba6;ExcelFile class, enhanced excel date handling, per GH#9
+2011-05-25 10:32:27+01:00;1;93afbab515db82e08b2579338c0f39e3ff7c6049;modest pytz handling in DateRange. starting on AxisIndexer in frame.py
+2011-05-26 17:43:28+01:00;1;ca173df785b69c9804c51f0004333f1859a6d042;changed / fixed inconsistency / minor optimization in Index.union when one contained in the other, fixed resulting failing unit tests. forced SparseSeries fill_value to always be float64 type
+2011-05-31 14:03:53+01:00;1;04cef6e22267f6847d680cb69b132dc418938538;boolean indexing with Series must match index labels
+2011-06-05 23:58:03+01:00;1;07c648842a93fcf545001cba67336470d4becf93;more DateRange tzinfo work
+2011-06-06 13:35:19+02:00;2;b808ce2b58c713add231687327e60a24e169c4b0;DateRange unit test coverage, tz_validate impl
+2011-06-06 18:59:46+02:00;2;1fe7df8b4fc864b949adb4db435294b22e82041e;Merge branch 'master' into datamatrix-refactor
+2011-06-07 14:59:36+02:00;1;2502befe4cf7c3f75115a33c15abb0cab3ca8b0e;added to release notes, removed some deprecated methods, continued work on DataMatrix refactor
+2011-06-08 18:38:50-04:00;1;32f51c42e751b33ff357fa7275a8f6fa15964a56;brought back dtype casting. making progress
+2011-06-09 20:37:58-04:00;1;8d7d1233f095c46883cb853987593d66ef2d7e67;entire unit test suite passes
+2011-06-12 15:01:02-04:00;1;c35a39de6a29a519f9e041914e318922cf2ebf92;bit the bullet and did the big merge. now time to investigate lots of potential problems
+2011-06-12 15:56:24-04:00;1;cdb879b85b89c033b53c3a59d721de4332081b68;DataMatrix is no more. test suite passes. lots of missing test coverage / things to look into now
+2011-06-13 17:13:26-04:00;1;504671dc8feaf0be29899b14cfff9c5a409e1dc9;DataFrame.join optimization. unit tests for consol
+2011-06-13 23:53:39-04:00;1;54faa6717b1ee4bd4d01e5e59b5b6ce93e7fff99;CRLF -> LF
+2011-06-13 23:53:39-04:00;1;54faa6717b1ee4bd4d01e5e59b5b6ce93e7fff99;CRLF -> LF
+2011-06-13 23:53:39-04:00;1;54faa6717b1ee4bd4d01e5e59b5b6ce93e7fff99;CRLF -> LF
+2011-06-13 23:54:08-04:00;1;2d5e3d08f0a42dff78924ac510bc766844c55f7b;CRLF -> LF
+2011-06-13 23:54:08-04:00;1;2d5e3d08f0a42dff78924ac510bc766844c55f7b;CRLF -> LF
+2011-06-13 23:54:08-04:00;1;2d5e3d08f0a42dff78924ac510bc766844c55f7b;CRLF -> LF
+2011-06-14 00:00:25-04:00;2;8331518a2a3c054c2109e41307f4297bab445686;merged datamatrix-refactor branch, fixed conflicts
+2011-06-14 00:00:25-04:00;1;8331518a2a3c054c2109e41307f4297bab445686;merged datamatrix-refactor branch, fixed conflicts
+2011-06-14 10:31:07-04:00;1;0dc4f330b13fbdb1ef5ca9b366ecba467a4465e4;fix CRLF
+2011-06-16 09:55:34-04:00;1;04934ad062aebee81652d59841806c395601a9ae;added var impl back for now
+2011-06-27 18:06:16-04:00;2;dcf34904e628c1065e0bacf1374b381f8d61bc42;Cython code reorg and co-opted pyzmq build framework so do not have to check in cythonized .c code into git
+2011-06-29 17:47:30-04:00;1;144840c3f0526285ed24a581f8d333cfeb5f8476;starting in on the mixed-type panel redesign
+2011-06-30 09:33:31-04:00;2;9eba57708c879a48d53c44b5751f08dc72239f27;removed usages of indexMap, misc panel stuff
+2011-07-01 09:09:44-04:00;3;509a994baae3376d6ef6874b6148a7d78add7713;testing IO roundtripping with HDFStore
+2011-07-01 09:10:01-04:00;3;7e634dec1b53099f0646e651b3de1bc56016b686;"Merge branch 'master' into widepanel-refactor
+
+* master:
+  testing IO roundtripping with HDFStore
+  added ascending argument to Series.order"
+2011-07-13 13:20:26-04:00;1;99f80cb88608e0332a7bff7321b41bba821a7fd3;contributed patches
+2011-07-14 16:03:18-04:00;1;027c90b83f0e1921737a15b0ff367fa485d467f3;ENH: read_table can infer integers. changed DataFrame.fromcsv to use it
+2011-07-16 19:06:04-04:00;1;fa42a6a8219d2fd6505e33adc96295a40a75e8fd;FIX: critical bug fix in block formation
+2011-07-25 09:25:59-04:00;1;8d49d3a23f07231e6c2866884922a8269a3a5158;ENH: multi-group flat iteration works
+2011-07-26 22:06:57-04:00;1;980ef8ab8d6ecfb99fb2e24c3cd672771c38563b;BUF: missing parens in catching multiple exception types
+2011-07-29 17:32:15-04:00;1;5828578301a7044e7d1dab7eaa8d3b4c99d6f1b5;ENH: multilevel index in groupby. tests do not pass yet
+2011-08-08 19:27:08-04:00;1;34fbb9159d7d1007025e0a0ead8dc4071c4eb427;ENH: partial indexing with multi-level index, and various related tests
+2011-08-15 11:19:37-04:00;2;be767360c0bc33f326d2ed183b57cd6348734280;ENH: added a cache of DataFrame columns to improve perf with many calls to __getitem__
+2011-08-15 12:54:01-04:00;1;05995f2e5099611be51913d904c63c1f13a7d437;ENH: some integration of multi-level indexing with .ix fancy indexing
+2011-08-15 21:33:20-04:00;1;be6b00456062f7a2ef74a530afeac50595e6d6a4;TST: unit tests, and custom delete for Index objects
+2011-08-15 22:51:18-04:00;1;5dc1afccec7cd4c889264d5b1a90b4fc93c35017;ENH: Index.reindex refactoring and getting drop to work with MultiIndex. address GH #101
+2011-08-16 13:38:11-04:00;1;193d90f425178abe051f5b7f54a9015ae6e48cd5;BUG: error message in Series.__getitem__ with KeyError was made uninformative
+2011-08-22 18:01:11-04:00;1;86d34554d7802109541580d52850358e44777551;TST: Series test coverage
+2011-08-24 00:39:18-04:00;1;c7625ec5059d7f9b8fd8ca058c4ad7554832e996;DOC: DataFrame docs, sort unit tests, other cleanup. deprecated tgroupby
+2011-08-31 17:28:15-04:00;1;8ee4ecc7dbf6399636b6164ed1cab918e3c4854f;DOC: finished basic sorting docs.
+2011-09-05 15:07:29-04:00;1;4e509811d11d496e00dbe5c71bbbf78c0ad3167f;ENH: can do as_index=False in groupby. removed dummy 'index' column from DataFrame.to_csv output and added index_label option
+2011-09-05 23:55:12-04:00;1;10c8f08d993b0098a470e2aabd0234fe45068183;BUG: groupby bug with flex aggregate functions. and hierarchical columns weren't being passed on
+2011-09-07 15:56:29-04:00;1;63e8f67d661261edd85b674b1f60a2599f926df5;DOC: plotting function enhancements and plotting / stats docs
+2011-09-08 21:47:30-04:00;3;0397d37d06d26794cb0d064892d8a219f9f188ab;"ENH: extensive indexing.py refactoring and implemented fancy/advanced indexing
+fro Panel. address GH #118"
+2011-09-25 17:14:51-04:00;1;0493cc5ac81194361e830fe3ad9ec5c3aade82b5;ENH: add join panel function for testing and later integration
+2011-09-27 22:53:17-04:00;1;ee3068bf6dd73213143aa5c06683706d6947cdc9;ENH: significantly speeding up Index.union
+2011-09-30 00:40:05-04:00;1;56e0c9ffafac79ce262b55a6a13e1b10a88fbe93;ENH: Series.align method to leverage faster joins, faster binary ops
+2011-09-30 01:04:33-04:00;1;f62e2794105a2bf6ae0bd3d2b4a1f907b8b42446;ENH: Series.sort_index perf enhancement
+2011-10-13 21:22:44+01:00;1;600c36a1a2ced2bbe12b17982b995e6365ce4ca1;"Catch and silence errors in installing IPython completers.
+
+Avoid problems with older versions of IPython (pre 0.11)
+
+Closes gh-230"
+2011-10-20 01:23:51-04:00;2;153b16ccc86f39cc0e1fa97fc1318e51d7c0abe3;ENH: refactored simple_parser into class, working on iterator. almost there
+2011-11-03 17:01:57-04:00;1;debbb2d3703457166b548f580535a2ca6e3c04e1;BUG: fix GH #326, start unit testing plot methods
+2011-11-03 17:01:57-04:00;1;debbb2d3703457166b548f580535a2ca6e3c04e1;BUG: fix GH #326, start unit testing plot methods
+2011-11-06 17:57:41-05:00;1;32c65bddce5dcd1a736590a3cc7be913a68b8579;ENH: add Series.mad, refactor Series/DataFrame stat methods, fix GH #337 and cleanup from PR #313
+2011-11-07 01:20:35-05:00;1;0c5dbcc161affdec5256fa2ae656e3f176294509;ENH: add WLS to standard regression model
+2011-11-12 23:45:00-05:00;1;028129c06f0b3723de3a1719bd6d8233d763ea85;TST: release notes and DataFrame.plot tests
+2011-11-13 00:16:29-05:00;1;4738a056c49fa9e40a380d7afe5adaf4b2ee3c3d;TST: misc test coverage
+2011-11-13 17:31:00-05:00;1;74f5d6d52f47ce86a607769df68bdf9c68b7292a;ENH: Cython Reducer, speed up DataFrame.apply significantly, GH #309
+2011-11-14 13:56:08-05:00;2;fa10e291109e20decdc7122060de2d2f27629630;ENH: read_clipboard function using code from IPython, GH #300
+2011-11-22 14:17:57-05:00;1;232be97e66515490e93fdc8463a56acf1723effc;ENH: more nanops refactoring, tests pass, #382
+2011-11-22 22:38:25-05:00;4;194db2667395786aad3a6ccb1bd30f85170cb2ab;BUG: support partial setting with .ix in Series and DataFrame, refactoring, GH #397
+2011-12-02 16:01:54-05:00;1;ec1eebcd6991afc20975cb4fcd9ad1d6b71d5982;BUG: don't accidentally upcast int->float in .ix scalar indexing, GH #431
+2011-12-05 15:39:29-05:00;2;768af08dee2c845b85b28ae9f53408b2b0ebf5ff;ENH: refactoring and micro-optimizations to support #437, uncovered panel bug
+2011-12-07 15:08:18+01:00;1;608231a2eddd4fd5f215fae97b79f7077d10d30a;Utility that can report terminal width and height.
+2011-12-10 16:10:26-05:00;1;b3c12b15e8c8a0f87c317fd1bf8e792805f1c582;REF: broke apart sparse.py, created sparse subpackage
+2011-12-12 19:54:42-05:00;1;e874b4c001e47e0a986126c8aaead9dbc54eb238;TST: testing of margins in pivot_table, GH #114
+2011-12-22 19:36:41-05:00;1;5a38dcaad29ed811abe6ca40b73f944be92ce77e;ENH: can pass list of dicts to DataFrame constructor, support Cython code, #526
+2011-12-29 00:14:41-05:00;1;716ebdcc8466d21773f2ee7140b3d9c9923430a1;BUG: fix scalar setting via ix with MultiIndex, GH #551
+2012-01-01 22:47:32-05:00;1;9ad40fbf147a103fabb514a55c1318d7ffba6e32;BUG: numpy.integer type-checking in indexing, groupby test coverage
+2012-01-02 14:39:16-05:00;1;dfa2a8a07fe55342e8ef132f3dc2e94414f2e8a2;TST: vbenchmark for Panel.from_dict
+2011-12-29 10:05:52-05:00;1;f655ff8091dda8596afd84c8fd9c435f00259e0d;"Add get_attr behavior for Panel, similar to DataFrame
+
+Support IPython tab completion for Panel items"
+2012-01-04 14:58:31-05:00;1;edb2409f94b0f44b94714d4ec754245d2a947b02;setup.py tweaks
+2012-01-11 20:03:19-05:00;1;85b75f94b33bfafa1a8b4b54371da1906259f041;TST: test both with and without bottleneck, GH #91
+2012-01-11 21:28:31-05:00;1;3440a9cc6b7746320a865157a7403a3bf345a0a6;ENH: can pass a list of functions to DataFrame.groupby per #166
+2012-01-12 00:12:57-05:00;1;4ef29e4365aa58a38631de3bcca088dffa024907;ENH: take a crack at #614
+2012-01-12 13:46:01-05:00;1;4e52e0d04d429a07ea7ac726f4d63cb49bb3c5bb;BUG: don't cast to tuple except in failure, only test with namedtuple when it exists (py >= 2.7), GH #611
+2012-01-13 12:53:56-05:00;3;7b0349f0545011a6cac2422b8d8d0f409ffd1e15;ENH: API change / refactoring in Series.__getitem__ and __setitem__ to implement #86, related tightening of integer index handling from #592
+2012-01-15 17:35:31-05:00;1;ed5d89129c868c80c7a807db577069d57772f11f;TST: indexing testing with minor Series.__getitem__ refactoring
+2012-01-16 00:13:32-05:00;1;9bc20d6818af623733bcd23ef895443540a9780b;BUG: fix buglet with xs with level, GH #371
+2012-01-19 23:23:48-05:00;1;57071253d5603f31796da352ea586321319cb334;ENH: don't try to autofmt_xdate if sharex=False in DataFrame.plot
+2012-01-19 23:23:48-05:00;1;57071253d5603f31796da352ea586321319cb334;ENH: don't try to autofmt_xdate if sharex=False in DataFrame.plot
+2012-01-20 18:06:14-05:00;1;414d1bf676eb3911981ddcd702c28bdc64d9cca4;BUG: hacks to support indexing with tuples contained in MultiIndex levels
+2012-01-20 18:06:14-05:00;1;414d1bf676eb3911981ddcd702c28bdc64d9cca4;BUG: hacks to support indexing with tuples contained in MultiIndex levels
+2012-01-26 14:46:27-05:00;1;8f32f1ccb5d0ddc123a2477df222097775111407;BUG: handle incomparable values when creating Factor, caused bug in py3
+2012-02-05 21:25:06-05:00;1;a7402c680f8dcc69deb850f61fc6a2c7f7834120;DOC: very basic hack to separate vbench project from main docs, generate chapters by module. Need some prettification, close #718
+2012-02-07 15:58:50-05:00;1;095f7c806f5bd8f4fa1ab2cebe31ed03d32ab84e;ENH: optimized Cython groupby routines for aggregating 2D blocks, added vbenchmark, GH #745
+2012-02-07 16:08:00-05:00;1;bae80c613b0a05b7fbaf88d003b141deecf5dc23;ENH: added git sha check for jenkins builds
+2012-02-07 18:22:47-05:00;1;2123d6b746099692c55fcca583c11a027c0f7990;ENH: refactor groupby and accelerate groupby with integer keys, add vbenchmark
+2012-02-16 18:06:18-05:00;2;92c522ccee309bb0ef1489e36fa365e9ce542d9f;added scikits.timeseries python code to codebase
+2012-02-16 18:06:18-05:00;1;92c522ccee309bb0ef1489e36fa365e9ce542d9f;added scikits.timeseries python code to codebase
+2012-02-16 19:24:45-05:00;2;7eae131205f89b675efbaa5e28b0eaffe7166d18;Merge corrections
+2012-02-16 19:24:45-05:00;1;7eae131205f89b675efbaa5e28b0eaffe7166d18;Merge corrections
+2012-02-17 19:20:18-05:00;1;1b777aa3efb2c7ed812b92e4668526b3de4cc448;TST: test for #779, try to return string
+2012-02-17 19:50:36-05:00;2;0b52b1a7cc5d138beb77841ecb18401da9c54ddf;BUG: fix mixed float/int indexing slicing problem described in #780
+2012-02-18 12:39:49-05:00;2;97415c5310c74f43551f1f3f5be9a410a04f9fb4;ENH: add to_clipboard method, need to test on OSX and Windows still, #774
+2012-02-18 16:08:26-05:00;2;afb645511ea2757c5db798f743350a465ff2605a;BUG: Fixed merge to master
+2012-02-18 16:08:26-05:00;1;afb645511ea2757c5db798f743350a465ff2605a;BUG: Fixed merge to master
+2012-02-18 16:31:27-05:00;1;f4d13fbcdf306aa901fdd6edee79fa4d736fdcf2;REF: push groupby iterator code into Grouper class
+2012-02-21 11:33:19-05:00;1;063b6089de6c3c24f41437265c7b4ddabfcae96d;"Merge branch 'master' into datetime64
+
+* master:
+  ENH: implement Series.between for NA-friendly range selection, GH #802
+  ENH: best attempt at NA-friendly Series comparison and boolean binary operations, GH #801
+  REF: push groupby iterator code into Grouper class"
+2012-02-21 20:45:55-05:00;1;797ab57d45985e343b61ddb067026294882dab0d;ENH: nuked DateRange, pulled into DatetimeIndex
+2012-02-24 17:22:49-05:00;1;75bf87b8b665fcee0c55e14ebb6a3957d20f9dba;BUG: close #811, fix index.intersection where indices are incomparable
+2012-02-24 14:40:43-08:00;1;575a852e2da8e11ecfb692c7c19e13cb154eb03a;"Merge pull request #830 from adamklein/IS811
+
+BUG: close #811, fix index.intersection where indices are incomparable"
+2012-02-24 17:56:59-05:00;1;869cf0fb84c5f0cbaabb8577b3cf9e62d4830d89;"Merge branch 'master' into mergemaster
+
+* master: (27 commits)
+  BUG: close #811, fix index.intersection where indices are incomparable
+  ENH: rename fill_method to method, close #827
+  BUG: closes #822, cast non-string columns in to_records
+  BUG: use Cython take_2d instead of ndarray.take due to Fortran order performance problem, GH #817
+  BUG: clean up Series wrapper that is not needed, per #819 comments
+  BUG: close #816, defer tuple-unboxing until later per perivous commit comments
+  BUG: close #812, fix index name dropping in _ensure_index
+  ENH: close #818, per Wes comments on izip df tuple iterator
+  TST: script testing groupby iteration performance GH close #817
+  BUG: add test case for integer index failure re: #819
+  BUG: close #816, fix exception thrown on np.diff
+  BUG: close #812, reindex keeps original name along both axes
+  ENH: add new izip-based row-iterator, update release and docs (close #818)
+  BUG: fix issues resulting from unclean merge in PR #807
+  BUG: handle grouping aggregations consistently whether as_index is True/False, close #819
+  BUG: remove lingering set_trace related to previous commit
+  BUG: dtype sometimes not converted to bool, closes issue #820
+  BUG: malformed BlockManager in groupby, regression from 0.7.0, GH #814
+  ENH: cache indexers when conforming list of series
+  ENH: minor tweaks to grouped_hist
+  ..."
+2012-03-02 19:23:30-05:00;1;fb02a185ef37764bab6c2f529219032981e5dbaa;ENH: fast time zone conversions and validation
+2012-03-12 22:25:02-04:00;1;387ec4db108a37ade1b73acbc0a06e021076a363;ENH: column selection via attributes on DataFrameGroupBy, GH #882
+2012-03-13 19:39:18-04:00;1;a0a4408d071ac6c641f280988fb023262379cb05;ENH: merge up to master
+2012-03-19 13:43:37-04:00;1;a022d4513fd5f3b14e85c266e4231a70a07f0bf9;ENH: DataFrame plot improvements, make pivot_table more flexible per #941
+2012-03-20 11:44:44-04:00;1;f58749e39847cb3b0af7ef226aaa4c9a0e8d8537;ENH: intercept numpy.sum in groupby, plotting/console improvements
+2012-03-23 15:51:53-04:00;1;95a179f60901b0366606d0a5ebe8477492eeb5c6;ENH: check if datetimeindex can be plotted as intervalindex
+2012-03-27 20:25:49-04:00;1;b3b547387daeab727bc6a10de204465cada4049b;ENH: merge up to master
+2012-03-27 20:25:49-04:00;1;b3b547387daeab727bc6a10de204465cada4049b;ENH: merge up to master
+2012-03-31 23:09:21-04:00;1;f2d32c819a91c7309ef0363d8b61c8703d3c817a;ENH: start of plotting refactor for improved code reuse, enable more kinds of plots more easily
+2012-04-04 12:08:46-04:00;1;5c4acabd74c571fd144aa7da7ef2479aac233977;BUG: temporary hack around TypeError in PyObjectHashTable
+2012-04-02 20:55:43-04:00;2;074afbc63d236de9520a9ff323c1b330dfa089e3;"fixed 4Q1984 turning into 4Q3984
+IntervalIndex constructor now allows you to omit freq argument if interval start/end is passed
+Handle lower case time rules. Can parse ('Min', 5) as freq
+Interval supports aliasing for frequency names"
+2012-04-03 16:58:36-04:00;1;af914f6ddd6eed77b835723e304101aa53805241;ENH: regularized frequency string, removes references to dt. in format, removes multiple if 1
+2012-04-04 20:54:36-04:00;1;b447d631d36cd0c77bef7426fc936822a26685ba;TST: moved test_datetime64.py tests to test_timeseries
+2012-04-04 23:44:36-04:00;2;7d2603d2244c6f82cda7f8e24c7f6bb0b1c37ede;TST: interactions between array of datetime objects and DatetimeIndex, bug fixes
+2012-04-05 00:31:51-04:00;1;30dd41260f17b92f02bb0a1d2d726354906a7355;ENH: enable to_datetime to be vectorized, handle NAs, close #858
+2012-04-04 22:05:40-04:00;1;d0dd9b39bda812b30e2ba533ef622aa6c6029510;add factor function for HDFStore that's a contextmanager
+2012-04-13 19:27:04-04:00;1;9840a95d9b8469eb76b66b8d6cef854d1510de48;Merge changes from master
+2012-04-14 14:38:38-04:00;2;63207b83fc35c2ade37861ca581949d95f63ad61;"Merge branch 'timeseries'
+
+* timeseries: (200 commits)
+  TST: don't use deprecated DateRange
+  BUG: fix buglets surfacing from merge
+  RLS: set released to false, bump dev version to 0.8.0
+  BUG: fix major performance issue in DatetimeIndex.union affecting join performance on irregular indexes, remedying #1046
+  ENH: add to_datetime method to Index, close #208
+  ENH: legacy time rule support and refactoring, better alias handling. misc tests, #1041
+  ENH: to_datetime will convert array of strings and NAs to datetime64 with NaT, close #999
+  ENH: more datetime64 integration in core data algorithms per #996, close #1035
+  ENH: handle datetime64 in block formation from dict of arrays in DataFrame constructor, close #1037
+  BUG: fix broken time_rule usage in legacy DateRange, close #1036
+  BUG: name inline method something different
+  ENH: initial version of convert_to_annual for pandas, #736
+  BUG: convert datetime64 -> datetime.datetime for matplotlib, close #1003
+  ENH: integrate cython ohlc in groupby and test, close #152
+  ENH: implement Cython OHLC function for groupby #152
+  ENH: use cython bin groupers, fix bug in DatetimeIndex.__getitem causing slowness, some timeseries vbenches
+  ENH: enable to_datetime to be vectorized, handle NAs, close #858
+  TST: interactions between array of datetime objects and DatetimeIndex, bug fixes
+  TST: remove errant foo and test_datetime64.py
+  TST: moved test_datetime64.py tests to test_timeseries
+  ..."
+2012-04-14 14:38:38-04:00;1;63207b83fc35c2ade37861ca581949d95f63ad61;"Merge branch 'timeseries'
+
+* timeseries: (200 commits)
+  TST: don't use deprecated DateRange
+  BUG: fix buglets surfacing from merge
+  RLS: set released to false, bump dev version to 0.8.0
+  BUG: fix major performance issue in DatetimeIndex.union affecting join performance on irregular indexes, remedying #1046
+  ENH: add to_datetime method to Index, close #208
+  ENH: legacy time rule support and refactoring, better alias handling. misc tests, #1041
+  ENH: to_datetime will convert array of strings and NAs to datetime64 with NaT, close #999
+  ENH: more datetime64 integration in core data algorithms per #996, close #1035
+  ENH: handle datetime64 in block formation from dict of arrays in DataFrame constructor, close #1037
+  BUG: fix broken time_rule usage in legacy DateRange, close #1036
+  BUG: name inline method something different
+  ENH: initial version of convert_to_annual for pandas, #736
+  BUG: convert datetime64 -> datetime.datetime for matplotlib, close #1003
+  ENH: integrate cython ohlc in groupby and test, close #152
+  ENH: implement Cython OHLC function for groupby #152
+  ENH: use cython bin groupers, fix bug in DatetimeIndex.__getitem causing slowness, some timeseries vbenches
+  ENH: enable to_datetime to be vectorized, handle NAs, close #858
+  TST: interactions between array of datetime objects and DatetimeIndex, bug fixes
+  TST: remove errant foo and test_datetime64.py
+  TST: moved test_datetime64.py tests to test_timeseries
+  ..."
+2012-04-14 14:38:38-04:00;2;63207b83fc35c2ade37861ca581949d95f63ad61;"Merge branch 'timeseries'
+
+* timeseries: (200 commits)
+  TST: don't use deprecated DateRange
+  BUG: fix buglets surfacing from merge
+  RLS: set released to false, bump dev version to 0.8.0
+  BUG: fix major performance issue in DatetimeIndex.union affecting join performance on irregular indexes, remedying #1046
+  ENH: add to_datetime method to Index, close #208
+  ENH: legacy time rule support and refactoring, better alias handling. misc tests, #1041
+  ENH: to_datetime will convert array of strings and NAs to datetime64 with NaT, close #999
+  ENH: more datetime64 integration in core data algorithms per #996, close #1035
+  ENH: handle datetime64 in block formation from dict of arrays in DataFrame constructor, close #1037
+  BUG: fix broken time_rule usage in legacy DateRange, close #1036
+  BUG: name inline method something different
+  ENH: initial version of convert_to_annual for pandas, #736
+  BUG: convert datetime64 -> datetime.datetime for matplotlib, close #1003
+  ENH: integrate cython ohlc in groupby and test, close #152
+  ENH: implement Cython OHLC function for groupby #152
+  ENH: use cython bin groupers, fix bug in DatetimeIndex.__getitem causing slowness, some timeseries vbenches
+  ENH: enable to_datetime to be vectorized, handle NAs, close #858
+  TST: interactions between array of datetime objects and DatetimeIndex, bug fixes
+  TST: remove errant foo and test_datetime64.py
+  TST: moved test_datetime64.py tests to test_timeseries
+  ..."
+2012-04-14 14:38:38-04:00;1;63207b83fc35c2ade37861ca581949d95f63ad61;"Merge branch 'timeseries'
+
+* timeseries: (200 commits)
+  TST: don't use deprecated DateRange
+  BUG: fix buglets surfacing from merge
+  RLS: set released to false, bump dev version to 0.8.0
+  BUG: fix major performance issue in DatetimeIndex.union affecting join performance on irregular indexes, remedying #1046
+  ENH: add to_datetime method to Index, close #208
+  ENH: legacy time rule support and refactoring, better alias handling. misc tests, #1041
+  ENH: to_datetime will convert array of strings and NAs to datetime64 with NaT, close #999
+  ENH: more datetime64 integration in core data algorithms per #996, close #1035
+  ENH: handle datetime64 in block formation from dict of arrays in DataFrame constructor, close #1037
+  BUG: fix broken time_rule usage in legacy DateRange, close #1036
+  BUG: name inline method something different
+  ENH: initial version of convert_to_annual for pandas, #736
+  BUG: convert datetime64 -> datetime.datetime for matplotlib, close #1003
+  ENH: integrate cython ohlc in groupby and test, close #152
+  ENH: implement Cython OHLC function for groupby #152
+  ENH: use cython bin groupers, fix bug in DatetimeIndex.__getitem causing slowness, some timeseries vbenches
+  ENH: enable to_datetime to be vectorized, handle NAs, close #858
+  TST: interactions between array of datetime objects and DatetimeIndex, bug fixes
+  TST: remove errant foo and test_datetime64.py
+  TST: moved test_datetime64.py tests to test_timeseries
+  ..."
+2012-04-21 20:14:01-04:00;1;0cc1a3d0bc4617440e3df9e3e55b19cb6fb51a2d;REF: major time series refactor, rename resample to asfreq, skts -> period, various cleanup
+2012-04-21 20:14:01-04:00;3;0cc1a3d0bc4617440e3df9e3e55b19cb6fb51a2d;REF: major time series refactor, rename resample to asfreq, skts -> period, various cleanup
+2012-04-21 20:14:01-04:00;2;0cc1a3d0bc4617440e3df9e3e55b19cb6fb51a2d;REF: major time series refactor, rename resample to asfreq, skts -> period, various cleanup
+2012-04-27 15:33:34-07:00;1;ca240a3c371169065af18c5d22ba4f640edd605e;Merge branch 'master' of https://github.com/pydata/pandas
+2012-04-27 15:33:34-07:00;1;ca240a3c371169065af18c5d22ba4f640edd605e;Merge branch 'master' of https://github.com/pydata/pandas
+2012-04-27 15:33:34-07:00;3;ca240a3c371169065af18c5d22ba4f640edd605e;Merge branch 'master' of https://github.com/pydata/pandas
+2012-04-27 15:33:34-07:00;2;ca240a3c371169065af18c5d22ba4f640edd605e;Merge branch 'master' of https://github.com/pydata/pandas
+2012-04-27 15:33:34-07:00;1;ca240a3c371169065af18c5d22ba4f640edd605e;Merge branch 'master' of https://github.com/pydata/pandas
+2012-05-01 04:22:16-04:00;1;ca6102875ff405aba678c8636172f8b32049c21a;TST: forgot to push the new testing module
+2012-05-02 19:18:08-04:00;1;33620e2a1e5091f1138a0bb490a5f15f17f786c6;API: ordinal keyword in Period constructor. BUG: Period parsing monthly short string. GH #1170
+2012-05-04 19:12:27-04:00;1;808547e060bd5e84dfa85213c603d909bbb29ed5;REF: working on UTC only timestamp handling, timezone handling modifications, not yet working
+2012-05-15 15:18:18-04:00;2;3fdc6d986a155953a7abb1548ff4d6389f9aadcb;ENH: add group-wise merge capability to ordered_merge, unit tests, close #813
+2012-05-19 08:24:37-07:00;2;a8e4481dd889fa3e6e6712f6232fd1de355c7df6;Merge branch 'master' of https://github.com/pydata/pandas
+2012-05-19 08:24:37-07:00;1;a8e4481dd889fa3e6e6712f6232fd1de355c7df6;Merge branch 'master' of https://github.com/pydata/pandas
+2012-05-19 08:24:37-07:00;1;a8e4481dd889fa3e6e6712f6232fd1de355c7df6;Merge branch 'master' of https://github.com/pydata/pandas
+2012-05-19 08:24:37-07:00;1;a8e4481dd889fa3e6e6712f6232fd1de355c7df6;Merge branch 'master' of https://github.com/pydata/pandas
+2012-05-15 18:16:20-04:00;1;63b0d9b730167d012a4d8e7c96a69a7c52319036;REF: microsecond -> nanosecond migration, most of the way there #1238
+2012-05-22 20:10:48-04:00;1;0f4f99a632a2dbf7fc352e0e31129aa88ef85b02;BUG: align Series repr when unicode index is present #1279
+2012-05-28 18:58:44-04:00;1;6478c87b5973179c0057f10e352ca5de534e5953;BUG: raise exception for unintellible frequency strings, close #1328
+2012-06-02 15:52:32-04:00;1;f62f571dca322c5477c90b066987c013a450ced4;ENH: exclude nuisance columns in GroupBy.transform, close #1364
+2012-06-04 16:08:03-04:00;1;a5f773bdf2c1437a6f46a1782b089621ffac0870;BUG: cast other datetime64 units to nanos from Index constructor, properly handle Index.astype(datetime64-unit), close #1384
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-09 08:23:21-07:00;1;947a4edf6c55c3c693d5fca3b3ed5d55ae02e37b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-06-11 18:14:16-04:00;1;3b32dabf56eada9367e676c03e9ada8bc974cc76;BUG: fix MultiIndex bugs described in #1401
+2012-06-19 20:18:38-04:00;1;48d8d9d3a0238a0402852d282dcae99ee1c80f51;BUG: fix closed='left' resample bug. test coverage #1245
+2012-06-26 11:57:34-04:00;1;14759715101b0d38dedebd2588c587f6f1c11aee;ENH: register converters with matplotlib for better datetime convesion
+2012-06-27 12:50:48-04:00;1;61aac3d0a98f748fd9fd4df9df0ef4bd8849f9b5;ENH: datetime.time converters for plotting
+2012-06-28 18:30:42-04:00;1;d8a0b4fd0d39dcac4fb7a2297bf25cc442e12729;ENH: support file-like objects in ExcelFile, close #1529
+2012-07-11 14:56:56-04:00;1;d4274d59fa625a1c0796285940371c910287867e;BUG: partial indexing bug with PeriodIndex close #1601
+2012-07-12 11:13:38-04:00;1;f95a5d7b65c519f04a620cad64bbe1ecf030a829;ENH: Conditionally import Rpy stuff.
+2012-07-12 21:22:12-04:00;1;367e98177573e3cabb712622621088cd193bbdec;BUG: new converters for sub-second plotting #1599
+2012-07-19 15:07:29-04:00;3;31ee064bd4547223748c734b948014ff5a19db2f;BUG: support dateutil 2.1, fix scatter_matrix axis labels. #1637 #1625
+2012-07-21 00:57:33-04:00;3;dc7976c94dac413c281b0ff56c292901da10876b;Merge branch 'master' of https://github.com/pydata/pandas
+2012-07-24 18:30:46-04:00;1;f5a74d4ca37226f4a62c2291db5ee08658706a48;BUG: fix MM-YYYY string parsing case for time series indexing, close #1672
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;1;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-07-28 17:17:01-07:00;2;ff6c0a64bf186d6d522a1a50e87fc95a516f89e7;Merge remote branch 'origin/master'
+2012-08-07 20:57:05+02:00;1;8edebb2c3678ac9504999077a08251b45268629d;"ENH: Allow df plotting with style by some columns.
+
+DataFrame.plot(style=<[..] or {}>) no longer requires style to hold a
+value for each column of the DataFrame."
+2012-08-08 21:00:53-07:00;2;f311afa04b3825f29b6f28547101c29fdb4863db;Added options data functionality
+2012-09-08 18:07:49-04:00;2;39265be4215f438c63a4cbaeea457ebc9e07a0d9;"Merge remote-tracking branch 'spencerlyon2/options'
+
+* spencerlyon2/options:
+  Made BeautifulSoup import local and made Options class inherit from object.
+  Found error in get_near_stock_price(). It was getting the stock price only for aapl instead of self.symbol
+  Final cleansing of docstrings
+  Cleaned up docstrings
+  Added options data functionality"
+2012-09-09 14:41:24-04:00;1;5bff7890c70578636d053d3164e04dd68f5cf01d;BUG: more fun unicode fixes
+2012-09-18 13:21:43-04:00;1;852a99459c2a7d47fc7fb0574cdad8359a42fade;API: default empty DataFrame to dtype=object to prevent certain class of TypeError, e.g. out of empty SQL query. closes #1783
+2012-09-20 14:35:49-04:00;1;a2f5e56b13dff45a82c4fa068ec5edf35bece645;BUG: DatetimeConverter does not handle datetime64 arrays properly
+2012-09-23 14:24:57-04:00;1;c69c4f08d1daab70b72d79597f27ff1e72525dc0;"Merge branch 'master' into c-parser
+
+* master: (171 commits)
+  BUG: fix Cython tz_convert bug with time zones that haven't had a UTC transition in a long time. close #1946
+  BUG: fix buglet
+  BUG: try fixing tzlocal bug
+  Minor fixes to time series doc.
+  Adding DataFrame methods to API reference.
+  Added Series functions to API doc.
+  BUG: fix segfault in SeriesGrouper with non-contiguous index
+  RLS: Version 0.9.0 Release Candidate 1
+  BLD: add lib depends #1945
+  BUG: missing case for assigning DataFrame via ix
+  BUG: python 3.1 timedelta compat issue
+  BUG: python 3 tzoffset is not hashable
+  TST: adds dateutil to travis-ci install commands
+  BUG: let selecting multiple columns in DataFrame.__getitem__ work when there are duplicates. close #1943
+  BUG: DatetimeConverter does not handle datetime64 arrays properly
+  BUG: reindex with axis=1 when setting Series to scalar location, close #1942
+  BUG: fix formatting of Timestamps in to_html/IPython notebook. refactor to_html code. close #1940
+  ENH: allow single str input to na_values #1944
+  TST: when xlrd is not installed skip tests needing it, close #1941
+  BUG: DatetimeIndex localizes twice if input is localized DatetimeIndex #1838
+  ..."
+2012-09-23 14:24:57-04:00;2;c69c4f08d1daab70b72d79597f27ff1e72525dc0;"Merge branch 'master' into c-parser
+
+* master: (171 commits)
+  BUG: fix Cython tz_convert bug with time zones that haven't had a UTC transition in a long time. close #1946
+  BUG: fix buglet
+  BUG: try fixing tzlocal bug
+  Minor fixes to time series doc.
+  Adding DataFrame methods to API reference.
+  Added Series functions to API doc.
+  BUG: fix segfault in SeriesGrouper with non-contiguous index
+  RLS: Version 0.9.0 Release Candidate 1
+  BLD: add lib depends #1945
+  BUG: missing case for assigning DataFrame via ix
+  BUG: python 3.1 timedelta compat issue
+  BUG: python 3 tzoffset is not hashable
+  TST: adds dateutil to travis-ci install commands
+  BUG: let selecting multiple columns in DataFrame.__getitem__ work when there are duplicates. close #1943
+  BUG: DatetimeConverter does not handle datetime64 arrays properly
+  BUG: reindex with axis=1 when setting Series to scalar location, close #1942
+  BUG: fix formatting of Timestamps in to_html/IPython notebook. refactor to_html code. close #1940
+  ENH: allow single str input to na_values #1944
+  TST: when xlrd is not installed skip tests needing it, close #1941
+  BUG: DatetimeIndex localizes twice if input is localized DatetimeIndex #1838
+  ..."
+2012-09-23 14:24:57-04:00;1;c69c4f08d1daab70b72d79597f27ff1e72525dc0;"Merge branch 'master' into c-parser
+
+* master: (171 commits)
+  BUG: fix Cython tz_convert bug with time zones that haven't had a UTC transition in a long time. close #1946
+  BUG: fix buglet
+  BUG: try fixing tzlocal bug
+  Minor fixes to time series doc.
+  Adding DataFrame methods to API reference.
+  Added Series functions to API doc.
+  BUG: fix segfault in SeriesGrouper with non-contiguous index
+  RLS: Version 0.9.0 Release Candidate 1
+  BLD: add lib depends #1945
+  BUG: missing case for assigning DataFrame via ix
+  BUG: python 3.1 timedelta compat issue
+  BUG: python 3 tzoffset is not hashable
+  TST: adds dateutil to travis-ci install commands
+  BUG: let selecting multiple columns in DataFrame.__getitem__ work when there are duplicates. close #1943
+  BUG: DatetimeConverter does not handle datetime64 arrays properly
+  BUG: reindex with axis=1 when setting Series to scalar location, close #1942
+  BUG: fix formatting of Timestamps in to_html/IPython notebook. refactor to_html code. close #1940
+  ENH: allow single str input to na_values #1944
+  TST: when xlrd is not installed skip tests needing it, close #1941
+  BUG: DatetimeIndex localizes twice if input is localized DatetimeIndex #1838
+  ..."
+2012-09-23 14:24:57-04:00;1;c69c4f08d1daab70b72d79597f27ff1e72525dc0;"Merge branch 'master' into c-parser
+
+* master: (171 commits)
+  BUG: fix Cython tz_convert bug with time zones that haven't had a UTC transition in a long time. close #1946
+  BUG: fix buglet
+  BUG: try fixing tzlocal bug
+  Minor fixes to time series doc.
+  Adding DataFrame methods to API reference.
+  Added Series functions to API doc.
+  BUG: fix segfault in SeriesGrouper with non-contiguous index
+  RLS: Version 0.9.0 Release Candidate 1
+  BLD: add lib depends #1945
+  BUG: missing case for assigning DataFrame via ix
+  BUG: python 3.1 timedelta compat issue
+  BUG: python 3 tzoffset is not hashable
+  TST: adds dateutil to travis-ci install commands
+  BUG: let selecting multiple columns in DataFrame.__getitem__ work when there are duplicates. close #1943
+  BUG: DatetimeConverter does not handle datetime64 arrays properly
+  BUG: reindex with axis=1 when setting Series to scalar location, close #1942
+  BUG: fix formatting of Timestamps in to_html/IPython notebook. refactor to_html code. close #1940
+  ENH: allow single str input to na_values #1944
+  TST: when xlrd is not installed skip tests needing it, close #1941
+  BUG: DatetimeIndex localizes twice if input is localized DatetimeIndex #1838
+  ..."
+2012-09-24 20:38:42-04:00;1;ee94bcaa32cf06b699ba6a951a3c1af9c608fda5;REF: major parser refactoring to be able to support C and Python parser engines
+2012-09-30 20:15:45-07:00;1;ca26e88b58100031b9827a6a0e34ad2a98ec80fe;Merge branch 'master' of https://github.com/pydata/pandas
+2012-09-30 20:15:45-07:00;2;ca26e88b58100031b9827a6a0e34ad2a98ec80fe;Merge branch 'master' of https://github.com/pydata/pandas
+2012-09-30 20:15:45-07:00;1;ca26e88b58100031b9827a6a0e34ad2a98ec80fe;Merge branch 'master' of https://github.com/pydata/pandas
+2012-09-30 20:15:45-07:00;1;ca26e88b58100031b9827a6a0e34ad2a98ec80fe;Merge branch 'master' of https://github.com/pydata/pandas
+2012-09-30 20:15:45-07:00;1;ca26e88b58100031b9827a6a0e34ad2a98ec80fe;Merge branch 'master' of https://github.com/pydata/pandas
+2012-10-06 07:13:08+02:00;1;0947ff0b9e9160441212c6d7c16423a271dfd58e;"BLD: added caching to setup.py - speeds up testing dramatically.
+
+Cythoning results and compiled extension are cached.
+
+This is disabled by default, to enable it uncomment the line
+specifying the cache directory at the top of setup.py.
+
+you need to occasionally empty the cache manually, to keep
+it from from growing too much.
+BLD: added caching to setup.sys - speeds up testing dramatically.
+
+Cythoning results and compiled extension are cached.
+
+This is disabled by default, to enable it uncomment the line
+specifying the cache directory at the top of setup.py.
+
+you need to occasionally empty the cache manually, to keep
+it from from growing too much."
+2012-10-04 23:59:52+02:00;2;cbeff93c9ac027d64d711adaaba454116722a064;ENH: rework console encoding detection in fmt.print_config
+2012-10-12 19:40:23-04:00;1;04d8228049022ccd682ce029147c90f39461b346;"Merge remote-tracking branch 'y-p/fast_testing'
+
+* y-p/fast_testing:
+  TST: Added Script for running tox instances in parallel.
+  BLD: added caching to setup.py - speeds up testing dramatically."
+2012-10-13 16:15:51-04:00;2;07a2625868802085071780090ef0e2914d84bf69;Merged master into c-parser
+2012-10-13 16:15:51-04:00;1;07a2625868802085071780090ef0e2914d84bf69;Merged master into c-parser
+2012-10-19 23:47:10+02:00;1;f36591e4e190e964f9ea638c4cacdeae99e956a2;STY: pep8
+2012-10-19 23:47:10+02:00;1;f36591e4e190e964f9ea638c4cacdeae99e956a2;STY: pep8
+2012-10-19 23:47:10+02:00;1;f36591e4e190e964f9ea638c4cacdeae99e956a2;STY: pep8
+2012-10-31 15:53:22-04:00;1;0f5fb558ef7c0892a1cfacf24359365cecb92b30;ENH: add gzip/bz2 decompression. tweak buffer_lines heuristic
+2012-10-31 16:27:43-04:00;1;5c2ea40ac9d086b9eb8ba13e65f0db430fd653ce;merge PR #2086
+2012-10-31 16:27:43-04:00;1;5c2ea40ac9d086b9eb8ba13e65f0db430fd653ce;merge PR #2086
+2012-10-31 16:27:43-04:00;1;5c2ea40ac9d086b9eb8ba13e65f0db430fd653ce;merge PR #2086
+2012-11-06 15:35:18-05:00;1;96c1468557900f850046db1343f80a7aca140d65;Additional test coverage for v0.9.1
+2012-11-06 17:06:29-05:00;1;dd598d5e5ed34844dc9b995d3fe5baf67a05cebe;MRG: fix merge conflicts and build issues
+2012-11-06 17:06:29-05:00;1;dd598d5e5ed34844dc9b995d3fe5baf67a05cebe;MRG: fix merge conflicts and build issues
+2012-11-06 17:06:29-05:00;1;dd598d5e5ed34844dc9b995d3fe5baf67a05cebe;MRG: fix merge conflicts and build issues
+2012-11-06 17:06:29-05:00;1;dd598d5e5ed34844dc9b995d3fe5baf67a05cebe;MRG: fix merge conflicts and build issues
+2012-11-08 21:08:30+02:00;1;f6ca3e3fe11b0c5679ab2a3bb8764280ac084651;TST: df.ix[:,unicode] should not die with UnicodeEncodeError
+2012-11-09 12:20:56-05:00;1;bf80c0aa2a7292d23df31d9b0501b49a748f2dcb;"Merge remote branch 'y-p/unicode_'
+
+* y-p/unicode_:
+  BUG: use pprint_thing() rather then str() in Block.repr()
+  BUG: use pprint_thing() rather then str()
+  BUG: nested exceptions clobber the exception context, must reraise with named arg
+  TST: nested exceptions clobber the exception context, must reraise with named arg
+  BUG: MultiIndex repr should properly encode unicode labels
+  TST: MultiIndex repr should properly encode unicode labels
+  BUG: df.ix[:,unicode] should not die with UnicodeEncodeError
+  TST: df.ix[:,unicode] should not die with UnicodeEncodeError
+  BUG: pprint_thing() should not realize lazy things
+  BUG: printing df.columns should not raise exception when labels are unicode
+  TST: printing df.columns should not raise exception when labels are unicode"
+2012-11-11 02:07:13+02:00;1;c8a45cb67bc20672e5d6225ed69a435d14de531f;TST: df with dupe cols should raise KeyError on accessing non-existent col via list
+2012-11-13 18:24:09-05:00;1;b4f4e2561f9a326c5cecb5a74e0e079c09259b61;"Merge remote branch 'y-p/fix1'
+
+* y-p/fix1:
+  ENH: warn user when invoking to_dict() on df with non-unique columns
+  BUG: modify df.iteritems to support duplicate column labels #2219
+  TST: df.iteritems() should yield Series even with non-unique column labels
+  BUG: df with dupe cols should raise KeyError on accessing non-existent col via list #2218
+  TST: df with dupe cols should raise KeyError on accessing non-existent col via list"
+2012-11-14 23:22:29-05:00;1;fed3861e39680a3f37cc1f3533f612934d54a0ca;Merge c-parser branch
+2012-11-14 23:22:29-05:00;1;fed3861e39680a3f37cc1f3533f612934d54a0ca;Merge c-parser branch
+2012-11-15 08:57:12-05:00;1;cb47484336114b51a697edbe8f227b417348f497;Merge branch 'master' of git://github.com/pydata/pandas into panelnd
+2012-11-15 08:57:12-05:00;1;cb47484336114b51a697edbe8f227b417348f497;Merge branch 'master' of git://github.com/pydata/pandas into panelnd
+2012-11-15 10:46:07-05:00;2;25cc4e1f3117f5d2c30182983b31eb4113138aff;BUG: handle IO callback failure from read(...). close #2071
+2012-11-03 16:32:42+02:00;2;5719a5aa102077c8b49498d3d7f3e6fc516fa590;ENH: Migrate print_config usage to use core.config, register options on pkg load
+2012-11-27 01:20:42+02:00;2;d5a81666c5434bd28fb41da425b109e5c10c3dd4;ENH: add py2.6 compatible OrderedDict shim in utilcompat
+2012-11-27 15:14:27-05:00;2;c99dc49a8cbcdb4e7ff60ad50cebaed813c62c9e;"Merge branch 'master' into excelfancy
+
+Conflicts:
+	pandas/src/parse_helper.h
+	pandas/src/parser/tokenizer.c"
+2012-11-27 15:51:47-05:00;1;a87194bdba9aba9b638bfa8c5e9e52ce19e7b8ee;PERF: performance regression in unioning multiple DatetimeIndex objects. #2336
+2012-11-27 16:12:38-05:00;2;3f6e316f354fef2928b9baab739c9728e5a23cae;"Merge remote branch 'y-p/config_module'
+
+* y-p/config_module:
+  TST: Add tests/test_config.py for new core.config module
+  ENH: Migrate print_config usage to use core.config, register options on pkg load
+  ENH: Add new core.config API functions to the pandas top level module
+  ENH: Add core.config module for managing package-wide configurables
+  ENH: Make `pprint_nest_depth` settable via print_setoptions, update docstring."
+2012-11-27 16:15:31-05:00;1;42932b521efeb480a879f863a2caf481efbf31a7;"Refactor of PyTables support to allow multiple table types.
+
+  This commit allows for support of multiple table types in a pytables hdf file,
+  supporting the existing infrastructure in a backwards compatible manner (LegacyTable)
+  while extending to a slightly modified format to support AppendableTables and future support of WORMTables
+
+  AppendableTables are implementations of the current table format with two enhancements:
+     1) mixed dtype support
+     2) writing routines in cython for enhanced performance
+
+  WORMTables (not implemented - but pretty straightforward)
+    these tables can support a fixed 'table' (meaning not-appendable), that is searchable via queries
+    this would have greatly enhanced write performance compared with AppendableTables, and a similar read performance profile
+
+  In addition, the tables allow for arbitrary axes to be indexed (e.g. you could save a panel that allows indexing on major_axis,minor_axis AND items),
+    so all dimensions are queryable (currently only major/minor axes allow this query)
+
+  all tests pass (with 1 exception)
+    a frame table round-trip - we fail on a comparison of a sorted index of the frame vs the index of the table (which is as written), not sure why this should be the case?"
+2012-11-27 18:38:10-05:00;2;a4191c62ac14903f7bcb3705bb95d234c36964ef;Merge branch 'master' of https://github.com/jreback/pandas into pytablesv4
+2012-11-27 18:44:55-05:00;2;64c2eb60d2eecf0d17a45dd743f5493baa83b43f;Merge branch 'master' of git://github.com/pydata/pandas into pytablesv4
+2012-11-27 18:44:55-05:00;1;64c2eb60d2eecf0d17a45dd743f5493baa83b43f;Merge branch 'master' of git://github.com/pydata/pandas into pytablesv4
+2012-11-28 19:33:20-05:00;1;7e59b5b46c51dff4ea2ee51e5a043be106a8c944;Merge PR #2371
+2012-12-02 13:48:10-05:00;1;7e2a47d1c95c1116f015efe4f99dceeb99d63121;TST: unit test to try to replicate #2298
+2012-12-02 17:39:45-05:00;1;bf906bc13a6cb20295460f545f468da7c0a05846;ENH: more refactoring. add consolidation checks to speed up concatenation
+2012-12-04 20:41:04-05:00;1;9e95ce2ab4a9214972d93c23779676b32eeb7e6e;ENH: reduce groupby.apply overhead by internal DataFrame manipulation. close #535
+2012-12-07 11:02:36-05:00;1;dbb4552b7615719882e2a569cb76801b6ec04a73;Merge PR #2407
+2012-12-09 12:53:05-05:00;1;be7490ad77972f00e9aac0d6cbc28df842ae91f3;ENH: expose decimal option in new parser in read_* functions. close #2466
+2012-12-09 13:26:19-05:00;1;a7ff67151a92cf1000fb27ab5e379dff37b14cf9;TST: unit test to verify #2396 fixed
+2012-12-10 12:07:12-05:00;1;bb7eaff7847b70c07e488af3bd764888c1937b73;BUG: empty frame.apply with func that fails on empty series #2476
+2012-12-10 18:20:40-05:00;1;a067a0fac38dc54855ff0151553fb26529c240f1;CMP: backport Counter for Python 2.6 compat
+2012-12-12 14:00:58-05:00;1;98030301bce1fdd2711a720aa2e26d9485324bdf;BUG: fixed version checking for PyTables >= 2.3 (and put the correct tests in this time)
+2012-12-13 09:45:13-05:00;1;9f6a2ed272ec7f94aa2bef5cb610ecde68761b73;"BUG: fixed string appending when length of subsequent is longer/shorter that existing
+     removed meta data saving
+     disable memory tests (and put a try:except: around it)"
+2012-12-13 17:55:38-05:00;2;8f784f108476c43dcc5a703944d3890f763f779b;"Merge remote branch 'jreback/pytables_ndim2'
+
+* jreback/pytables_ndim2:
+  DOC: updated HDFStore docs for indexing support and better explanations on how to deal with strings in indexables/values
+  ENH: allow index recreation by calling create_table_index with new parameters
+  BUG: fixed versioning of the data, not reporting correct warnings
+  BUG: fixed string appending when length of subsequent is longer/shorter that existing      removed meta data saving      disable memory tests (and put a try:except: around it)
+  DOC: small doc change w.r.t. min_itemsize
+  BUG: fixed string truncation in values by passing min_itemsize = { 'values' : 1024 }
+  BUG: non-datetime indicies were not being handled correctly in searchings (via Terms)       added support for integer, float, date
+  BUG: fixes most of the memory issues      bug in concat with single object      not sure about block2d_to_blocknd memory increase....
+  BUG: fixed version checking for PyTables >= 2.3 (and put the correct tests in this time)
+  BUG: better detection of legacy_frame tables (and ability to force certain typ's)
+  ENH: added meta data attribute saving
+  BUG: removed table check in select if where is provided (convience really)      allow types in Term that are datetime-like (e.g. can provide a timetuple method)      added a warning if you try to select/remove with a where criteria on a legacy table (which isn't supported),        you must convert to new format      added versioning ability, 'pandas_version', can't detect future format changes (not a required attribute)
+  ENH: ndim tables in HDFStore      changes axes_to_index keyword in table creation to axes      allow passing of numeric or named axes (e.g. 0 or 'minor_axis') in axes      create_axes now checks for current table scheme; raises if this indexing scheme is violated      added many p4d tests for appending/selection/partial selection/and axis permuation      added addition Term tests to include p4d      add __eq__ operators to IndexCol/DataCol/Table to comparisons      updated docs with Panel4D saving & issues relating to threading      supporting non-regular indexables:        e.g. can index a Panel4D on say [labels,major_axis,minor_axis], rather             than the default of [items,major_axis,minor_axis]      support column oriented DataFrames (e.g. queryable by the columns)"
+2012-12-14 11:41:08-05:00;1;9a98fb9c0a605ac6a728956b3fbe42bb64026534;ENH: handle decompression in python-parser, e.g. for regular expression delimiting. close #2535
+2012-12-19 08:03:39-05:00;1;c749c18ba3ac08debf3a1c18c1975d80d7a5c220;ENH: correctly interpret data column dtypes and raise NotImplementedError (in cases of unicode/datetime64/date)
+2012-12-21 09:03:33-05:00;1;a780c4c8ba8c42677b050d04ad0ce15ff51cffa7;BUG: reworked versioning to only act on specific version
+2012-12-26 22:14:14-05:00;2;e078eadebbbbab38ec0cd5b7c914c993beec67b4;ENH: added unique method to store, for selectin unique values in an indexable or data column w/o selecting the entire table
+2012-12-28 10:06:00-05:00;4;48434d21d9020c7688c256c5c4b1d889f3b342fb;Merge PR #2561
+2012-12-28 11:10:33-05:00;1;d5b790778dba1449fa72af2907876d1e7637508d;BUG: common.in_interactive_session() returns False after IPython %run magic #2585
+2012-12-24 23:33:18-05:00;1;e06334aa37028e265dedb3d1ab11046fd6e7cab9;"BUG: provide for automatic conversion of object -> datetime64[ns] types upon creation (in make_block)
+     this obviates the need to convert_objects (mostly)
+     in addition, enabled setting of NaT in datetime64[ns] columns via np.nan (on-the-fly-conversion)"
+2012-12-25 12:51:32-05:00;1;155975e40685be90015523eb57c7a15b266793e5;"BUG/ENH: explicity support Series construction with a datetime64 dtype (and allow np.nan) to be passed
+         e.g. Series(np.nan,index=range(5),dtype='M8[ns]')
+         bugfix in core/frame for applymap, handle dtype=M8[ns] series explicity (needed to cast datetim64 to Timestamp)"
+2013-01-03 18:32:18+00:00;1;66fc98f0b7316331b505c4c4d4929fcbdc668d86;"Using autopep8 (https://github.com/hhatto/autopep8) on all py files.
+Some lines were changed manually (those which may change the logic).
+
+Have not fixed E501 line too longs, these are the only pep8 failures.
+
+Check current pep8 compliance of all py files in current directory:
+for f in *.py; do pep8 $f; done
+
+Run autopep8 on py files in current directory:
+for f in *.py; do autopep8 -i $f; done"
+2013-01-03 18:32:18+00:00;1;66fc98f0b7316331b505c4c4d4929fcbdc668d86;"Using autopep8 (https://github.com/hhatto/autopep8) on all py files.
+Some lines were changed manually (those which may change the logic).
+
+Have not fixed E501 line too longs, these are the only pep8 failures.
+
+Check current pep8 compliance of all py files in current directory:
+for f in *.py; do pep8 $f; done
+
+Run autopep8 on py files in current directory:
+for f in *.py; do autopep8 -i $f; done"
+2013-01-03 18:32:18+00:00;1;66fc98f0b7316331b505c4c4d4929fcbdc668d86;"Using autopep8 (https://github.com/hhatto/autopep8) on all py files.
+Some lines were changed manually (those which may change the logic).
+
+Have not fixed E501 line too longs, these are the only pep8 failures.
+
+Check current pep8 compliance of all py files in current directory:
+for f in *.py; do pep8 $f; done
+
+Run autopep8 on py files in current directory:
+for f in *.py; do autopep8 -i $f; done"
+2013-01-05 15:26:12-05:00;1;bb3231eaf686b2c9a642d354c0696b5f55975a53;Merge PR #2632
+2013-01-05 15:26:12-05:00;1;bb3231eaf686b2c9a642d354c0696b5f55975a53;Merge PR #2632
+2013-01-05 15:26:12-05:00;1;bb3231eaf686b2c9a642d354c0696b5f55975a53;Merge PR #2632
+2013-01-05 16:18:48-05:00;1;164eb2b1da808f9473722aea92950040ef5c8a08;TST: couple small test fixes
+2012-12-28 11:48:06-05:00;1;43673368d4309f38fe3a4f6eeb1860b3b5f3fdd5;"BUG: fixed old version compatibility warnings
+     added copy_to method to allow file upgrades to new version"
+2012-12-29 09:34:26-05:00;1;395203f8b8bd4695c5ab119d23f046959d26ab5f;BUG: updated the copy method to work with supplied options
+2013-01-04 16:42:42-05:00;2;375248ea6848dd1a5a7f27c136361826206d3506;"ENH/BUG: refactor of non-table HDFStore to put in object form (Storer class), for future enhancements
+         added shape to non-table display
+         closes GH2637"
+2013-01-05 17:42:50-05:00;1;f469a915e61480932bebc595affda36b04a3a328;TST: skip failure to remove file in HDFStore tests. close #2645
+2013-01-05 23:33:24-05:00;2;a52df7d6b6013bafefe9b5429fe775fd33fee068;Merge PR #2607
+2013-01-05 23:33:24-05:00;2;a52df7d6b6013bafefe9b5429fe775fd33fee068;Merge PR #2607
+2013-01-15 14:22:17-05:00;1;62119368fed007f4d7ddadd88036ce5569aa5ea7;"BUG: reading non-well formed generic_tables not working (e.g. detector/readout), where readout is a table
+     added pytables_native2.h5 for testing
+
+BUG: force travis to rebuild
+
+BUG: fix travis build 2"
+2013-01-19 22:03:38-05:00;1;e6e7c0fa2c83106fec7dc0325e2f08e6c164bfba;Merge PR #2675
+2013-01-28 20:55:15-07:00;1;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-28 20:55:15-07:00;1;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-28 20:55:15-07:00;4;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-28 20:55:15-07:00;3;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-28 20:55:15-07:00;1;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-28 20:55:15-07:00;1;e5266840faa1ae71ea47cdea170475c8a86ff896;BUG: Small bug in helper functions _unpack and _parse_options_data
+2013-01-25 08:45:00-05:00;1;132d90dcf34fa7d2d7c5af978efc7e69238b805d;"BUG: various bug fixes for DataFrame/Series construction related to:
+        0 and 1 len ndarrays
+        datetimes that are single objects
+        mixed datetimes and objects (GH #2751)
+        astype now converts correctly with a datetime64 type to object, NaT are converted to np.nan
+        _get_numeric_data with empty mixed-type returning empty, but index was missing
+DOC: release notes updated, added missing_data section to docs, whatsnew 0.10.2"
+2013-01-29 13:21:22-05:00;2;1dbe01dff53719310a9ade4ba41799f3bc281878;"TST: use ensure_clean contextmanager to avoid spewing temporary files if
+     testing is interrupted"
+2013-02-07 12:09:18-05:00;1;7065ff0e9ecf3516544591a709f95202f3f38acb;ENH: provide dotted (attribute) access in stores (e.g. store.df == store['df'])
+2013-01-19 16:18:20-05:00;1;166a80dc5dfdb6aa41b2c1687069e5fd47e41cc6;"ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)
+     construction of multi numeric dtypes with other types in a dict
+     validated get_numeric_data returns correct dtypes
+     added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame
+     added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns
+     fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)
+     changed implementation of get_dtype_counts() to use .blocks
+     revised DataFrame.convert_objects to use blocks to be more efficient
+     added Dtype printing to show on default with a Series
+     added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]
+     where can upcast integer to float as needed (on inplace ops #2793)
+     added fully cythonized support for int8/int16
+     no support for float16 (it can exist, but no cython methods for it)
+
+TST: fixed test in test_from_records_sequencelike (dict orders can be different on different arch!)
+       NOTE: using tuples will remove dtype info from the input stream (using a record array is ok though!)
+     test updates for merging (multi-dtypes)
+     added tests for replace (but skipped for now, algos not set for float32/16)
+     tests for astype and convert in internals
+     fixes for test_excel on 32-bit
+     fixed test_resample_median_bug_1688 I belive
+     separated out test_from_records_dictlike
+     testing of panel constructors (GH #797)
+     where ops now have a full test suite
+     allow slightly less sensitive decimal tests for less precise dtypes
+
+BUG: fixed GH #2778, fillna on empty frame causes seg fault
+     fixed bug in groupby where types were not being casted to original dtype
+     respect the dtype of non-natural numeric (Decimal)
+     don't upcast ints/bools to floats (if you say were agging on len, you can get an int)
+DOC: added astype conversion examples to whatsnew and docs (dsintro)
+     updated RELEASE notes
+     whatsnew for 0.10.2
+     added upcasting gotchas docs
+
+CLN: updated convert_objects to be more consistent across frame/series
+     moved most groupby functions out of algos.pyx to generated.pyx
+     fully support cython functions for pad/bfill/take/diff/groupby for float32
+     moved more block-like conversion loops from frame.py to internals.py (created apply method)
+       (e.g. diff,fillna,where,shift,replace,interpolate,combining), to top-level methods in BlockManager"
+2013-01-19 16:18:20-05:00;1;166a80dc5dfdb6aa41b2c1687069e5fd47e41cc6;"ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)
+     construction of multi numeric dtypes with other types in a dict
+     validated get_numeric_data returns correct dtypes
+     added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame
+     added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns
+     fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)
+     changed implementation of get_dtype_counts() to use .blocks
+     revised DataFrame.convert_objects to use blocks to be more efficient
+     added Dtype printing to show on default with a Series
+     added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]
+     where can upcast integer to float as needed (on inplace ops #2793)
+     added fully cythonized support for int8/int16
+     no support for float16 (it can exist, but no cython methods for it)
+
+TST: fixed test in test_from_records_sequencelike (dict orders can be different on different arch!)
+       NOTE: using tuples will remove dtype info from the input stream (using a record array is ok though!)
+     test updates for merging (multi-dtypes)
+     added tests for replace (but skipped for now, algos not set for float32/16)
+     tests for astype and convert in internals
+     fixes for test_excel on 32-bit
+     fixed test_resample_median_bug_1688 I belive
+     separated out test_from_records_dictlike
+     testing of panel constructors (GH #797)
+     where ops now have a full test suite
+     allow slightly less sensitive decimal tests for less precise dtypes
+
+BUG: fixed GH #2778, fillna on empty frame causes seg fault
+     fixed bug in groupby where types were not being casted to original dtype
+     respect the dtype of non-natural numeric (Decimal)
+     don't upcast ints/bools to floats (if you say were agging on len, you can get an int)
+DOC: added astype conversion examples to whatsnew and docs (dsintro)
+     updated RELEASE notes
+     whatsnew for 0.10.2
+     added upcasting gotchas docs
+
+CLN: updated convert_objects to be more consistent across frame/series
+     moved most groupby functions out of algos.pyx to generated.pyx
+     fully support cython functions for pad/bfill/take/diff/groupby for float32
+     moved more block-like conversion loops from frame.py to internals.py (created apply method)
+       (e.g. diff,fillna,where,shift,replace,interpolate,combining), to top-level methods in BlockManager"
+2013-01-19 16:18:20-05:00;1;166a80dc5dfdb6aa41b2c1687069e5fd47e41cc6;"ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)
+     construction of multi numeric dtypes with other types in a dict
+     validated get_numeric_data returns correct dtypes
+     added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame
+     added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns
+     fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)
+     changed implementation of get_dtype_counts() to use .blocks
+     revised DataFrame.convert_objects to use blocks to be more efficient
+     added Dtype printing to show on default with a Series
+     added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]
+     where can upcast integer to float as needed (on inplace ops #2793)
+     added fully cythonized support for int8/int16
+     no support for float16 (it can exist, but no cython methods for it)
+
+TST: fixed test in test_from_records_sequencelike (dict orders can be different on different arch!)
+       NOTE: using tuples will remove dtype info from the input stream (using a record array is ok though!)
+     test updates for merging (multi-dtypes)
+     added tests for replace (but skipped for now, algos not set for float32/16)
+     tests for astype and convert in internals
+     fixes for test_excel on 32-bit
+     fixed test_resample_median_bug_1688 I belive
+     separated out test_from_records_dictlike
+     testing of panel constructors (GH #797)
+     where ops now have a full test suite
+     allow slightly less sensitive decimal tests for less precise dtypes
+
+BUG: fixed GH #2778, fillna on empty frame causes seg fault
+     fixed bug in groupby where types were not being casted to original dtype
+     respect the dtype of non-natural numeric (Decimal)
+     don't upcast ints/bools to floats (if you say were agging on len, you can get an int)
+DOC: added astype conversion examples to whatsnew and docs (dsintro)
+     updated RELEASE notes
+     whatsnew for 0.10.2
+     added upcasting gotchas docs
+
+CLN: updated convert_objects to be more consistent across frame/series
+     moved most groupby functions out of algos.pyx to generated.pyx
+     fully support cython functions for pad/bfill/take/diff/groupby for float32
+     moved more block-like conversion loops from frame.py to internals.py (created apply method)
+       (e.g. diff,fillna,where,shift,replace,interpolate,combining), to top-level methods in BlockManager"
+2013-02-09 22:27:30-05:00;1;8ad95985a2bc96bb0c824227bdeb855ffa412d71;"Merge remote branch 'jreback/dtypes'
+
+* jreback/dtypes:
+  ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)      construction of multi numeric dtypes with other types in a dict      validated get_numeric_data returns correct dtypes      added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame      added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns      fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)      changed implementation of get_dtype_counts() to use .blocks      revised DataFrame.convert_objects to use blocks to be more efficient      added Dtype printing to show on default with a Series      added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]      where can upcast integer to float as needed (on inplace ops #2793)      added fully cythonized support for int8/int16      no support for float16 (it can exist, but no cython methods for it)"
+2013-02-09 22:27:30-05:00;1;8ad95985a2bc96bb0c824227bdeb855ffa412d71;"Merge remote branch 'jreback/dtypes'
+
+* jreback/dtypes:
+  ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)      construction of multi numeric dtypes with other types in a dict      validated get_numeric_data returns correct dtypes      added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame      added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns      fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)      changed implementation of get_dtype_counts() to use .blocks      revised DataFrame.convert_objects to use blocks to be more efficient      added Dtype printing to show on default with a Series      added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]      where can upcast integer to float as needed (on inplace ops #2793)      added fully cythonized support for int8/int16      no support for float16 (it can exist, but no cython methods for it)"
+2013-02-09 22:27:30-05:00;1;8ad95985a2bc96bb0c824227bdeb855ffa412d71;"Merge remote branch 'jreback/dtypes'
+
+* jreback/dtypes:
+  ENH: allow propgation and coexistance of numeric dtypes (closes GH #622)      construction of multi numeric dtypes with other types in a dict      validated get_numeric_data returns correct dtypes      added blocks attribute (and as_blocks()) method that returns a dict of dtype -> homogeneous Frame to DataFrame      added keyword 'raise_on_error' to astype, which can be set to false to exluded non-numeric columns      fixed merging to correctly merge on multiple dtypes with blocks (e.g. float64 and float32 in other merger)      changed implementation of get_dtype_counts() to use .blocks      revised DataFrame.convert_objects to use blocks to be more efficient      added Dtype printing to show on default with a Series      added convert_dates='coerce' option to convert_objects, to force conversions to datetime64[ns]      where can upcast integer to float as needed (on inplace ops #2793)      added fully cythonized support for int8/int16      no support for float16 (it can exist, but no cython methods for it)"
+2013-02-05 23:24:04-05:00;4;c871050544733cb4aae10e23de7e5f4a705b71ae;"ENH: Optimize take_*; improve non-NA fill_value support"
+2013-02-10 15:39:04-05:00;1;fc53067ecd35a427fb8e167e860b7fdc14afdcee;Merge PR #2752
+2013-02-10 15:52:42-05:00;4;528afb2d000b94a283be967132872976d718e949;"Merge remote branch 'stephenwlin/opt-take'
+
+* stephenwlin/opt-take:
+  ENH: Optimize take_*; improve non-NA fill_value support
+  TST: add vb_suite test for reindex with upcasting"
+2013-02-10 17:10:25-05:00;1;1511d3fc7659e784f08a49ba0b7c2871d7bdd5a5;Merge PR #2755
+2013-02-10 17:10:25-05:00;2;1511d3fc7659e784f08a49ba0b7c2871d7bdd5a5;Merge PR #2755
+2013-02-19 10:08:53-05:00;1;542d6681f2eb465310656cdb99da907350481142;"BUG: Series ops with a rhs of a Timestamp was throwing an exception
+     unique of a Series now returns a Series
+     _index.convert_scalar now will ignore a ndarray object if the lhs is timelike
+        (eg a non-scalar that is a series/ndarray is passed)
+
+BUG: py3 issue with np.datetime64 conversion
+     added array_timedelta_to_int conversions in tslib.pyx
+     removed unique changes
+
+DOC: added docs to timeseries for timedeltas and v0.11.0 whatsnew
+     minor fixing of doc refernce in v0.10.0
+     updated RELASE.rst
+
+ENH: added ability for Series to set its dtype if it detects all timedelta like objects
+
+ENH: added null checking and NaT support for timedelta64
+     added formatter for timedelta64
+     added setting via np.nan for NaT values (similar to datetime64[ns] support)
+
+FMT: fixed timedelta64[ns] formatting (was breaking on py3.3)
+     had to roll a new printer (repr_timedelta64) rather than use
+     default str(x)
+
+ENH: increased robustness in detection/conversion of timedelta64
+     that are intermixed with np.nan,NaT,iNaT"
+2013-02-23 12:30:30-08:00;1;e9b9ca5059af22d05564e324885f711ce218fd2c;"Merge pull request #2899 from jreback/timedelta_issue
+
+BUG: Series ops with a rhs of a Timestamp raising exception (#2898)"
+2013-03-02 13:44:45+00:00;1;153077f4c74562758263562826ac4158ae9ae948;keep name after DataFrame drop, add check_name to assert_dataframe_equal
+2013-03-06 17:35:06-08:00;1;501ba371feff7f6424539fafa2da7d099c63341a;"Merge pull request #2962 from hayd/issue2939_drop_loses_name_2
+
+BUG keep name after DataFrame drop, add check_name to assert_dataframe_equal"
+2013-03-07 13:08:46-05:00;1;1a70843ea4d891bdc887da627ce9da33686e902b;ENH: optimization on possibily_convert_datetime to only try conversion in certain cases
+2013-03-07 11:15:00-08:00;1;9429c03f919600863bf04e8c7684eaafd0c6b4b3;"Merge pull request #2990 from jreback/timedelta_fixes
+
+ENH: support min/max on timedelta64[ns] Series"
+2013-03-08 16:23:33-05:00;1;385ff82eabe41684af4441a539640f402f879b74;"ENH: added ability to use single or multi-threads in numexp testing
+
+TST: updating test_expressions to test with 1 and num_cores
+
+ENH: added module level function in core/expressions to change use of numexpr
+
+BUG: using set_use_numexpr now changes the evaluation functionsx"
+2013-03-09 11:42:52-08:00;1;13f54e5a8841ba3e4974183cc45061500fbe7a8c;"Merge pull request #2925 from jreback/compare
+
+ENH: numexpr on boolean frames"
+2013-03-13 21:15:01-04:00;1;5bc2973ef8ada09199cd381925737f9723f5aff1;"BUG: Bug in groupby with first/last where dtypes could change (GH3041_)
+DOC: docstring updates in core/common.py for _possibily_cast_to_timedelta"
+2013-03-13 19:00:19-07:00;1;465f054318da0baa9e9158fb4adbbaf047613186;"Merge pull request #3044 from jreback/groupby_3016
+
+BUG: Bug in groupby with first/last where dtypes could change (GH3041_)"
+2013-03-17 02:18:57+02:00;1;e20199fc449ee6ccd1d573b78261b6a5af50d456;BUG: add sanity check to groupby agg function, outside main loop
+2013-03-17 08:32:35-07:00;1;4c5461e04c5a9cf358d4c78732bbc0c287ec7a39;"Merge pull request #3031 from y-p/groupby_bounds
+
+ENH: add bounds-checking preamble to groupby_X cython code"
+2013-03-19 22:30:19+02:00;1;1f138a4a88f7ab32152b838cbbd33876b67595d2;"BUG: to_csv should allow writing of dupe cols if within same block GH3095
+
+closes #3095"
+2013-03-20 08:32:29-04:00;1;7735405396dae497b5cedf327c16810c20b94561;TST: added ensure_clean file cleanup context manager for file based tests
+2013-03-20 08:32:29-04:00;1;7735405396dae497b5cedf327c16810c20b94561;TST: added ensure_clean file cleanup context manager for file based tests
+2013-03-20 07:44:44-07:00;1;a6db105d7598d349e073f2406a9ede8168024315;"Merge pull request #3103 from jreback/ensure_clean
+
+TST: added ensure_clean file cleanup context manager for file based test"
+2013-03-20 07:44:44-07:00;1;a6db105d7598d349e073f2406a9ede8168024315;"Merge pull request #3103 from jreback/ensure_clean
+
+TST: added ensure_clean file cleanup context manager for file based test"
+2013-03-22 21:12:13+02:00;1;f6edd175c2d5978e0127dcec73f591a16ce6ac18;ENH: add option display.with_mpl_style GH3075
+2013-03-22 19:45:26-04:00;1;7898ec24f3f70bcbc09b98457988b13ebc7f0775;PERF: groupby transform
+2013-03-25 14:24:56-07:00;1;1b7f0704ec0598796d7e40039efc06394bdff5d4;"Merge pull request #3145 from jreback/transform
+
+PERF: GH2121 groupby transform"
+2013-03-20 19:19:55-04:00;2;acca73517ec4f3baa1a75b619cd460a8add81033;BUG: fixed issues where passing an axis of 'index' would fail (as its expecting an axis number)
+2013-03-26 07:55:26-07:00;2;9eb46897987b958293fb979a1375e37700398e57;"Merge pull request #3110 from jreback/aliases
+
+BUG: GH3109 fixed issues where passing an axis of 'columns' would fail"
+2013-03-30 21:53:43+03:00;1;a25fcba08ccbdb4550d5185ddf675652fc904c36;BUG: PeriodIndex pickle roundtrip does not recreate freq GH2891
+2013-03-30 14:05:23-07:00;1;310860430a6437687a5e0a4fbf94b95816ee5065;"Merge pull request #3224 from y-p/GH2891
+
+PeriodIndex pickle roundtrip does not recreate freq GH2891"
+2013-04-10 09:41:30-04:00;1;f600e204cc199838c4ab8f2153b4217b03595680;"ENH: added legacy pickel generation/testing suppport
+
+TST: added io/tests/test_pickle.py to test stored pickles
+     added io/tests/generate_legacy_pickles.py to create legacy pickles
+       on various arch and sytems (need contributions)
+     added some sample pickles for 0.10.1/0.11.0"
+2013-04-11 22:07:36-07:00;1;ba774f577f5298911f908f5252b7b7d5d60f632c;Merge PR #3310
+2013-04-14 12:00:15-04:00;1;ff6501e9264bd15b91ec988a14ae2de8c4c2c2ff;"PERF: get_numeric_data now a bit faster
+
+CLN: cleaned up take in tseries/resample and core/internals to use interenals take
+
+     (which wasn't using the block level take)"
+2013-04-14 09:31:55-07:00;1;268e433ed0aa89529ff83e0f3c6b59bd99666385;"Merge pull request #3359 from jreback/perf_numeric
+
+PERF: get_numeric_data now a bit faster"
+2013-04-15 08:59:45+03:00;1;68a0995550b3b488c609a23df49ac98e1969ab4c;BLD: add system info line to ci/print_versions.py
+2013-04-17 10:53:14-04:00;1;4bb5f6d08974cb4ad46e3a0b220029b8b53408a5;"BUG: GH3380 groupby will handle mutation on a DataFrame group's columns and fallback
+
+     to non-fast apply
+
+DOC: PTF"
+2013-04-20 07:32:53-07:00;1;1380bb87685ee34a679001f84772d800754ae783;"Merge pull request #3384 from jreback/groupby_mutate
+
+BUG: GH3380 groupby will handle mutation on a DataFrame group's columns"
+2013-04-19 13:51:51+03:00;1;1ab858671fa0caa0533e3c5c3bf44d7c4d9d7736;ENH: add helper for detecting any IPython zmq frontend, make in_qtconsole robuster
+2013-04-22 17:35:22+03:00;1;b9fa04a89306a9b3e775353421d79a13123ece88;"Merge branch 'repr_fixes'
+
+* repr_fixes:
+  BUG: config.is_one_of_factory is broken
+  TST: add test for config.is_one_of_factory
+  DOC: RELEASE.rst mention new options disp.height/width and deprecated line_width
+  BUG: fix validators for config options
+  ENH: default dimensions for ip zmq frontends derive from disp.height/width defaults
+  ENH: let display.notebook_repr_html control HTML repr in qtconsole again.
+  ENH: fix df.repr() for scripts (keep GH1611 away), accept None for max_cols/rows
+  BUG: rework get_console_size to handle cases properly
+  ENH: optimize _repr_fits_horizontal_, to_string only on slice of interest
+  BUG: for numerical option, sentry should be another Type, not 0
+  TST: fix test_repr_non_interactive passing by accident
+  TST: adjust tests to accommodate new defaults for display options
+  ENH: Adjust height/width/max_rows defaults to match informal survey results
+  CLN: convert test utilizing disp.line_width to disp.width
+  DOC: Add comments, tweak option descriptions.
+  BUG: Always Ignore auto-detect terminal size for qtc/+ipnb
+  ENH: add helper for detecting any IPython zmq frontend, make in_qtconsole robuster
+  ENH: add internal get_default_val() function to core.config
+  BUG: fix df repr troubles GH3337"
+2013-04-24 13:46:19-04:00;1;d101f45b94c0d74e3faa8501b2a858991638489a;BUG: Removing a nonexistent store raises a KeyError
+2013-04-25 07:25:08-07:00;1;3c728a7a3f8d1893e03853d19b11e4de88ac1ec5;"Merge pull request #3447 from danielballan/remove-raises-keyerror
+
+BUG: Removing a nonexistent store raises a KeyError (GH3346) - thansk!"
+2013-04-22 17:58:16-04:00;1;b31c033fa4b4f1736e7ce67de33b4b492466e9f7;"ENH: add ability to read html tables directly into DataFrames
+
+use __import__ on 2.6
+
+extra code from previous merges and importlib failure on tests
+
+fix bs4 issues with no match provided
+
+docstring storm!
+
+markup slow tests (bank list data) and add tests for failing parameter values
+PTF
+
+ok that is really it for docstring mania
+
+add testfor multiple matches"
+2013-05-03 19:53:39+03:00;1;6518c7991ecc9d7e071574d15ddebd3283333ff8;"Merge branch 'cpcloud_read_html'
+
+* cpcloud_read_html:
+  DOC: update RELEASE.rst
+  ENH: add ability to read html tables directly into DataFrames"
+2013-05-09 21:21:52-04:00;2;ae50103ce639412eb732fe6092d00c5ebe551ad9;unicode of PeriodIndex returns valid Python code
+2013-05-10 02:29:37-07:00;2;6b6712bc708fb66a069a5d316eed6e48de93ae85;"Merge pull request #3560 from cpcloud/period-index-unicode-evaling-3460
+
+ENH: unicode of PeriodIndex returns valid Python code"
+2013-05-14 08:27:05-04:00;1;555af4cb73ab75ab68df1c56c68e58a4e5821089;"BUG:  Fix integer modulo and division to work in a similar manner on integer dtypes as float dtypes (GH3590_).
+
+      This is a numpy oddity that treats them differently.
+
+ENH:  Add modulo operator to Series,DataFrame
+
+TST: py3 compat for division"
+2013-05-14 14:48:10-07:00;1;a14cbd0ec2ceb0102b3be5d1bc8e6c47ce6b8aa0;"Merge pull request #3600 from jreback/modulo
+
+BUG:  Fix integer modulo and division to make integer and float dtypes work similarly for invalid values"
+2013-05-15 20:56:48-04:00;1;c6c0b8e59d524e275ededa2d03c95d5d3a7bb681;BUG: (GH3617) Fix indexing issue with ndim >= 3 with iloc
+2013-04-07 21:54:58+02:00;2;9a7173779163c18be0618f14c2efc9fcb764c6cb;ENH: Added StataReader and StataWriter (#1512)
+2013-04-21 22:03:54+02:00;2;119ee974942c31f7af9d6eb07944628610f7e91f;Moved StataParser into new module pandas.io.stata
+2013-05-16 07:29:48-04:00;2;c0181d1ad48b518fb3a1a7ab133b8e96a0ad48e0;"Merge branch 'master' of https://github.com/PKEuS/pandas into PKEuS-master
+
+Conflicts:
+	RELEASE.rst"
+2013-05-16 04:35:05-07:00;1;4090a85e781512ee9b6e70ab2e5bdef01cfa97e0;"Merge pull request #3618 from jreback/iloc_broken
+
+BUG: (GH3617) Fix indexing issue with ndim >= 3 with iloc"
+2013-05-16 10:27:11-04:00;1;7177eddc593858b9ac49e581370a5088200d62f5;"DOC: more informative PerformanceWarning
+
+     PTF"
+2013-06-05 07:54:31-04:00;2;34161809bf46eee5ca5ef4ded7e0da0556bea63d;"BUG: (GH3611) revisited; read_excel not passing thru options to ExcelFile.parse
+
+API: add string and numeric versions of na_values when parsing"
+2013-06-05 07:02:42-07:00;2;eef04ccbb1e5f122870ead8185e252f45783616f;"Merge pull request #3758 from jreback/parse_na
+
+BUG: (GH3611) revisited; read_excel not passing thru options to ExcelFile.parse"
+2013-06-04 17:48:32-04:00;2;7097368a20fdbec7505092e723d359a871f16c10;"ENH: allow fallback when lxml fails to parse
+
+DOC: add release notes for new list convention
+
+ENH: add list of parsers
+
+CLN: remove raise_on_error
+
+BUG: fix format string
+
+BUG: fix different raise type
+
+BLD: travis python 3.2 is strange
+
+BUG: bring in urlparse again since 2to3 shows proper conversion
+
+TST: fix for python26"
+2013-06-06 12:26:23-07:00;1;aee2088f372ec74bdf0fb2ae6ca01b3c7e660537;"Merge pull request #3766 from cpcloud/read-html-lxml-failed-parse
+
+ENH: allow fallback when lxml fails to parse"
+2013-05-20 17:02:37-04:00;1;2a2cfb83582ece7690c94457cc5a6f0835049f5c;ENH: Add filter method to SeriesGroupBy, DataFrameGroupBy
+2013-06-06 17:05:12-04:00;1;3ebfef9204de0aab456d2ea72b245b846fa3f9f7;"Merge branch 'filter' of https://github.com/danielballan/pandas into danielballan-filter
+
+Conflicts:
+	doc/source/v0.11.1.txt"
+2013-06-11 09:37:55-04:00;3;c840591754e8db4889f0b19d609c0cc76a091064;"BUG: add na_fvalues to parsers to enable matching of float values w/o relying on string matching
+
+     for an exact match"
+2013-06-09 01:19:52-04:00;2;8e673cf0766b697952522aa593e53bb80b1fbce2;"ENH: removed json argument, now path_or_buf can be a path,buffer,url,or JSON string
+
+     added keywords parse_dates,keep_default_dates to allow for date parsing in columns
+     of a Frame (default is False, not to parse dates)"
+2013-06-09 10:34:40-04:00;1;2697b4903adc47e918407e19069a04b1cf1f43af;"ENH: added date_format parm to to_josn to allow epoch or iso formats (which both can be
+
+     can be parsed with parse_dates=True in read_json)"
+2013-06-11 10:43:23-07:00;3;d00f1091eb9c2f27510846dda43a358b3748d869;"Merge pull request #3841 from jreback/GH3611_2
+
+BUG: GH3611 fix again, float na_values were not stringified correctly"
+2013-06-11 12:18:34-07:00;3;a7f37d4f6fe1f837a7b8d61fb0197cc25fb7c97f;"Merge pull request #3804 from jreback/ujson
+
+ENH: add ujson support in pandas.io.json"
+2013-06-12 22:48:32-04:00;2;186a4f80d30e45501557a4a8081e910e787e7dc3;"ENH: added convert_axes argument to control whether to coerce axes
+
+ENH: changed dtype argument to accept a dict for a per-column dtype conversion, or
+     turn off conversion (default is True)
+
+ENH: changed parse_dates to convert_dates, now defaulting to True
+
+BUG: not processing correctly some parsable JSON"
+2013-06-13 12:14:09-07:00;2;3d98544fce98f6fa9b7bfb10db5b8e506985d2a6;"Merge pull request #3876 from jreback/json_rt
+
+ENH: JSON"
+2013-06-13 18:44:49-04:00;2;d52e6999c54c984c962b68a1c36c81f5f5a785d5;TST: json tests to int64 to avoid dtype issues
+2013-06-14 06:13:15-07:00;2;cca1b7e0cb9bbcfdf84b3da125933e1627267425;"Merge pull request #3898 from jreback/test_fixes
+
+TST: test fixes for various builds (debian)"
+2013-06-15 10:41:07-04:00;1;51c6799f68b486f165a46e985b3e36720a176f3e;CLN: Change CRLF --> LF
+2013-06-17 16:46:16-07:00;1;7ea6bdc9df375bfc4d239e7948f48fd2099df3ef;"Merge pull request #3915 from jtratner/fix-crlf-in-repo
+
+CLN: Fix CRLFs in repo + add .gitattributes"
+2013-05-31 13:14:59+02:00;1;11ce405e94cdf1ca674bdf47f34acab99ca63a21;"ENH: Experimental CustomBusinessDay DateOffset class. Fixes GH2301.
+ENH: Added check for required version of Numpy.
+ENH: Added holidays and weekmask arguments to cdate_range as suggested by
+@jreback. Also improved docstrings."
+2013-06-28 20:02:51-04:00;1;ac89b710d9d5b4517eb803b3e20274d759de68bb;TST: more data.py cleanup
+2013-06-30 18:29:01-07:00;1;40be825bbc47df5af88490d85b7d1d11c190a753;"Merge pull request #4085 from cpcloud/data-dot-py-cleanup
+
+ENH: really really really fix the failing data.py tests"
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;4;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;3;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;3;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;2;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;5;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;3;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;2;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;2;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;2;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-01 14:21:24+08:00;1;635b895dd0ab4ec24e6d4b571901bc3f1ab272cb;fixed conflict in sql.py
+2013-07-02 17:34:19+01:00;2;2d63a71d1526e6f325c64cd432e046c7532d19ed;ENH add drop_na argument to pivot_table
+2013-07-08 18:52:47-04:00;1;4db1800244709a99d8d4f24924592e022f469b05;TST: Create a MySQL database and run MySQL tests on Travis.
+2013-07-10 06:20:05-07:00;2;89b2f83f8e2443db7b5c0ae371bb640c510eea03;"Merge pull request #4106 from hayd/cartesian_crosstab
+
+ENH: add dropna argument to pivot_table"
+2013-07-10 11:26:38-07:00;1;cb10923534729209520c01cb07b9c5ef3e6f8486;"Merge pull request #4177 from danielballan/mysql-on-travis
+
+TST: Do not skip MySQL tests on Travis."
+2013-07-26 21:07:57-04:00;1;6c304c78d6a0559525abe16f03465d275c516455;"CLN: Newer syntax, unicode, iterator range, zip, etc
+
+Use new syntax ('except as', print as function, new raise syntax, next
+function rather than method, next and __next__ defined throughout,
+switchout xrange, etc.)
+
+Now range is always equivalent to 2.X xrange throughout (but need to
+import range from py3compat to use it). Also remove range fixer from
+setup.py. + compatible long and string types, etc."
+2013-07-26 21:07:57-04:00;1;6c304c78d6a0559525abe16f03465d275c516455;"CLN: Newer syntax, unicode, iterator range, zip, etc
+
+Use new syntax ('except as', print as function, new raise syntax, next
+function rather than method, next and __next__ defined throughout,
+switchout xrange, etc.)
+
+Now range is always equivalent to 2.X xrange throughout (but need to
+import range from py3compat to use it). Also remove range fixer from
+setup.py. + compatible long and string types, etc."
+2013-07-26 21:07:57-04:00;1;6c304c78d6a0559525abe16f03465d275c516455;"CLN: Newer syntax, unicode, iterator range, zip, etc
+
+Use new syntax ('except as', print as function, new raise syntax, next
+function rather than method, next and __next__ defined throughout,
+switchout xrange, etc.)
+
+Now range is always equivalent to 2.X xrange throughout (but need to
+import range from py3compat to use it). Also remove range fixer from
+setup.py. + compatible long and string types, etc."
+2013-07-28 01:10:35-04:00;1;e957fbc0aa9cdfe9d4c5592c088416b20cb23b28;"CLN/ENH: Merge compat with py3compat and six
+
+For simplicity, move the relevant portions of six into
+compat and combine py3compat and compat together (given the distinctions
+were relatively arbitrary already). Also switch to importing u to make
+things cleaner."
+2013-07-28 17:03:57-04:00;3;27b601e81e45845555f7f565cf5670fce499af3a;CLN: pandas.util.compat --> pandas.compat
+2013-07-29 16:49:58-07:00;3;8ac0e11b59b65f0ac898dca2beebde5f87836649;"Merge pull request #4384 from jtratner/better-python3-compat
+
+CLN/ENH/BLD: Remove need for 2to3 for Python 3."
+2013-07-29 16:49:58-07:00;1;8ac0e11b59b65f0ac898dca2beebde5f87836649;"Merge pull request #4384 from jtratner/better-python3-compat
+
+CLN/ENH/BLD: Remove need for 2to3 for Python 3."
+2013-07-29 16:49:58-07:00;1;8ac0e11b59b65f0ac898dca2beebde5f87836649;"Merge pull request #4384 from jtratner/better-python3-compat
+
+CLN/ENH/BLD: Remove need for 2to3 for Python 3."
+2013-07-28 12:51:33-04:00;1;40d08dfd9a0b58e4a86aeb06d3d76b6deb6279f7;"BUG:  Fixed bug with values raising an error on a DataFrame with duplicate columns and mixed
+      dtypes, surfaced in (GH4377)
+
+BUG:  Fixed bug with duplicate columns and type conversion in read_json when
+      orient='split' (GH4377)"
+2013-07-29 17:17:42-07:00;1;03b4997074bb7f6fa9e3a889b69288e5356a6b57;"Merge pull request #4388 from jreback/GH4377
+
+BUG: fixes for GH4377"
+2013-08-05 17:45:06-04:00;1;9a56c7e5d9a09a169604aeea1f29579c45f57ec6;ENH: allow where to be a list/array or a boolean mask of locations (GH4467)
+2013-08-05 16:05:04-07:00;1;93158c57e894e7bb038896e919c52df77e830e0d;"Merge pull request #4470 from jreback/hdf_coord
+
+ENH: allow where to be a list/array or a boolean mask of locations (GH4467)"
+2013-07-03 10:35:53-04:00;1;856a88b5e2780632786dabe7d1184a5c72b40d45;"BUG: Fixes issue #3334: brittle margin computation in pivot_table
+
+Adds support for margin computation when all columns are used in rows and cols.
+
+DOC: Fixed release notes
+
+BUG: Fixed failing test due to use of basestring in python 3"
+2013-08-12 09:18:33-04:00;1;69f559447bc2ac8dc216aad3569dbaf6f46280eb;"Merge branch 'guyrt-fix-brittle-pivot-margins'
+
+Conflicts:
+	doc/source/release.rst
+	pandas/tools/pivot.py"
+2013-08-14 16:14:53-04:00;1;e86bb1a5b0f4db6f0e9f47112170813f88008425;"BUG: Fix bug in pd.read_clipboard on windows with PY3 (GH4561); not decoding properly"
+2013-08-15 04:50:47-07:00;1;b5ee28b9accb1e7c0ce218a6bb5a150a5a4f58cb;"Merge pull request #4571 from jreback/clip
+
+BUG: Fix bug in pd.read_clipboard on windows with PY3 (GH4561); not decoding properly"
+2013-02-20 12:24:41-05:00;1;8ee0a898a74df38318dfd01b6f9faa7957b0543c;"ENH/CLN: refactor of common code from frame/panel to generic.py
+         axis creation routines now commonized under _setup_axes
+
+ENH: more methods added
+
+PERF: was missing multi-take opportunity in reindex
+      was incorrectly passing to com._count_not_none
+      doing an extra copy in certain cases
+
+BUG: reindex with called with no args will by default return a copy (fixed bug)
+
+ENH: moved filter and added axis arg
+     moved where,mask,align
+
+TST: make reindex benchmarks longer
+
+CLN: fixed up names for creation in panelnd.py
+
+DOC: minor release notes changes
+
+ENH: initial commite - attempt to reengineer series to inherit from NDFrame rather than ndarray
+
+ENH: fixed SparseDataFrame constructor with scalar values
+     reindex still broken
+     removed refs to SparseSeries in internals (not all SparseArray)
+
+TST: more fixed
+
+TST: more fixes
+
+TST: more tests
+
+TST: fixed up indexing
+
+TST: more sparse fixes
+
+BUG: reindex with single block manager now correctly fills with a method
+
+BUG: fixed pickle I think
+
+BUG: fixed set in internals for sparse
+
+fixed boolean indexing iin series I thnk
+
+BUG: fixed printing and inclusion of sparse series in DataFrame (now keeps its type),
+     converted to dense for printing
+
+CLN: took out SeriesIndex, now uses regular indexing properties
+
+BUG: fixed copy (was using series method, bad)
+     block filling for datetimes now ok (was filling with NaT, not iNaT)
+     NaN in boolean ops now correctly handled (was not working for Datetimes)
+
+BUG: fixed set_item in SparseFrame if only a scalar is passed (needed index)
+
+BUG: sparse join fixed, did I break something in merge?
+
+BUG: consolidated block slicing under _slice
+
+BUG: added Series to santize_array
+     all numeric methods now call get_values() rather than values
+
+ENH: partial SparsePanel support
+
+ENH: reverted SparsePanel changes, save for later
+     fixed up xs in SparseFrame
+
+BUG: SparsePanel was using an inherited as_matrix(), bad
+
+TST: fixed shift
+     default in class creation wrapper is to not pass existing fillers
+     added sanitize column for generalitiy
+     fixed count (in series)
+
+CLN: modify core/expressions to use get_values()
+     remove methods from SparseFrame (and use inherited):
+       combine_first,icol,as_matrix,get_dtype_counts
+     bug fix in core/internals/get_dtype_counts
+
+CLN: use _values_from_object instead of direct call to get_values()
+
+BUG: fixed set_value semantics, as it could possibily change the index
+
+BUG: fixed tseries/period indexing
+     fixed some bugs showing up in 32-bit (in nanops)
+
+BUG: fix incorrect exception raised in indexing (on 32-bit)
+
+BUG: fixed get_merge_keys (add Series to ndarray testing)
+
+BUG: fixed pivot table maybe???x
+     core/internals/_ref_locs will now set indexer if ref_items==items
+
+TST: apply_reduce in tests/test_frame still failing
+
+BUG: fixed getitem_boolean_object finally I think (was issue in set_value in Series)
+BUG: fixed putmasking mess in Series, now in core/internals
+
+BUG: more fixes
+
+BUG: fixed core/internals/replace as choking on input
+
+BUG: refixed groupby
+
+BUG: fix test_where in series
+
+BUG: fixed reindex on a sparse block (was not taking correctly)
+
+BUG: fixed sparse filling!!!!!
+
+BUG: fixed pivot, need to define __hash__ to raise TypeError in NDFrame
+
+BUG: downcast argument not in SparseBlock or sparse/frame.py for fillna
+
+BUG: fix apply_reduce?
+
+BUG: fixes in reduce.pyx to deal with reconstrucing a Series argument to the function
+     if needed
+
+BUG: reducer now produces a Series with its index (to the called function)
+     ols converts to_dense to avoid some issues
+
+ENH: fixed core/frame/apply to accept reduce argument (default True),
+
+     to allow turning off the reduction attempt (to preserver the column character)
+     if say self.values would change it
+
+BUG: finally fixed reducer?
+
+BUG: reduce on frame bug (showing in py3)
+
+BUG: ols not working with sparse
+
+TST: stats.tests.test_ols/test_wls is not testing for the correct version
+
+     of statsmodels (fails on 32-bit)
+
+     PTF
+
+TST: make sure to skip the test_wls if our version isn't enough
+
+PERF: some perf enhancements
+
+BUG: fix sparse/array/make_sparse to take objects and extract the arrays
+
+PERF: series construction now much faster
+
+PERF: improvements in core/internals
+
+MERGE: updated to master and merged in
+
+MERGE: more merging fixes
+
+PERF: fixed null tests to be MUCH faster
+
+PERF: improvements in series construction via from_array
+
+PERF: merge improvements by using _has_sparse in bms
+
+PERF: some improvements
+
+PERF: more internals optimizations
+
+CLN: Index now subclassed off of PandasObject
+
+BUG: fixed inheritence for core/index.py (Index), solves unicode issues
+
+BUG: some merge errors in sparse
+
+VB: modernize the sparse vb suite
+
+BUG: fixed merging by single item (was broker for sparse for some reason)
+     names not propogating in Series constructor on _slice
+
+BUG: add name back to series constructor
+
+ENH: pickle compatibility for Series/SparseSeries prior to 0.12!
+
+ENH: added pickle_compat to common/load
+
+BUG: in core/series on fastpath and index is actually changed
+
+     (e.g. its actually a datelike index, but is of type object),
+     need to set the axis in the BlockManager
+
+BUG: _getitem__bool only is active for Index/Int64Index (issues with DatetimeIndex/PeriodIndex)
+
+     so default to having it call (slower) __getitem__
+
+COMPAT: py3 compat fixes
+
+TST: recover pickles in a particular order or names
+
+MERGE: fixup merging with 0.11.0 final
+
+BUG: set _subtyp in sparse (use main type of object)
+
+BUG: fixed mergig on need to reindex sparse
+
+BUG: fixed consolidation issue prior to merge
+
+BUG: construction of a series with another series odd bug
+
+BUG: fix series constructor when passed a dtype (and no copy)
+
+BUG: fixed sparse slicing via blocks (don't use a sparse block when slicing)
+
+BUG: fixed remaining sparse issue (SpareDataFrame was converting SparseArray incorrectly)
+
+BUG: dtypes in groupby nth fixed (converting on aggregation item_by_item)
+
+BUG: partial fix on groupby?
+
+BUG: restored groupby back to master (SeriesGrouper)
+
+BUG: more fixes on groupby
+
+BUG: fixed all groupbys!
+
+BUG: get_median in core/nanops.py complaining
+
+PERF: made constructions of SparseFrame have less redundant steps
+
+PERF: minor series perf improvement
+
+TST: trying to fix how_lambda in tseries/resample
+
+     PTF
+
+PERF: addtl groupby multi_python perf improvements
+
+PERF: speeds up for Series.__getitem__
+
+PERF: some perf on groupby.....
+
+      added _block, _values in SingleBlockManager
+
+PERF: more reducer improvements
+
+BUG: fixed SeriesBinGrouper hopefully
+
+BUG: tseries/index.py was missing __str__ = __repr__"
+2013-02-20 12:24:41-05:00;3;8ee0a898a74df38318dfd01b6f9faa7957b0543c;"ENH/CLN: refactor of common code from frame/panel to generic.py
+         axis creation routines now commonized under _setup_axes
+
+ENH: more methods added
+
+PERF: was missing multi-take opportunity in reindex
+      was incorrectly passing to com._count_not_none
+      doing an extra copy in certain cases
+
+BUG: reindex with called with no args will by default return a copy (fixed bug)
+
+ENH: moved filter and added axis arg
+     moved where,mask,align
+
+TST: make reindex benchmarks longer
+
+CLN: fixed up names for creation in panelnd.py
+
+DOC: minor release notes changes
+
+ENH: initial commite - attempt to reengineer series to inherit from NDFrame rather than ndarray
+
+ENH: fixed SparseDataFrame constructor with scalar values
+     reindex still broken
+     removed refs to SparseSeries in internals (not all SparseArray)
+
+TST: more fixed
+
+TST: more fixes
+
+TST: more tests
+
+TST: fixed up indexing
+
+TST: more sparse fixes
+
+BUG: reindex with single block manager now correctly fills with a method
+
+BUG: fixed pickle I think
+
+BUG: fixed set in internals for sparse
+
+fixed boolean indexing iin series I thnk
+
+BUG: fixed printing and inclusion of sparse series in DataFrame (now keeps its type),
+     converted to dense for printing
+
+CLN: took out SeriesIndex, now uses regular indexing properties
+
+BUG: fixed copy (was using series method, bad)
+     block filling for datetimes now ok (was filling with NaT, not iNaT)
+     NaN in boolean ops now correctly handled (was not working for Datetimes)
+
+BUG: fixed set_item in SparseFrame if only a scalar is passed (needed index)
+
+BUG: sparse join fixed, did I break something in merge?
+
+BUG: consolidated block slicing under _slice
+
+BUG: added Series to santize_array
+     all numeric methods now call get_values() rather than values
+
+ENH: partial SparsePanel support
+
+ENH: reverted SparsePanel changes, save for later
+     fixed up xs in SparseFrame
+
+BUG: SparsePanel was using an inherited as_matrix(), bad
+
+TST: fixed shift
+     default in class creation wrapper is to not pass existing fillers
+     added sanitize column for generalitiy
+     fixed count (in series)
+
+CLN: modify core/expressions to use get_values()
+     remove methods from SparseFrame (and use inherited):
+       combine_first,icol,as_matrix,get_dtype_counts
+     bug fix in core/internals/get_dtype_counts
+
+CLN: use _values_from_object instead of direct call to get_values()
+
+BUG: fixed set_value semantics, as it could possibily change the index
+
+BUG: fixed tseries/period indexing
+     fixed some bugs showing up in 32-bit (in nanops)
+
+BUG: fix incorrect exception raised in indexing (on 32-bit)
+
+BUG: fixed get_merge_keys (add Series to ndarray testing)
+
+BUG: fixed pivot table maybe???x
+     core/internals/_ref_locs will now set indexer if ref_items==items
+
+TST: apply_reduce in tests/test_frame still failing
+
+BUG: fixed getitem_boolean_object finally I think (was issue in set_value in Series)
+BUG: fixed putmasking mess in Series, now in core/internals
+
+BUG: more fixes
+
+BUG: fixed core/internals/replace as choking on input
+
+BUG: refixed groupby
+
+BUG: fix test_where in series
+
+BUG: fixed reindex on a sparse block (was not taking correctly)
+
+BUG: fixed sparse filling!!!!!
+
+BUG: fixed pivot, need to define __hash__ to raise TypeError in NDFrame
+
+BUG: downcast argument not in SparseBlock or sparse/frame.py for fillna
+
+BUG: fix apply_reduce?
+
+BUG: fixes in reduce.pyx to deal with reconstrucing a Series argument to the function
+     if needed
+
+BUG: reducer now produces a Series with its index (to the called function)
+     ols converts to_dense to avoid some issues
+
+ENH: fixed core/frame/apply to accept reduce argument (default True),
+
+     to allow turning off the reduction attempt (to preserver the column character)
+     if say self.values would change it
+
+BUG: finally fixed reducer?
+
+BUG: reduce on frame bug (showing in py3)
+
+BUG: ols not working with sparse
+
+TST: stats.tests.test_ols/test_wls is not testing for the correct version
+
+     of statsmodels (fails on 32-bit)
+
+     PTF
+
+TST: make sure to skip the test_wls if our version isn't enough
+
+PERF: some perf enhancements
+
+BUG: fix sparse/array/make_sparse to take objects and extract the arrays
+
+PERF: series construction now much faster
+
+PERF: improvements in core/internals
+
+MERGE: updated to master and merged in
+
+MERGE: more merging fixes
+
+PERF: fixed null tests to be MUCH faster
+
+PERF: improvements in series construction via from_array
+
+PERF: merge improvements by using _has_sparse in bms
+
+PERF: some improvements
+
+PERF: more internals optimizations
+
+CLN: Index now subclassed off of PandasObject
+
+BUG: fixed inheritence for core/index.py (Index), solves unicode issues
+
+BUG: some merge errors in sparse
+
+VB: modernize the sparse vb suite
+
+BUG: fixed merging by single item (was broker for sparse for some reason)
+     names not propogating in Series constructor on _slice
+
+BUG: add name back to series constructor
+
+ENH: pickle compatibility for Series/SparseSeries prior to 0.12!
+
+ENH: added pickle_compat to common/load
+
+BUG: in core/series on fastpath and index is actually changed
+
+     (e.g. its actually a datelike index, but is of type object),
+     need to set the axis in the BlockManager
+
+BUG: _getitem__bool only is active for Index/Int64Index (issues with DatetimeIndex/PeriodIndex)
+
+     so default to having it call (slower) __getitem__
+
+COMPAT: py3 compat fixes
+
+TST: recover pickles in a particular order or names
+
+MERGE: fixup merging with 0.11.0 final
+
+BUG: set _subtyp in sparse (use main type of object)
+
+BUG: fixed mergig on need to reindex sparse
+
+BUG: fixed consolidation issue prior to merge
+
+BUG: construction of a series with another series odd bug
+
+BUG: fix series constructor when passed a dtype (and no copy)
+
+BUG: fixed sparse slicing via blocks (don't use a sparse block when slicing)
+
+BUG: fixed remaining sparse issue (SpareDataFrame was converting SparseArray incorrectly)
+
+BUG: dtypes in groupby nth fixed (converting on aggregation item_by_item)
+
+BUG: partial fix on groupby?
+
+BUG: restored groupby back to master (SeriesGrouper)
+
+BUG: more fixes on groupby
+
+BUG: fixed all groupbys!
+
+BUG: get_median in core/nanops.py complaining
+
+PERF: made constructions of SparseFrame have less redundant steps
+
+PERF: minor series perf improvement
+
+TST: trying to fix how_lambda in tseries/resample
+
+     PTF
+
+PERF: addtl groupby multi_python perf improvements
+
+PERF: speeds up for Series.__getitem__
+
+PERF: some perf on groupby.....
+
+      added _block, _values in SingleBlockManager
+
+PERF: more reducer improvements
+
+BUG: fixed SeriesBinGrouper hopefully
+
+BUG: tseries/index.py was missing __str__ = __repr__"
+2013-02-20 12:24:41-05:00;1;8ee0a898a74df38318dfd01b6f9faa7957b0543c;"ENH/CLN: refactor of common code from frame/panel to generic.py
+         axis creation routines now commonized under _setup_axes
+
+ENH: more methods added
+
+PERF: was missing multi-take opportunity in reindex
+      was incorrectly passing to com._count_not_none
+      doing an extra copy in certain cases
+
+BUG: reindex with called with no args will by default return a copy (fixed bug)
+
+ENH: moved filter and added axis arg
+     moved where,mask,align
+
+TST: make reindex benchmarks longer
+
+CLN: fixed up names for creation in panelnd.py
+
+DOC: minor release notes changes
+
+ENH: initial commite - attempt to reengineer series to inherit from NDFrame rather than ndarray
+
+ENH: fixed SparseDataFrame constructor with scalar values
+     reindex still broken
+     removed refs to SparseSeries in internals (not all SparseArray)
+
+TST: more fixed
+
+TST: more fixes
+
+TST: more tests
+
+TST: fixed up indexing
+
+TST: more sparse fixes
+
+BUG: reindex with single block manager now correctly fills with a method
+
+BUG: fixed pickle I think
+
+BUG: fixed set in internals for sparse
+
+fixed boolean indexing iin series I thnk
+
+BUG: fixed printing and inclusion of sparse series in DataFrame (now keeps its type),
+     converted to dense for printing
+
+CLN: took out SeriesIndex, now uses regular indexing properties
+
+BUG: fixed copy (was using series method, bad)
+     block filling for datetimes now ok (was filling with NaT, not iNaT)
+     NaN in boolean ops now correctly handled (was not working for Datetimes)
+
+BUG: fixed set_item in SparseFrame if only a scalar is passed (needed index)
+
+BUG: sparse join fixed, did I break something in merge?
+
+BUG: consolidated block slicing under _slice
+
+BUG: added Series to santize_array
+     all numeric methods now call get_values() rather than values
+
+ENH: partial SparsePanel support
+
+ENH: reverted SparsePanel changes, save for later
+     fixed up xs in SparseFrame
+
+BUG: SparsePanel was using an inherited as_matrix(), bad
+
+TST: fixed shift
+     default in class creation wrapper is to not pass existing fillers
+     added sanitize column for generalitiy
+     fixed count (in series)
+
+CLN: modify core/expressions to use get_values()
+     remove methods from SparseFrame (and use inherited):
+       combine_first,icol,as_matrix,get_dtype_counts
+     bug fix in core/internals/get_dtype_counts
+
+CLN: use _values_from_object instead of direct call to get_values()
+
+BUG: fixed set_value semantics, as it could possibily change the index
+
+BUG: fixed tseries/period indexing
+     fixed some bugs showing up in 32-bit (in nanops)
+
+BUG: fix incorrect exception raised in indexing (on 32-bit)
+
+BUG: fixed get_merge_keys (add Series to ndarray testing)
+
+BUG: fixed pivot table maybe???x
+     core/internals/_ref_locs will now set indexer if ref_items==items
+
+TST: apply_reduce in tests/test_frame still failing
+
+BUG: fixed getitem_boolean_object finally I think (was issue in set_value in Series)
+BUG: fixed putmasking mess in Series, now in core/internals
+
+BUG: more fixes
+
+BUG: fixed core/internals/replace as choking on input
+
+BUG: refixed groupby
+
+BUG: fix test_where in series
+
+BUG: fixed reindex on a sparse block (was not taking correctly)
+
+BUG: fixed sparse filling!!!!!
+
+BUG: fixed pivot, need to define __hash__ to raise TypeError in NDFrame
+
+BUG: downcast argument not in SparseBlock or sparse/frame.py for fillna
+
+BUG: fix apply_reduce?
+
+BUG: fixes in reduce.pyx to deal with reconstrucing a Series argument to the function
+     if needed
+
+BUG: reducer now produces a Series with its index (to the called function)
+     ols converts to_dense to avoid some issues
+
+ENH: fixed core/frame/apply to accept reduce argument (default True),
+
+     to allow turning off the reduction attempt (to preserver the column character)
+     if say self.values would change it
+
+BUG: finally fixed reducer?
+
+BUG: reduce on frame bug (showing in py3)
+
+BUG: ols not working with sparse
+
+TST: stats.tests.test_ols/test_wls is not testing for the correct version
+
+     of statsmodels (fails on 32-bit)
+
+     PTF
+
+TST: make sure to skip the test_wls if our version isn't enough
+
+PERF: some perf enhancements
+
+BUG: fix sparse/array/make_sparse to take objects and extract the arrays
+
+PERF: series construction now much faster
+
+PERF: improvements in core/internals
+
+MERGE: updated to master and merged in
+
+MERGE: more merging fixes
+
+PERF: fixed null tests to be MUCH faster
+
+PERF: improvements in series construction via from_array
+
+PERF: merge improvements by using _has_sparse in bms
+
+PERF: some improvements
+
+PERF: more internals optimizations
+
+CLN: Index now subclassed off of PandasObject
+
+BUG: fixed inheritence for core/index.py (Index), solves unicode issues
+
+BUG: some merge errors in sparse
+
+VB: modernize the sparse vb suite
+
+BUG: fixed merging by single item (was broker for sparse for some reason)
+     names not propogating in Series constructor on _slice
+
+BUG: add name back to series constructor
+
+ENH: pickle compatibility for Series/SparseSeries prior to 0.12!
+
+ENH: added pickle_compat to common/load
+
+BUG: in core/series on fastpath and index is actually changed
+
+     (e.g. its actually a datelike index, but is of type object),
+     need to set the axis in the BlockManager
+
+BUG: _getitem__bool only is active for Index/Int64Index (issues with DatetimeIndex/PeriodIndex)
+
+     so default to having it call (slower) __getitem__
+
+COMPAT: py3 compat fixes
+
+TST: recover pickles in a particular order or names
+
+MERGE: fixup merging with 0.11.0 final
+
+BUG: set _subtyp in sparse (use main type of object)
+
+BUG: fixed mergig on need to reindex sparse
+
+BUG: fixed consolidation issue prior to merge
+
+BUG: construction of a series with another series odd bug
+
+BUG: fix series constructor when passed a dtype (and no copy)
+
+BUG: fixed sparse slicing via blocks (don't use a sparse block when slicing)
+
+BUG: fixed remaining sparse issue (SpareDataFrame was converting SparseArray incorrectly)
+
+BUG: dtypes in groupby nth fixed (converting on aggregation item_by_item)
+
+BUG: partial fix on groupby?
+
+BUG: restored groupby back to master (SeriesGrouper)
+
+BUG: more fixes on groupby
+
+BUG: fixed all groupbys!
+
+BUG: get_median in core/nanops.py complaining
+
+PERF: made constructions of SparseFrame have less redundant steps
+
+PERF: minor series perf improvement
+
+TST: trying to fix how_lambda in tseries/resample
+
+     PTF
+
+PERF: addtl groupby multi_python perf improvements
+
+PERF: speeds up for Series.__getitem__
+
+PERF: some perf on groupby.....
+
+      added _block, _values in SingleBlockManager
+
+PERF: more reducer improvements
+
+BUG: fixed SeriesBinGrouper hopefully
+
+BUG: tseries/index.py was missing __str__ = __repr__"
+2013-02-20 12:24:41-05:00;2;8ee0a898a74df38318dfd01b6f9faa7957b0543c;"ENH/CLN: refactor of common code from frame/panel to generic.py
+         axis creation routines now commonized under _setup_axes
+
+ENH: more methods added
+
+PERF: was missing multi-take opportunity in reindex
+      was incorrectly passing to com._count_not_none
+      doing an extra copy in certain cases
+
+BUG: reindex with called with no args will by default return a copy (fixed bug)
+
+ENH: moved filter and added axis arg
+     moved where,mask,align
+
+TST: make reindex benchmarks longer
+
+CLN: fixed up names for creation in panelnd.py
+
+DOC: minor release notes changes
+
+ENH: initial commite - attempt to reengineer series to inherit from NDFrame rather than ndarray
+
+ENH: fixed SparseDataFrame constructor with scalar values
+     reindex still broken
+     removed refs to SparseSeries in internals (not all SparseArray)
+
+TST: more fixed
+
+TST: more fixes
+
+TST: more tests
+
+TST: fixed up indexing
+
+TST: more sparse fixes
+
+BUG: reindex with single block manager now correctly fills with a method
+
+BUG: fixed pickle I think
+
+BUG: fixed set in internals for sparse
+
+fixed boolean indexing iin series I thnk
+
+BUG: fixed printing and inclusion of sparse series in DataFrame (now keeps its type),
+     converted to dense for printing
+
+CLN: took out SeriesIndex, now uses regular indexing properties
+
+BUG: fixed copy (was using series method, bad)
+     block filling for datetimes now ok (was filling with NaT, not iNaT)
+     NaN in boolean ops now correctly handled (was not working for Datetimes)
+
+BUG: fixed set_item in SparseFrame if only a scalar is passed (needed index)
+
+BUG: sparse join fixed, did I break something in merge?
+
+BUG: consolidated block slicing under _slice
+
+BUG: added Series to santize_array
+     all numeric methods now call get_values() rather than values
+
+ENH: partial SparsePanel support
+
+ENH: reverted SparsePanel changes, save for later
+     fixed up xs in SparseFrame
+
+BUG: SparsePanel was using an inherited as_matrix(), bad
+
+TST: fixed shift
+     default in class creation wrapper is to not pass existing fillers
+     added sanitize column for generalitiy
+     fixed count (in series)
+
+CLN: modify core/expressions to use get_values()
+     remove methods from SparseFrame (and use inherited):
+       combine_first,icol,as_matrix,get_dtype_counts
+     bug fix in core/internals/get_dtype_counts
+
+CLN: use _values_from_object instead of direct call to get_values()
+
+BUG: fixed set_value semantics, as it could possibily change the index
+
+BUG: fixed tseries/period indexing
+     fixed some bugs showing up in 32-bit (in nanops)
+
+BUG: fix incorrect exception raised in indexing (on 32-bit)
+
+BUG: fixed get_merge_keys (add Series to ndarray testing)
+
+BUG: fixed pivot table maybe???x
+     core/internals/_ref_locs will now set indexer if ref_items==items
+
+TST: apply_reduce in tests/test_frame still failing
+
+BUG: fixed getitem_boolean_object finally I think (was issue in set_value in Series)
+BUG: fixed putmasking mess in Series, now in core/internals
+
+BUG: more fixes
+
+BUG: fixed core/internals/replace as choking on input
+
+BUG: refixed groupby
+
+BUG: fix test_where in series
+
+BUG: fixed reindex on a sparse block (was not taking correctly)
+
+BUG: fixed sparse filling!!!!!
+
+BUG: fixed pivot, need to define __hash__ to raise TypeError in NDFrame
+
+BUG: downcast argument not in SparseBlock or sparse/frame.py for fillna
+
+BUG: fix apply_reduce?
+
+BUG: fixes in reduce.pyx to deal with reconstrucing a Series argument to the function
+     if needed
+
+BUG: reducer now produces a Series with its index (to the called function)
+     ols converts to_dense to avoid some issues
+
+ENH: fixed core/frame/apply to accept reduce argument (default True),
+
+     to allow turning off the reduction attempt (to preserver the column character)
+     if say self.values would change it
+
+BUG: finally fixed reducer?
+
+BUG: reduce on frame bug (showing in py3)
+
+BUG: ols not working with sparse
+
+TST: stats.tests.test_ols/test_wls is not testing for the correct version
+
+     of statsmodels (fails on 32-bit)
+
+     PTF
+
+TST: make sure to skip the test_wls if our version isn't enough
+
+PERF: some perf enhancements
+
+BUG: fix sparse/array/make_sparse to take objects and extract the arrays
+
+PERF: series construction now much faster
+
+PERF: improvements in core/internals
+
+MERGE: updated to master and merged in
+
+MERGE: more merging fixes
+
+PERF: fixed null tests to be MUCH faster
+
+PERF: improvements in series construction via from_array
+
+PERF: merge improvements by using _has_sparse in bms
+
+PERF: some improvements
+
+PERF: more internals optimizations
+
+CLN: Index now subclassed off of PandasObject
+
+BUG: fixed inheritence for core/index.py (Index), solves unicode issues
+
+BUG: some merge errors in sparse
+
+VB: modernize the sparse vb suite
+
+BUG: fixed merging by single item (was broker for sparse for some reason)
+     names not propogating in Series constructor on _slice
+
+BUG: add name back to series constructor
+
+ENH: pickle compatibility for Series/SparseSeries prior to 0.12!
+
+ENH: added pickle_compat to common/load
+
+BUG: in core/series on fastpath and index is actually changed
+
+     (e.g. its actually a datelike index, but is of type object),
+     need to set the axis in the BlockManager
+
+BUG: _getitem__bool only is active for Index/Int64Index (issues with DatetimeIndex/PeriodIndex)
+
+     so default to having it call (slower) __getitem__
+
+COMPAT: py3 compat fixes
+
+TST: recover pickles in a particular order or names
+
+MERGE: fixup merging with 0.11.0 final
+
+BUG: set _subtyp in sparse (use main type of object)
+
+BUG: fixed mergig on need to reindex sparse
+
+BUG: fixed consolidation issue prior to merge
+
+BUG: construction of a series with another series odd bug
+
+BUG: fix series constructor when passed a dtype (and no copy)
+
+BUG: fixed sparse slicing via blocks (don't use a sparse block when slicing)
+
+BUG: fixed remaining sparse issue (SpareDataFrame was converting SparseArray incorrectly)
+
+BUG: dtypes in groupby nth fixed (converting on aggregation item_by_item)
+
+BUG: partial fix on groupby?
+
+BUG: restored groupby back to master (SeriesGrouper)
+
+BUG: more fixes on groupby
+
+BUG: fixed all groupbys!
+
+BUG: get_median in core/nanops.py complaining
+
+PERF: made constructions of SparseFrame have less redundant steps
+
+PERF: minor series perf improvement
+
+TST: trying to fix how_lambda in tseries/resample
+
+     PTF
+
+PERF: addtl groupby multi_python perf improvements
+
+PERF: speeds up for Series.__getitem__
+
+PERF: some perf on groupby.....
+
+      added _block, _values in SingleBlockManager
+
+PERF: more reducer improvements
+
+BUG: fixed SeriesBinGrouper hopefully
+
+BUG: tseries/index.py was missing __str__ = __repr__"
+2013-07-29 21:30:24-04:00;1;7f31567f8f125bb51ae7a3097c8bc24fef6f4d58;"BLD: py3 compat
+
+TST/BUG: test/bugfix for GH4463
+
+BUG: fix core/internals/setitem to work for boolean types (weird numpy bug!)
+
+BUG: partial frame setting with dtype change (GH4204)
+
+BUG: Indexing with dtype conversions fixed GH4463 (int->float), GH4204(boolean->float)
+
+BUG: provide better ndarray compat
+
+CLN: removed some duped methods
+
+MERGE: fix an issue cropping up on the rebase"
+2013-08-16 12:27:01-07:00;1;0327addef295fef292f2fdf8c95546c4cc039abb;"Merge pull request #3482 from jreback/series2
+
+CLN: series to now inherit from NDFrame"
+2013-08-16 12:27:01-07:00;3;0327addef295fef292f2fdf8c95546c4cc039abb;"Merge pull request #3482 from jreback/series2
+
+CLN: series to now inherit from NDFrame"
+2013-08-16 12:27:01-07:00;3;0327addef295fef292f2fdf8c95546c4cc039abb;"Merge pull request #3482 from jreback/series2
+
+CLN: series to now inherit from NDFrame"
+2013-08-20 18:03:10-04:00;1;3b5d06eb1e28767a17cedab21c52a59ef99e2c0c;BUG: Fix assignment with iloc/loc involving a dtype change in an existing column (GH4312)
+2013-08-21 16:15:00-07:00;1;284df6ffab7545fd3cf7f27cb8e45f98f48b8dc5;"Merge pull request #4624 from jreback/astype_iloc2
+
+API/CLN: setitem in Series now consistent with DataFrame"
+2013-08-21 23:10:46-04:00;1;205b5cb17f481b3c60b6a729bee0fb4c738b2ab4;PERF: optimize __getitem__ in DataFrame for columns lookup
+2013-08-22 18:43:33-07:00;1;0958d5f7fff105a593108aeab81413551e5e63c2;"Merge pull request #4639 from jreback/gi_perf
+
+PERF: optimize __getitem__ in DataFrame for columns lookup"
+2013-09-05 13:58:42-04:00;1;caa370374b1c495e4d998ae1e11c1561fcbac511;BUG:  (GH2702) Bug with Series indexing not raising an error when the right-hand-side has an incorrect length
+2013-09-05 20:11:15-07:00;1;67229f084751fdfeb440878609c92f601bc72df3;"Merge pull request #4756 from jreback/nested
+
+BUG/ER:  (GH2702) Bug with Series indexing not raising an error when the right-hand-side has an incorrect length"
+2013-09-06 17:25:37-04:00;1;b057202c800cace7fc8e3d99d1ec87e836ec4974;BUG: Bug in setting with loc/ix a single indexer and a numpy array, related to (GH3777)
+2013-09-06 17:10:51-07:00;1;22f04f7906b8f533cd59541c2a88788388719c8b;"Merge pull request #4766 from jreback/ix_assign
+
+BUG: Bug in setting with loc/ix a single indexer on a multi-index axis and a listlike (related to GH3777)"
+2013-08-27 10:54:31-04:00;1;b3f2444b24af412c51d79525dbc67c9b29ede0ad;"API: provide automatic dtype conversions on _reduce operations
+API: exclude non-numerics if mixed types in _reduce operations
+
+BUG: timedelta fixes
+
+CLN: small cleaning in nanops.py
+
+BUG: allow _reduce to call .apply for certain operations when the who block fails
+     via a reduce exception"
+2013-09-08 12:46:53-07:00;1;eaa2e267ab2c84318e9a03c3c9a24ba65e519eb3;"Merge pull request #4684 from jreback/timedelta_fill
+
+ENH: GH3371 support timedelta fillna"
+2013-09-08 21:46:02-04:00;1;a9e54194149abaf10abeeb252226329a44873c13;BUG: (GH4548) inplace updating of a duplicate Series with a boolean aligning incorrectly
+2013-09-08 19:03:14-07:00;1;e461793d22f2c1ee84c8927a9dd5ee5727fabd69;"Merge pull request #4779 from jreback/dups_ops
+
+TST/BUG: duplicate indexing ops with a Series using where and inplace add buggy (GH4550/GH4548)"
+2013-09-12 07:41:47-04:00;1;d8280c12a3449b66beaf0459bf86e71e99a44b2b;CLN: refactored locations of timedeltas to core/tseries/timedeltas (from a series of functions in core/common)
+2013-09-12 09:05:09-07:00;1;2f24d6e34d5fc54e2ce0df36c98ab5fce6ca267c;"Merge pull request #4822 from jreback/timedelta_hdf
+
+ENH/CLN: support enhanced timedelta64 operations/conversions"
+2013-09-12 18:53:05-04:00;3;13a7ebc5f1682056f5184abdd225f812a6424d06;BUG: enhanced to_datetime with format '%Y%m%d' to handle NaT/nan and NaT-like better
+2013-09-12 16:46:45-07:00;3;6d3fb3f2e4e0a95d86cd0debc71bf0a94fdf987a;"Merge pull request #4828 from jreback/dunit2
+
+BUG: enhanced to_datetime with format '%Y%m%d' to handle NaT/nan better"
+2013-09-14 17:06:54-04:00;1;a2d8b3dd15dbd09fa9fb746aac5a7177f5475947;"BUG: store datetime.date objects in HDFStore as ordinals rather then timetuples to avoid timezone issues (GH2852),
+     thanks @tavistmorph and @numpand"
+2013-09-14 14:22:25-07:00;1;d2738932043175aa1b58ff25501aac651bae502a;"Merge pull request #4841 from jreback/hdf_tz
+
+BUG: store datetime.date objects in HDFStore as ordinals rather then timetuples to avoid timezone issues (GH2852)"
+2013-06-15 21:34:56-04:00;1;90423398bf86aed982ca4a946e9ddc45b7a4b09b;ENH: add new computation module and toplevel eval function
+2013-06-15 21:34:56-04:00;1;90423398bf86aed982ca4a946e9ddc45b7a4b09b;ENH: add new computation module and toplevel eval function
+2013-07-06 15:52:29-04:00;1;0b1b2fc98c4998f286911f0a5e1d5252281bff27;ENH: add Expr based terms for pytables
+2013-07-14 15:00:53-04:00;1;b35406abda6803dc1c37b1375f73c07254fea551;ENH: add automatic query via frame.__getitem__
+2013-07-22 16:48:54-04:00;1;4093cd9d01d50be2a89b0aaf926839d01e3d99ff;ENH: add chained comparisons
+2013-07-29 11:19:13-04:00;1;3ad3c1636076563995d9ca7440888899ab70434e;"ENH: added interpretation of 'in' in pytables Term syntax
+
+which is syntactically equivalent of '='"
+2013-07-29 11:19:13-04:00;2;3ad3c1636076563995d9ca7440888899ab70434e;"ENH: added interpretation of 'in' in pytables Term syntax
+
+which is syntactically equivalent of '='"
+2013-08-05 14:15:22-04:00;1;0160225c19bade97f069d0a5de05819d83b2de46;ENH: add local scoping with @lcl_variable syntax
+2013-09-13 11:49:58-04:00;1;0469fe49ce43a543f1dbcab6a0de8fe438e0405a;BUG: parsing of timedelta selection syntax needed correction
+2013-09-16 11:59:14-07:00;1;bf1b8cabebe90409e16f3305c70e4675fc3ed8ef;"Merge pull request #4164 from pydata/eval-3393
+
+ENH: add expression evaluation functionality via eval"
+2013-09-16 11:59:14-07:00;1;bf1b8cabebe90409e16f3305c70e4675fc3ed8ef;"Merge pull request #4164 from pydata/eval-3393
+
+ENH: add expression evaluation functionality via eval"
+2013-09-16 11:59:14-07:00;1;bf1b8cabebe90409e16f3305c70e4675fc3ed8ef;"Merge pull request #4164 from pydata/eval-3393
+
+ENH: add expression evaluation functionality via eval"
+2013-09-16 11:59:14-07:00;2;bf1b8cabebe90409e16f3305c70e4675fc3ed8ef;"Merge pull request #4164 from pydata/eval-3393
+
+ENH: add expression evaluation functionality via eval"
+2013-09-18 15:06:03-04:00;1;2752aee443a52ab0caaa7fa92f0aa979ce96fda8;CLN: clean up tseries/tests/test_plotting.py
+2013-09-18 13:41:31-07:00;1;b889fda7a8060d4ed1f07561fbcc01518f24183d;"Merge pull request #4876 from cpcloud/plotting-test-cleanup
+
+CLN: clean up test plotting"
+2013-09-20 22:26:46-04:00;1;7b7474e717dec0fc953ffcbcda13ee6e052bf82d;CLN: more plotting test cleanups
+2013-09-21 11:26:06-07:00;1;ea63f36fa3745160e37638db7b1eb81cf9139c9f;"Merge pull request #4912 from cpcloud/plotting-test-cleanup
+
+CLN: more plotting test cleanups"
+2013-09-16 10:46:28-04:00;1;60efe85bc2ce9578e8f5e0c88907c5cc6b6b7b31;"BUG/ENH: provide better .loc based semantics for float based indicies, continuing not to fallback (related to GH236)
+
+API: stub-implementation of Float64Index (meaning its the 'same' as an Index at this point), related GH263
+
+BUG: make sure that mixed-integer-float is auto-converted to Float64Index
+
+BUG: (GH4860), raise KeyError on indexing with a float (and not a floating index)
+
+CLN/ENH: add _convert_scalar_indexer in core/index.py
+
+CLN/ENH: add _convert_slice_indexer in core/index.py
+
+TST: slice indexer test changes in series/frame
+
+BUG: fix partial multi-indexing
+
+DOC: release notes / v0.13.0
+TST: tests for doc example
+
+CLN: core/indexing.py clean
+DOC: add to indexing.rst
+
+DOC: small corections
+
+API: make Float64Index getitem/ix/loc perform the same (as label based) for scalar indexing
+
+TST: Float64Index construction & tests
+
+TST: misc tests corrected in test_series/test_reshape/test_format
+
+TST: Float64Index tests indexing via lists
+
+DOC: additional example for float64index"
+2013-09-25 13:08:12-07:00;1;0fa4d067049948369bda104f2b19debf97ccc6b3;"Merge pull request #4850 from jreback/loc_float
+
+BUG/ENH: provide better .loc based semantics for float based indicies, continuing not to fallback (related GH236)"
+2013-09-30 18:59:30-04:00;1;34404be932c40549cab17ba2aed02d6377e1cbf5;BUG: Bug in setting with ix/loc and a mixed int/string index (GH4544)
+2013-09-30 18:21:47-07:00;1;219a22a2030c9dcf06e56c3a8471f59fbf452b1b;"Merge pull request #5064 from jreback/ix_edge
+
+BUG: Bug in setting with ix/loc and a mixed int/string index (GH4544)"
+2013-10-01 21:38:12-04:00;1;96033e0c9cc684033feeda4e455837e642c86336;"EHN: Allow load_data to load the ""Titanic"" and other problematic R datasets
+TST: Move tests from rpy/common.py to rpy/tests/test_common.py
+TST: Add tests to demonstrate the enhancements made to rpy/common.py.
+DOC: Add explanation to doc/source/release.rst and doc/source/v0.13.0.txt"
+2013-10-02 17:25:55-04:00;1;ec54354d8c09f0efc0811272655cb585fceadc58;"Merge branch 'r-dataset' of https://github.com/unutbu/pandas into unutbu-r-dataset
+
+Conflicts:
+	doc/source/release.rst"
+2013-10-04 14:14:19+01:00;2;6d6f3924d9deda606df9b80b75ec58d3a9fca4ec;"BUG: Fix bound checking for Timestamp() with dt64 #4065
+
+To fix the bug, this change adds bounds checking to
+_get_datetime64_nanos() for numpy datetimes that aren't already in [ns]
+units.
+
+Additionally, it updates _check_dts_bounds() to do the bound check just
+based off the pandas_datetimestruct, by comparing to the minimum and
+maximum valid pandas_datetimestructs for datetime64[ns].  It is simpler
+and more accurate than the previous system.
+
+Also includes a number of small refactors/fixes to deal with new error
+cases that didn't exist when invalid datetime64s were just silently
+coerced into the valid datetime64[ns] range."
+2013-10-04 14:14:19+01:00;1;6d6f3924d9deda606df9b80b75ec58d3a9fca4ec;"BUG: Fix bound checking for Timestamp() with dt64 #4065
+
+To fix the bug, this change adds bounds checking to
+_get_datetime64_nanos() for numpy datetimes that aren't already in [ns]
+units.
+
+Additionally, it updates _check_dts_bounds() to do the bound check just
+based off the pandas_datetimestruct, by comparing to the minimum and
+maximum valid pandas_datetimestructs for datetime64[ns].  It is simpler
+and more accurate than the previous system.
+
+Also includes a number of small refactors/fixes to deal with new error
+cases that didn't exist when invalid datetime64s were just silently
+coerced into the valid datetime64[ns] range."
+2013-10-03 19:19:24-04:00;1;20a8441c032e0917b7451597e30c6f2841521d67;BUG: allow plot, boxplot, hist and completion on GroupBy objects
+2013-10-04 10:19:17-07:00;1;7a886b5047dc2d9d5f9a4919c7e0b1bd403f38c6;"Merge pull request #5105 from cpcloud/enable-groupby-plot-and-completion
+
+BUG: allow plot, boxplot, hist and completion on GroupBy objects"
+2013-10-07 18:59:54-04:00;2;d52ee75f17fd16953643155286a619afe4c35491;"Merge branch 'timestamp-object-bounds' of https://github.com/danbirken/pandas into danbirken-timestamp-object-bounds
+
+Conflicts:
+	doc/source/release.rst"
+2013-10-07 18:59:54-04:00;1;d52ee75f17fd16953643155286a619afe4c35491;"Merge branch 'timestamp-object-bounds' of https://github.com/danbirken/pandas into danbirken-timestamp-object-bounds
+
+Conflicts:
+	doc/source/release.rst"
+2013-10-06 16:15:12-04:00;1;c4b83b7eda460baa4a3547972d8955b4627e1a05;TST/ENH: add locale testing utils
+2013-10-08 21:07:25-07:00;1;b0cd6076281e53e126d1e0b4701b7da2b717c2cd;"Merge pull request #5073 from cpcloud/travis-locale
+
+TST/CI: make sure that locales are tested"
+2013-10-11 22:31:46-04:00;1;9c1bae402d4c302a033da7159096d9df288506b0;"CLN/ENH: Stop instantiating all offsets on load.
+
+Use a more flexible lookup based on prefix then delegate creation to
+class' `from_name()` method. Totally get rid of hasOffsetName (not necessary).
+Finally, make some inheriting go on to simplify things."
+2013-10-14 16:11:39-04:00;7;7fe3d027c05eea8800c31489a99e016b77b21091;"API: rename _prop_attributes to __finalize__ (in NDFrame)
+     rename _propogate_attributes to _metadata (in NDFrame)
+     change methods which directly pass metadata to use __finalize__
+
+     These provide a simple mechanism for meta data propagation, which
+     can be overriden in subclasses if desired"
+2013-10-14 17:58:25-07:00;7;0a3dbf72271c8056bc565f1503fd433fbdab655b;"Merge pull request #5205 from jreback/meta
+
+API: rename _prop_attributes to __finalize__ (in NDFrame)"
+2013-10-14 17:58:55-07:00;1;4db583dccad8a2b6db9e65405d7b0fd0e1aabee6;"Merge pull request #5189 from jtratner/stop-instantiating-offsets-on-load
+
+CLN/ENH: Stop instantiating all offsets on load."
+2013-10-16 14:22:58-04:00;1;e4e57d9ad54185afc3d888e195244f9a446b85bd;API: add excel kw to to_clipboard to preserve compat behavior (related GH5070)
+2013-10-16 12:54:25-07:00;1;791d5451c22e32eb988068e4cae7e087a7d1c215;"Merge pull request #5243 from jreback/clip2
+
+API: add excel kw to to_clipboard to preserve compat behavior (related GH5070)"
+2013-10-25 13:35:33-04:00;1;2cda959e1507f90f22a7bab38a601f409a2833d2;"TST/BUG: allow invalid Timestamps to pass thru as datetimes when operating with offsets
+         related (GH5312)"
+2013-10-25 17:31:29-07:00;1;142d184c0da2dac328a17e987809493ec225c354;"Merge pull request #5327 from jreback/timestamp_offset
+
+TST/BUG: allow invalid Timestamps to pass thru as datetimes when operating with offsets"
+2013-11-16 03:05:51+01:00;1;a4a71f89bf473a84c2a45260acac675dfac83cb3;CLN: PEP8 cleanup
+2013-11-16 03:05:51+01:00;1;a4a71f89bf473a84c2a45260acac675dfac83cb3;CLN: PEP8 cleanup
+2013-11-16 19:45:00-05:00;1;822178e0d882c7a86df454c259980823ba830afd;"Merge pull request #5038 from alefnula/pep8
+
+CLN: PEP8 cleanup"
+2013-11-16 19:45:00-05:00;1;822178e0d882c7a86df454c259980823ba830afd;"Merge pull request #5038 from alefnula/pep8
+
+CLN: PEP8 cleanup"
+2013-11-21 09:17:55-05:00;2;8bdf093e761c5849571802e0155f564a51506068;"TST/API/BUG: resolve scoping issues in pytables query where rhs is a
+             compound selection or scoped variables
+
+             e.g. 'l1=selection.index' and 'l1=l', where l = selection.index
+                  were failing"
+2013-11-21 07:07:41-08:00;2;737983354afbaaf10a4576a18699ee55f0bde9d7;"Merge pull request #5566 from jreback/hdf_select
+
+TST/API/BUG: resolve scoping issues in pytables query where rhs is a compound selection or scoped variable"
+2013-11-22 16:35:19-05:00;1;dbd8416efb4c0cb0f0b11cb786b08b0b60275ba0;"BUG: format label for inf in cut with a str directly
+
+TST: disable sparse test on pow on win32
+
+TST: skip msgpack testing in 2.6 for datetimes with tz
+
+TST: dtype test compat in io/tests/test_excel.py"
+2013-11-22 15:30:13-08:00;1;39ad4cb9a1ab41447b38b50bca02b9ab69f28795;"Merge pull request #5574 from pydata/win32_fix2
+
+Win32 fix2"
+2013-11-30 20:20:00-05:00;1;91e604c7e89af8efea75775cd438d440723bca56;"TST: Always try to close file descriptors of tempfiles
+
+TST: Close file descriptors in io/tests/pytables"
+2013-11-30 19:37:51-08:00;1;59963e3bab5a875ca8f4692427476aa7f803d179;"Merge pull request #5626 from jtratner/always-close-tempfiles
+
+TST: Always try to close file descriptors of tempfiles"
+2013-12-02 17:17:49-05:00;1;8da0378907769a07616f82c4ab10913ae2bb58fd;BUG: make sure partial setting with a Series like works with a completly empty frame  (GH5632)
+2013-12-02 17:59:04-08:00;1;1200d9a57813c6e770f74af4d9851834f92f4c82;"Merge pull request #5633 from jreback/setitem_empty
+
+BUG: make sure partial setting with a Series like works with a completly empty frame (GH5632)"
+2013-12-02 19:06:06+00:00;1;2c5939b61a325d7fad4b39bba0c316590d378f23;ENH: Allow non-int j vals
+2013-12-07 09:12:19-05:00;1;b8c675695a9d11264d12f9e0ffad0e356f0a79fa;Merge branch 'wide-to-long' of https://github.com/jseabold/pandas into jseabold-wide-to-long
+2013-12-11 08:52:21-05:00;1;507ffb559cafa49de6eb38ad41f2fe979593944e;API/ENH: Detect trying to set inplace on copies in a nicer way, related (GH5597)
+2013-12-11 08:52:21-05:00;1;507ffb559cafa49de6eb38ad41f2fe979593944e;API/ENH: Detect trying to set inplace on copies in a nicer way, related (GH5597)
+2013-12-11 13:10:14-08:00;1;ceec8bf305fbd0258edb66c648b87219a435bc32;"Merge pull request #5679 from jreback/inplace
+
+API/ENH: Detect trying to set inplace on copies in a nicer way, related (GH5597)"
+2013-12-11 13:10:14-08:00;1;ceec8bf305fbd0258edb66c648b87219a435bc32;"Merge pull request #5679 from jreback/inplace
+
+API/ENH: Detect trying to set inplace on copies in a nicer way, related (GH5597)"
+2013-12-16 10:35:26+01:00;1;7d0a6ed1da43569632df5874381d258577a7417c;StataWriter: Replace non-isalnum characters in variable names by _ instead of integral represantation of replaced character. Eliminate duplicates created by replacement.
+2013-12-17 15:35:19-05:00;1;404eae008d456b384881bd6df721398e35e05f42;BUG: don't use partial setting with scalars (GH5720)
+2013-12-17 13:32:24-08:00;1;8a91b22654c39ae9c8b338c56d127e7b0e7ed723;"Merge pull request #5723 from jreback/empty_frame
+
+BUG: don't use partial setting with scalars (GH5720)"
+2013-12-17 16:50:14-08:00;1;f6fd509482b5914a2734e947039dc80b63747b29;"Merge pull request #5709 from PKEuS/master
+
+StataWriter: Replace non-isalnum characters in variable names by _ instead of integral represantation of replaced character. Eliminate duplicates created by replacement."
+2013-12-19 06:55:07+02:00;1;fe9c0ae0b703ce6a7164ceaa309ddb3cfda54394;BLD: Handle git describe failure more cleanly in setup.py GH5495
+2013-12-29 10:16:38-05:00;1;e375550b138af1318bc5c4d51c99658c67d554ed;"BUG: remove convert_numeric=True from groupbys
+     perform soft-conversion of numeric dtypes instead"
+2013-12-29 08:23:21-08:00;1;14bc4450ab45781076d50d5d4b4fa96c84299745;"Merge pull request #5790 from jreback/apply_bugs
+
+BUG: dont' always coerce reductions in a groupby always to datetimes"
+2014-01-07 17:56:44+02:00;2;b586ad6c64ae3a006442efc03758572d09baabf9;BLD/DOC: explain how to print_versions() sans repo in CONTRIBUTING.md
+2014-01-07 15:23:03-05:00;1;6e015ee4f73ff4d7d57e834361e4017b977d7b3f;BUG: Bug in groupby dtype conversion with datetimelike (GH5869)
+2014-01-07 12:44:31-08:00;1;cbe3e20370ca0f2e29ec5bf72bfae484b79f504d;"Merge pull request #5870 from jreback/groupby_ts
+
+BUG: Bug in groupby dtype conversion with datetimelike (GH5869)"
+2014-01-01 21:37:01-05:00;1;f1a7f2abdb22fafc7eaf199d536182bf08e03e9d;"ENH: enhance apply() on Panel for arbitrary functions (rather than just ufuncs) (GH1148)
+ENH: add property dtypes on Panel objects"
+2014-01-14 18:53:46-08:00;1;78465c008817812d2c26ff4e42206ebe86b5705e;"Merge pull request #5850 from jreback/panel_apply
+
+ENH: enhancements to Panel.apply to enable arbitrary functions and multi-dim slicing (GH1148)"
+2014-01-19 13:43:09-05:00;1;a1a1647dd8e6d37ff52031154396773b4a76542f;BUG: possible fsync error when filno is negative (GH5999)
+2014-01-21 00:59:06+02:00;1;78b543193cb752551f200fa33f674f22a2fa6e3d;DOC: make zipped HTML docs available GH1876
+2014-01-20 15:59:21-08:00;1;8497e0bd96866bc779057c2c23cf465daaaf0c84;"Merge pull request #6020 from y-p/PR_GH1876
+
+DOC: make zipped HTML docs available GH1876"
+2014-01-21 13:28:47+02:00;1;0b9570a4d10c3a84cb1251e9147a69ae389d39dd;BLD: add zip_html command to docs make.py
+2014-01-21 17:35:18-05:00;1;7acbbd47f9e9d11f86ab3244988ac92f449c878d;BUG: Possible segfault when chained indexing with an object array under numpy 1.7.1 (GH6026)
+2014-01-21 15:06:39-08:00;1;e97e2be5c11be14e1eede230d60a113946fbc965;"Merge pull request #6031 from jreback/index_segfault
+
+BUG: Possible segfault when chained indexing with an object array under numpy 1.7.1 (GH6016)"
+2014-01-22 13:37:40-05:00;1;9b90af760155b10d13037d7d43c0a93d75716ec1;BUG: less false positives with SettingWithCopy (GH6025)
+2014-01-22 18:24:57-08:00;1;fcfaa7d8603a46f7940cd3aa8d0389df49df7021;"Merge pull request #6042 from jreback/setting_with_copy
+
+BUG: less false positives with SettingWithCopy (GH6025)"
+2014-01-23 18:07:24-08:00;2;78bb4671ed5eba36188b48792496d900440a68cd;"PERF: Speed up pd.to_datetime() by optionally inferring dt format #5490
+
+Given an array of strings that represent datetimes, infer_format=True
+will attempt to guess the format of the datetimes, and if it can infer
+the format, it will use a faster function to convert/import the
+datetimes.  In cases where this speed-up can be used, the function
+should be about 10x faster."
+2014-01-24 13:49:48-08:00;2;4bfb38bc35ec0cd5a0a23e5d6e907edeec705688;"Merge pull request #6021 from danbirken/infer-datetime-format
+
+Infer datetime format"
+2014-01-19 22:37:37-05:00;1;d74bd31a940cc64a7733798f09cdea06065402f5;"Add is_reduction argument to DataFrame.apply
+
+Use 'reduce' argument instead of adding 'is_reduction' argument
+
+Fix apply on empty DataFrame returns DataFrame
+
+Add changelog notes and examples"
+2014-01-26 10:07:12-05:00;1;3e849eee2c3bcdf7301b5b0963393355329889fa;"COMPAT: provide compat tests and better error messages for multiple file opening
+        on PyTables >= 3.1 (GH6047)"
+2014-01-26 08:11:50-08:00;1;71360af1d343a35273648b15a6dd9fc24d812ff9;"Merge pull request #6104 from jreback/pytables_3.1
+
+COMPAT: provide compat tests and better error messages for multiple file opening on PyTables >= 3.1 (GH6047)"
+2014-01-26 17:39:26+01:00;1;026c9be691bc5abb3997325ae483adccd7158f2c;listcomp -> for-loop (listcopms create a new scope in py3), bypass AttributeError on Pandas.str
+2014-01-30 02:49:25-08:00;1;f0c49535b742d3b8c1ef57c67b90ec82b5080ed1;"Merge pull request #5530 from kermit666/sphinxext-py3
+
+sphinxext py3 compatibility"
+2014-02-04 11:48:21+02:00;1;37ce181cf9e7f877cd5b1cba8ef9fd9f9657697a;BUG: read_clipboard decode bytes first (windows)
+2013-07-11 10:01:37-04:00;1;0222d39e9aa6ff679b28997da0dd4fea5a0a225b;"ENH #4163 Use SQLAlchemy for DB abstraction
+
+TST Import sqlalchemy on Travis.
+
+DOC add docstrings to read sql
+
+ENH read_sql connects via Connection, Engine, file path, or :memory: string
+
+CLN Separate legacy code into new file, and fallback so that all old tests pass.
+
+TST to use sqlachemy syntax in tests
+
+CLN sql into classes, legacy passes
+
+FIX few engine vs con calls
+
+CLN pep8 cleanup
+
+add postgres support for pandas.io.sql.get_schema
+
+WIP: cleaup of sql io module - imported correct SQLALCHEMY type, delete redundant PandasSQLWithCon
+
+TODO: renamed _engine_read_table, need to think of a better name.
+TODO: clean up get_conneciton function
+
+ENH: cleanup of SQL io
+
+TODO: check that legacy mode works
+TODO: run tests
+
+correctly enabled coerce_float option
+
+Cleanup and bug-fixing mainly on legacy mode sql.
+IMPORTANT - changed legacy to require connection rather than cursor. This is still not yet finalized.
+TODO: tests and doc
+
+Added Test coverage for basic functionality using in-memory SQLite database
+
+Simplified API by automatically distinguishing between engine and connection. Added warnings"
+2013-07-11 10:01:37-04:00;1;74d091f95ec293c195bd0a5e4886cf5891df2489;"ENH #4163 Use SQLAlchemy for DB abstraction
+
+TST Import sqlalchemy on Travis.
+
+DOC add docstrings to read sql
+
+ENH read_sql connects via Connection, Engine, file path, or :memory: string
+
+CLN Separate legacy code into new file, and fallback so that all old tests pass.
+
+TST to use sqlachemy syntax in tests
+
+CLN sql into classes, legacy passes
+
+FIX few engine vs con calls
+
+CLN pep8 cleanup
+
+add postgres support for pandas.io.sql.get_schema
+
+WIP: cleaup of sql io module - imported correct SQLALCHEMY type, delete redundant PandasSQLWithCon
+
+TODO: renamed _engine_read_table, need to think of a better name.
+TODO: clean up get_conneciton function
+
+ENH: cleanup of SQL io
+
+TODO: check that legacy mode works
+TODO: run tests
+
+correctly enabled coerce_float option
+
+Cleanup and bug-fixing mainly on legacy mode sql.
+IMPORTANT - changed legacy to require connection rather than cursor. This is still not yet finalized.
+TODO: tests and doc
+
+Added Test coverage for basic functionality using in-memory SQLite database
+
+Simplified API by automatically distinguishing between engine and connection. Added warnings"
+2014-01-20 21:43:23+00:00;1;0aa7d8451d3f65e1d0083ede9b4cc9c3524e535c;"ENH #4163 Added more robust type coertion, datetime parsing, and parse date options. Updated optional dependancies
+
+Added columns optional arg to read_table, removed failing legacy tests.
+
+Added columns to doc
+
+ENH #4163 Fixed class renaming, expanded docs
+
+ENH #4163 Fixed tests in legacy mode"
+2014-01-27 18:54:59+00:00;1;de64af1f06e1738eeee4aa04fe7cd06062e9a756;ENH #4163 Introduce DataFrame Index support. Refactor to introduce PandasSQLTable for cleaner OOP design
+2014-02-06 16:31:44-05:00;1;c7e3058d0ae2137dd02ec1841406f5b1560f0189;Merge branch 'mangecoeur-master'
+2014-02-04 20:29:06-05:00;1;bd2e2a1e519dbd7a150d903144ec424f49ef45cf;"TST: tests for per_axis_per_level_getitem
+ENH: add core/indexing.py/_getitem_nested_tuple to handle the nested_tuple cases for partial multi-indexing"
+2014-02-12 19:40:03-05:00;1;7d707101c1987dc68d52dc18b31f0553ee861e48;"ENH: make it possible to pass keyword argument to .loc
+ENH: allow the axis keyword to short-circuit indexing"
+2014-02-13 18:12:31-05:00;2;2a9e9941956a8b4170aa1eea26adbe7b2dfeadd0;"Merge pull request #6301 from jreback/mi_indexing
+
+ENH: per axis and per level indexing (orig GH6134)"
+2014-02-16 14:09:49-05:00;1;709e45e5c138626ed55701153632e5e8db78c532;PERF: take the fast path on a reindex when reindexers are identical
+2014-02-15 16:11:29-05:00;1;8e585ae9eed27bd9b9043687bcdaa149ce9e2f2e;BUG: fix nested dict bug
+2014-02-16 16:08:52-05:00;1;5e64e883b90db3aac1c1aa028fc9143660cd4c6c;"Merge pull request #6365 from cpcloud/replace-nested-dict-6342
+
+BUG: fix nested dict replace"
+2014-02-01 16:15:46-05:00;1;95ce71249e2e8cf9467bbd4e2a9f2229a1a6b5bc;"ENH: backport Python 3.3 ChainMap
+
+ChainMap implements a list of mappings that effectively functions as a single
+dictionary. This class is very useful for implementing scope. This commit also
+adds a DeepChainMap subclass of ChainMap for writing and deleting keys."
+2014-02-20 09:24:06-05:00;1;91b2b00d8f00548a69f592c6538f232f58c595ad;"Merge pull request #6366 from cpcloud/eval-fix-scope
+
+ENH: fix eval scoping issues"
+2014-03-13 00:36:26+00:00;1;0e2c938d7d8f3ecffa93cf901d160533ed38d4b2;"BUG: Error in to_stata when DataFrame contains non-string column names
+
+to_stata does not work correctly when used with non-string names.  Since
+Stata requires string names, the proposed fix attempts to rename columns using
+the string representation of the column name used.  The main method that
+reformats column names was refactored to handle this case.
+
+Patch includes additional fixes for detecting invalid names.
+
+Patch includes some minor documentation fixes."
+2014-03-13 18:19:16-04:00;1;403f778fbd36d26109c9d29b290cc2fe14f0138e;"Merge pull request #6622 from bashtage/stata-timestamps
+
+BUG: Error in to_stata when DataFrame contains non-string column names"
+2013-12-03 14:01:58-08:00;1;765b3e09da5948022da05d8b62135500ace1a636;VIS: added ability to plot DataFrames and Series with errorbars
+2014-03-18 12:42:12-05:00;1;08e0a96ddb7dcb5ba1e0cc8be68b156bc9fbe5bc;"Merge pull request #5638 from gibbonorbiter/master
+
+VIS: added ability to plot DataFrames and Series with errorbars"
+2014-03-27 08:14:33-04:00;2;88829b492fb2dff81289cead396e31129e211a50;BUG: Bug in consistency of groupby aggregation when passing a custom function (GH6715)
+2014-03-28 08:34:13-04:00;2;1ff776a00f54afc9ee91e93c67a4f9e6e99ddf3a;"Merge pull request #6718 from jreback/groupby_agg
+
+BUG: Bug in consistency of groupby aggregation when passing a custom function (GH6715)"
+2014-03-27 09:39:41-04:00;2;8e3bdfed5f729ae3707905eaa26603479546f2d9;"ENH: Implementation of holidays and holiday calendars to be used with the
+     CustomBusinessDay offset.  Also add an Easter holiday for use in
+     calendars.
+
+     HolidayCalendar changes (class factory, get_calendar, __repr__, and merge functions).
+
+     HolidayCalendar start_date/end_date now public.  Python3 changes and add additional
+     tests for functionality.  Also, add release note."
+2013-09-12 16:56:46-04:00;1;b7492fe124fc824567338a62b0871eab52a870d9;"ENH: Index(...) constructor creates a MultiIndex when appropriate.
+
+- Series and DataFrame constructor autodetect when index/columns
+should be MultiIndex
+- prevents some seg faults in calls to cython funcs
+- add tupleize_cols kwarg and update tests to git PR comments
+- support name= xor names= in Index(tuples, ....) constructor
+- docs
+
+BUG: Index.identical(other) didn't compare type(other) to type(self)"
+2014-04-09 16:35:05-04:00;1;3772f4c37c67f47a4ba9f17e5fec434e48bbbe94;"DEPR: Indexers will warn FutureWarning when used with a scalar indexer and
+       a non-floating point Index (GH4892)"
+2014-04-11 18:33:35-04:00;1;31ab9ce33789f76b1a3ce8b93bb11fd49ed6146f;"Merge pull request #6853 from jreback/float_indexers
+
+DEPR: Indexers will warn FutureWarning when used with a scalar indexer this is floating-point (GH4892)"
+2014-03-13 00:09:15+04:00;1;fb1aed61435bbd04b26d12377fdfdc5b027b6e08;"CLN: remove items/ref_items attributes from Block class
+
+Now, there's one authoritative mapping from BlockManager axis0 to
+axis0 of subordinate blocks:
+
+* _blknos[loc] is block number where loc-th item resides
+* _blklocs[loc] is location in given block of loc-th item
+
+Blocks support this mapping with blk._ref_locs attributes that
+enumerate all items contained in that block."
+2014-04-25 10:22:30-04:00;1;897a53ced10c77883e5298ab5e33bdcde129470b;"Merge pull request #6745 from immerrr/refactor-blockmanager
+
+CLN: revisit & simplify Block/BlockManager, remove axes"
+2014-04-25 17:26:54-04:00;1;3be34449584e04e597459b9ec45a64a2729f7c3f;COMPAT: fix warning for slice indexers when using floats in iloc that are convertible
+2014-04-27 13:47:19-04:00;1;be29fd2c28d90c8ff3a193ba88a78e20e8b01e45;"Merge pull request #6960 from jreback/warnings
+
+COMPAT: fix numpy 1.9-dev deprecation warnings in test suite"

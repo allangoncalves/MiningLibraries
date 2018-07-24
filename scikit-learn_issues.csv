@@ -1,0 +1,82 @@
+commit;number;title
+4ec4a02e5991150af5154ce78afff39b99a8c7b4;1;remove Y from fit in OneClassSVM
+3ec3153807701e4f58a881b8feb333c080a1657c;335;move sources from scikits/learn to sklearn
+c68f4f540dba0eea7f713a36363aacba7111e74e;590;"Broken ""Citing scikit-learn"" link from nested documentation pages"
+c68f4f540dba0eea7f713a36363aacba7111e74e;579;Numpy and Scipy version requirements
+549d82f72ef24c11665211201f5f27d0551520c6;893;MRG factorize common tests.
+bb73ff8e17c4d20da6a3433dba9b5041e5e39fdf;1;remove Y from fit in OneClassSVM
+239054d1409d05d828f918b6c4b3530568b1bfbd;2131;[MRG] Complete rewrite of the tree module 
+f2f67e2b88cfa1b31cdfaf7040278136907259dd;2308;GBRT checks if ``loss`` is in self.supported_loss
+524daee76522f00b4fda1d857bf6d1ed9426b215;2375;[MRG] Bagging meta-estimator
+8b037addcce1138703750b746f715f2882d1c0ca;2541;[MRG]: fix tests, centralize warnings and reset `__warningregistry__`
+b8bea8e73333b190546ec1b0ef0d95ed776bc411;2570;[MRG] Gradient Boosting enhancements
+1e64b7b95fa95f60e1432be6f8edcea874bbbcef;3212;MAINT: joblib 0.8.0
+8621f00f6ff711fe3a4cfe59e6c0accb72d32f97;3173;[MRG] Sparse input support for decision tree and forest
+cd931fa6ba1984a442a6346aa2ae9b2d7e55fb9e;4136;[MRG+1] More robust input validation, more testing.
+b92ed8f2dc415d89f111d887f71faf2a32d1ef7c;4550;[MRG+1] Common test refactoring
+9eb1964724bcfd15ea35ead476f3dcf2ad367bcf;4161;[MRG + 2] EnsembleClassifier implementation
+db56cf7cf53e97f398e20d4ef22b2eacb68e5bce;4705;[MRG+2] make cross_val_predict work on lists
+4c2d61a05115625808e67693f9c6ca16865ddcb4;4919;[MRG+2] MAINT Remove deprecated sequence of sequence support etc
+218e255a87a62053396cb8e848bcb60832f1cce9;5301;[MRG+2] MAINT use inspect.signature for introspection
+218e255a87a62053396cb8e848bcb60832f1cce9;5301;[MRG+2] MAINT use inspect.signature for introspection
+330189376beb9709cf06f74179f3f1729bfcff9f;5413;Cleanup tests
+92068ef7de92752ab14a1e601e021cda4a51149d;5322;Regression models should raise errors when targets are nan / inf
+3f8743f47b61a269e8bfff2322cb544170976574;5161;[MRG+1] Add check for sparse prediction in cross_val_predict (fixes #5132)
+3f8743f47b61a269e8bfff2322cb544170976574;5201;DOC Clarify random_state parameter in KFold() doc
+3f8743f47b61a269e8bfff2322cb544170976574;5190;[MRG+2] Label K-Fold
+3f8743f47b61a269e8bfff2322cb544170976574;4583;[MRG + 2] ShuffleLabelsOut cross-validation iterator
+3f8743f47b61a269e8bfff2322cb544170976574;5300;[MRG+1] Ensure correct LabelKFold folds when shuffle=True
+3f8743f47b61a269e8bfff2322cb544170976574;5378;[MRG+2] Trying to make GridSearchCV docs more accurate (don't say classifier)
+3f8743f47b61a269e8bfff2322cb544170976574;5458;[MRG+1] Remove shuffling in LabelKFold
+3f8743f47b61a269e8bfff2322cb544170976574;5466;[MRG+2] Gaussian process by @jmetzen
+3f8743f47b61a269e8bfff2322cb544170976574;4270;[MRG+2] Gaussian process revisited
+3f8743f47b61a269e8bfff2322cb544170976574;4826;[MRG + 1] move custom error/warning classes into sklearn.exceptions (and move `deprecated` away from `utils.__init__.py`)
+3f8743f47b61a269e8bfff2322cb544170976574;5161;[MRG+1] Add check for sparse prediction in cross_val_predict (fixes #5132)
+3f8743f47b61a269e8bfff2322cb544170976574;5201;DOC Clarify random_state parameter in KFold() doc
+3f8743f47b61a269e8bfff2322cb544170976574;5190;[MRG+2] Label K-Fold
+3f8743f47b61a269e8bfff2322cb544170976574;4583;[MRG + 2] ShuffleLabelsOut cross-validation iterator
+3f8743f47b61a269e8bfff2322cb544170976574;5300;[MRG+1] Ensure correct LabelKFold folds when shuffle=True
+3f8743f47b61a269e8bfff2322cb544170976574;5378;[MRG+2] Trying to make GridSearchCV docs more accurate (don't say classifier)
+3f8743f47b61a269e8bfff2322cb544170976574;5458;[MRG+1] Remove shuffling in LabelKFold
+3f8743f47b61a269e8bfff2322cb544170976574;5466;[MRG+2] Gaussian process by @jmetzen
+3f8743f47b61a269e8bfff2322cb544170976574;4270;[MRG+2] Gaussian process revisited
+3f8743f47b61a269e8bfff2322cb544170976574;4826;[MRG + 1] move custom error/warning classes into sklearn.exceptions (and move `deprecated` away from `utils.__init__.py`)
+3f8743f47b61a269e8bfff2322cb544170976574;5161;[MRG+1] Add check for sparse prediction in cross_val_predict (fixes #5132)
+3f8743f47b61a269e8bfff2322cb544170976574;5201;DOC Clarify random_state parameter in KFold() doc
+3f8743f47b61a269e8bfff2322cb544170976574;5190;[MRG+2] Label K-Fold
+3f8743f47b61a269e8bfff2322cb544170976574;4583;[MRG + 2] ShuffleLabelsOut cross-validation iterator
+3f8743f47b61a269e8bfff2322cb544170976574;5300;[MRG+1] Ensure correct LabelKFold folds when shuffle=True
+3f8743f47b61a269e8bfff2322cb544170976574;5378;[MRG+2] Trying to make GridSearchCV docs more accurate (don't say classifier)
+3f8743f47b61a269e8bfff2322cb544170976574;5458;[MRG+1] Remove shuffling in LabelKFold
+3f8743f47b61a269e8bfff2322cb544170976574;5466;[MRG+2] Gaussian process by @jmetzen
+3f8743f47b61a269e8bfff2322cb544170976574;4270;[MRG+2] Gaussian process revisited
+3f8743f47b61a269e8bfff2322cb544170976574;4826;[MRG + 1] move custom error/warning classes into sklearn.exceptions (and move `deprecated` away from `utils.__init__.py`)
+965a71517f2f06d1311ae1666a784d60f0832105;5214;[MRG + 2] Mlp with adam, nesterov's momentum, early stopping
+f49a558162d2acd07ab206f72716e00e6cbf2e6d;5492;[MRG + 2] Removing generated C files, adding build cache to Travis
+0d597c02c5b09a21195bbe515467844f63918132;5715;metrics.log_loss : checking for isinstance np.ndarray
+4afbccedd3ced50e9b4019a2509df8eacdc1c7ba;6104;[MRG+1] Enable pandas input to log_loss
+eed5fc5f0f84d1152604858837fa807e5716ea36;6395;[MRG+1] Make dump_svmlight_file support sparse y (fixes #6301)
+eed5fc5f0f84d1152604858837fa807e5716ea36;6301;Problem calling dump_svmlight_file with scipy.sparse matrix as y
+6bc346bbe7bdc30809ad1557b0f26e4afaf0d32b;6666;[MRG+1] Integration of GSoC2015 Gaussian Mixture (first step)
+814223cbfd9552f1ca5925b291616006f1d269a4;6789;[MRG+1] FIX support memmap scalars as CV scores
+814223cbfd9552f1ca5925b291616006f1d269a4;6789;[MRG+1] FIX support memmap scalars as CV scores
+e0d501f3109e60f9fec12d4d4b4f6c74a0ff75ef;6985;Joblib 0.10.0
+a4f632f02f0e66bf3533e5df64e936d87f6e57ee;7290;[MRG] Update joblib to 0.10.2
+b444cc9c6457590b33b365185b3eafb0d312b9be;7325;[MRG+2] Timing and training score in GridSearchCV
+b444cc9c6457590b33b365185b3eafb0d312b9be;6894;Timing in *SearchCV.results_
+b444cc9c6457590b33b365185b3eafb0d312b9be;6895;Training score in *`SearchCV.results_`
+04b67e2bcd26bfc8ce50b6c4b61bd6333809ed62;7825;[MRG+1] Fix estimators to work if sample_weight parameter is pandas Series type
+986a49bbe018aa8060f53c146fc06f278f80b7a6;5697;[MRG+1] split  data using _safe_split in _permutaion_test_scorer to fix error…
+cee5a383bb7bed814ccff77697d0330fe6b309be;8492;[MRG] Update joblib to 0.11
+fc2f24927fc37d7e42917369f17de045b14c59b5;8449;"[MRG+2] ENH/FIX Introduce min_impurity_decrease param for early stopping based on impurity; Deprecate min_impurity_split"
+ee88cf44ea533803849379f48bd44fcdefc14a93;7548;[MRG+1] Option to suppress validation for finiteness
+a08555a2384884c03d5deb509192a052c06caa85;7388;[MRG + 2] ENH Allow `cross_val_score`, `GridSearchCV` et al. to evaluate on multiple metrics
+a08555a2384884c03d5deb509192a052c06caa85;8117;[MRG + 1] Add fowlkess-mallows and other supervised cluster metrics to SCORERS dict so it can be used in hyper-param search
+846313b57009dd9f8340f5f7004bc2bf1119b709;9660;[MRG+1] Deprecate sklearn.utils.testing.raises and remove it from tests
+76494a1462c2f4c5660c37a037cd9e7d2a7f4276;9670;[MRG+1] Remove hard dependency on nose
+636a73e9c5b5716982acc83649e7561962553b79;9852;[MRG+1] Travis: move scipy-dev-wheels build to a cron job
+00d44d1ba6259dead0f4e4e5858cb05fbc8293f8;10513;[MRG+1] Update pyparsing.py for compatibility with Python 3
+20661b5018ba45f4452218a689640ff007cd361f;10835;[MRG + 1] Run doctests only on numpy 1.14 and fix them with numpy 1.14 formatting changes
+c50d9e87d024ff3d6fbfa5937101d8921a4bd1e9;11075;[MRG+1] Pytest parametrize unit tests (part 1)  -  ensemble module
+8e2c2aa35d234ba5d14f6c2492e2e5ca57de8af6;11570;raise DeprecationWarnings and FutureWarnings as errors
+8e2c2aa35d234ba5d14f6c2492e2e5ca57de8af6;11252;Review DeprecationWarnings and FutureWarnings in raise tests for the 0.20 release

@@ -1,0 +1,316 @@
+commit;number;title
+16983de4f2a99a9ebdb0b670940dc95232797b88;242;Remove hash-dependent example in AssocOp._matches_commutative docstring.
+8d8189ddc8ac350d1e2bf9cc8fe7ff1954dde0f1;396;Fix a failing solvers test in 64-bit
+8d8189ddc8ac350d1e2bf9cc8fe7ff1954dde0f1;396;Fix a failing solvers test in 64-bit
+9feb70958207b687be0528e4143cb4005981e40f;425;Fixed test_integers_cache for multiple test runs (#1946)
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+4823441189972b8dbc20af5cb037bddbb2de9c09;612;Pretty numbers
+020f69db80425c6971108c2bf2f05c94538973aa;876;Improved doctest coverage for combinatorics
+47a070a868faea620f0d033b7886abe352a08678;933;See Also Combinatorics
+32e0fbed3aa392879094f8974555efe76b8a8d7f;8545b50eab75c5d9;solve(r - sqrt(r**2) < 0) gives False when r = 1 - x
+32e0fbed3aa392879094f8974555efe76b8a8d7f;9b8609f18f2e1522;Series cleanups
+af5b19a53567bb2dcf927d657ad4179af9eed157;1028;2105
+ad13be5c496089c4815c5416f3fc7f2da6b8bbdb;1974;Determinant
+3423a6b01501f84d667f286bae70eaf05740eaff;1974;Determinant
+02fcd1317451e2546a58ca724ecb20b26e73592d;1974;Determinant
+aaf75e386cdebe258e09f3e2d1954acecdd17792;276;Transfer methods from Basic to Expr.
+6eec9d669acefe31880c0bcbf5814e00a900f228;286;div() will automatically convert the ground domain to a field
+4325aea61d9bf2cf6eb651c78ef9b8b9cbb32e7b;318;Finalized implementation of Gosper's algorithm (#2386)
+4325aea61d9bf2cf6eb651c78ef9b8b9cbb32e7b;2386;1318: Interval arithmetic support - First bits
+c0aab997384e78aaa45b263c97d00c9fb21ab67d;359;Allow subclasses of Expr to have their own implementation of arithmetic operators
+3a43310f1957a21a6f095fe2801cc05b5268a2c7;374;_op_priority
+3a43310f1957a21a6f095fe2801cc05b5268a2c7;359;Allow subclasses of Expr to have their own implementation of arithmetic operators
+a69e964dffe6617c8a116e05dc22e93ae90b3355;392;Use tokenize-based parser in sympify() (#871, #976)
+a69e964dffe6617c8a116e05dc22e93ae90b3355;871;mind commutativity in optimized Add.flatten
+a69e964dffe6617c8a116e05dc22e93ae90b3355;976;[GCI] Test examples when running setup.py test
+2e2069e28b01efd137157ac39d11a25bd0ba5569;353;1694 - solver upgrade
+c0f1d2416ac748476046a3cc08e27f82a26b9f11;2441;Clarify type errors in physics.mechanics.
+c0f1d2416ac748476046a3cc08e27f82a26b9f11;2441;Clarify type errors in physics.mechanics.
+a2f1da8950ac01c0078e629cad58aaa7043fc141;440;Update mpmath to 0.17
+df7a135a4ff7eca361ebbb07ccbeabf8654a8d80;423;move preprocessing out of _solve
+ec23267c72b3e861928a00a8f2fe1b8fe3708b12;466;update of pull #448 with some fixes to change_mul
+17b15d38bb9865eb357cebb355acdab1d6e4a2b1;361;Cartesian product set
+6f851a3421bb1d30aea69583f035c1cb278c7cb0;402;Added support for gmpy's and mpmath's types to sympify() (#2441)
+6f851a3421bb1d30aea69583f035c1cb278c7cb0;2441;Clarify type errors in physics.mechanics.
+6f851a3421bb1d30aea69583f035c1cb278c7cb0;402;Added support for gmpy's and mpmath's types to sympify() (#2441)
+6f851a3421bb1d30aea69583f035c1cb278c7cb0;2441;Clarify type errors in physics.mechanics.
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+52657848516ce7f4f7119b921d6b8d64131b58d3;511;Update code quality tests
+9867cb0eb9c730d05ebccbbeba2def7e1d674f20;328;Factor old-style assumptions
+9867cb0eb9c730d05ebccbbeba2def7e1d674f20;328;Factor old-style assumptions
+1e94dc93c055174b2164da92ee9a38e9d9246fce;495;Porting, part 3
+e6af2d87656a589514d27df3e573d38030cc7333;544;prefilter operations args for cls.identity
+e3df5de1f570664229d841ec568c47a34ff4f840;532;Matrix expr
+5032133385baf9bb1a8e0284eb374c28f6babd9f;623;Implemented `GroebnerBasis.reduce()`
+7400f4ed5b8c8e4c5331952b68994ce42976754f;627;Fixed almost all test failures under PyPy
+e4ce356651abe9f1fd67dacb497aecc037980f3b;631;Improved `.has()` and changed the meaning of `Basic.__contains__()`
+314e262c93b7a9ac60a373885118cd7dc25530b3;637;Robustified sort_key() and default_sort_key()
+b1fcb9e09a64f24ecb68a5a7a95ad528a195853b;582;solver upgrades
+9028973d147ec7d3a57e7b67e584a63fd3f125e7;643;Automatically construct missing symbols in isympy
+efd99600b2d0acbfd2d176526bc9e74ff3c49f28;620;Simplify code in _solve()
+00924d79186ea50cc978cc7a3d5120db056b9d99;735;Fixed following PEP8 in parts of the pyglet plotting module
+00924d79186ea50cc978cc7a3d5120db056b9d99;735;Fixed following PEP8 in parts of the pyglet plotting module
+00924d79186ea50cc978cc7a3d5120db056b9d99;735;Fixed following PEP8 in parts of the pyglet plotting module
+00924d79186ea50cc978cc7a3d5120db056b9d99;735;Fixed following PEP8 in parts of the pyglet plotting module
+52e46591b198c040fe89352de3fadc6d4edf2ad4;725;find added to units and examples given in module docstring
+2c445cf8c72ffa0ea86d5c9df12ba7bb6fbff5c3;816;Cleaned up test_lambdify.py and others.
+87b9d4c35feb91becb727f7993f9b15db3f53c32;684;Fixed pickling of Poly
+9f5dbf4630121ccc6f4d8a848620d0b10760b660;504;Gsoc 2
+9f5dbf4630121ccc6f4d8a848620d0b10760b660;504;Gsoc 2
+fb9bf7794b880391c6809848d4fbe925331594da;998;"Round function added; note in Gotcha about Float calcs; Float(Float) modification"
+aecfa09953c45344dd9cbf5722350854051c4561;983;radsimp rationalizes denominators with arbitrary number of terms
+af94f4672df2bd267911f6414d2176c8cd75d142;902;Random Variables
+61b1cccdff1cc7a7c03ec1379cfe232803866858;1034;"_int_ methods upgraded; round takes care of last digit better"
+0c77858342b7cadbb406c955ba19cb90c1a8d499;1015;ImmutableMatrix
+ca9d625feca1c87b70283a209cbc2be64568eadb;690;subs cleanup
+bb8d7b24f2e5127d3e2dff0dd1dda75bdc2df9d4;1164;Clean sets - Union simplification
+85c3335344c0257d122496830b24373e6b0aae87;1205;Fixed isympy -a and added a test (#3048)
+25904b8eb3b80af8e9c20134932e0e141e437902;1162;Refactoring the old assumptions
+25904b8eb3b80af8e9c20134932e0e141e437902;1162;Refactoring the old assumptions
+ad44544911bb98d5752f44ab975be225ec612d0c;1303;Fix log(x, b) with base b == 1
+92d8dad170ea1db42f4a66b4773a7d67eb6f0a66;1199;Generalized polynomial rings
+92d8dad170ea1db42f4a66b4773a7d67eb6f0a66;1199;Generalized polynomial rings
+92d8dad170ea1db42f4a66b4773a7d67eb6f0a66;1199;Generalized polynomial rings
+ea4b9c593be545b2e38a417494abb83840b60d72;1331;refactor has
+f1dfd51390a83b763535481c5df47ef60793bf69;1351;AGCA8 - documentation
+3142f1ff604e9c2bdb740d70f6ea2e1dd6214e95;1376;Implement integral of Piecewise with symbolic bounds.
+aefc67a0c7028c282bee14520c7110d33d88b052;1458;Set.sort_key, default_sort_key edits
+08617edfd73aae175dae495ef260619d82d025ee;1470;Autorat
+30bb26baf434d4a0fa69a86e96246b5e131f1040;1489;--pylab option added to isympy session.
+de89b32c76ebf27b1e105e12e4bee8856436d851;1506;Catch all exceptions when trying to enable pylab
+bb4083ac818fe0751186bb37ec749bfd60205dc4;1559;Move sympyprinting extension from IPython to SymPy for 0.7.2
+36c804809943af7b2f099cfca9b049e444954c5c;1567;Matrices tweaks
+ef61493deef694f17f319a25f83f61bdfcca8732;1581;0.7.2 merge with master
+ef61493deef694f17f319a25f83f61bdfcca8732;1581;0.7.2 merge with master
+473c8565d77b0e2669128fbc2f8eb8ad35e791bd;1560;Introduce rewrite rules
+5823be26dd05bb4f62a44e4e6c774137a11f82a2;1598;Simplify
+f8b5ffbe9ef66e8bf048f9192a36bc2d83217224;1617;Integration3 (re-merged)
+f8b5ffbe9ef66e8bf048f9192a36bc2d83217224;1617;Integration3 (re-merged)
+3349e4ede2a14c910d5e928051f80389be450fc1;1609;Adjoint
+4055c4ba93bed0c505f77f988f44b850d41e5276;1608;Hadamard
+a655b03245b494b4df68746968e65f4b5d582288;1546;Implicit multiplication and function application for sympify
+40a2d6b76f18961bd9c7d3ff9a316600687ef06d;1638;"(3460) issue 1400; enforcing determinism; correcting power rules; kbins"
+4c5b0d4d9a205104904ecf85f964d16fea7bd604;1643;Cleanup of integrate()
+1253e3172e649dd9dbd29945185210768b12cdcf;1621;Piecewise canonicalization
+f379d43bfcda7eaca6fd89c9d7c97d4692434524;1680;"2950: Rational more flexible; other number.py work"
+d1dea6329adc82fd7a34f74951fb9f6377c07efb;1690;trigsimp modifications
+d0e4f2553b36d05cf0479667553450cb38ae6f78;1751;New assumptions context manager
+266dd64dd0e9019e6951df51d37db025226fdd5f;1779;refactoring of preview function in sympy/printing/preview.py
+5e64d5e5536867243a2a6bca04494f3ee1f7820d;1885;make sure all roots are obtained
+b6104cba340291b25d43acb25d433b80fe6c173f;1737;Fu
+2329667f4f26c6b2b5f56a0ea50ffa9d313990d1;1863;An attempt to fix #2969
+5314646b221ac1592dc4e7d99a646231dbea5a14;1927;Manual integration
+73d90bf25bbf47a9c8d2654260c6f7847c463401;1990;change related to equals and is_constant
+34ba39f2f98cab81b8625f55e347a8768029e989;1697;KroneckerDelta in discrete summations and products
+885efaaaa182a18fba20f044ab8d3b8ac346c228;1997;Mod handles more simplification
+ab94c3347561e9e6fdf1e76e0c7e6e9d33338dcc;1969;Doctest cleanup
+83311921fb1200aecbb2ec741f84cc152aefab4b;1970;Staging the infra of a basic PDE Solver
+5689563b1e5adb713ea38710c8fa1f624cb10a1e;2066;defining hashable content for objects with bound symbols
+72331ee2de33789539a3423b71b24a7f1ee7f431;1622;Identify undeterminate a/0 forms of indefinite integrals
+72331ee2de33789539a3423b71b24a7f1ee7f431;1622;Identify undeterminate a/0 forms of indefinite integrals
+9c2937beb8cac41bfa91b92b0c1451153ed17d98;2045;Interactive ipython printing.
+9c2937beb8cac41bfa91b92b0c1451153ed17d98;2045;Interactive ipython printing.
+d8398e7f93382a30f47df51bf385e54e92648918;2112;heurisch_wrapper: Leave the original poles alone.
+b5881b78d7e9a0b7bd8faad7b7d888db0eeb59d8;2122;sympify replace input
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+2bfa8681cfee86322f62325232674ee831a9e488;10;1778
+4d50f4fb83673276519e9ba717759ab8acc7c19f;2143;First heuristic
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+cff438c21473b8d93a516f8d31440871a284883d;11; Add note to the gotchas showing that expressions in sympy are immutable
+a19b3030f7eae5beab6727d62911e7e84a07b2e5;2156;Heuristic 2
+76b133d856b2fa5a2a2fe1b6f59dc145b75496a7;2218;App engine compatibility: fail on subprocess import
+28c30eb8977ae616b10f6bd9e64d06b4ad3f1728;2029;lxml instead of libxml2 for c2p
+2585bd0b08aa84faab2a5149c5086823ce0c20e0;2065;Issue 3796
+b4db1f3bcd6add6a24f71a77b40e067c8366f84e;2126;WIP: Incremental progress on sparse polynomials
+ede17114b8038cb8fe6620ec70df58f3386ad4b9;1847;runtests: Show operands of failed tests' assert statements
+c7fbd905302c64e4a3d6c82566faf00976d82d49;2273;Remove Python 2.5 stuff (#3930)
+c7fbd905302c64e4a3d6c82566faf00976d82d49;3930;sympy.physics.units uses from sympy import *
+4703ea9fded14068f96e18aa3e24acab026f2cc2;2293;0.7.3 merge
+4703ea9fded14068f96e18aa3e24acab026f2cc2;2293;0.7.3 merge
+4703ea9fded14068f96e18aa3e24acab026f2cc2;2293;0.7.3 merge
+4a15675f6893438e303963eb13e5100447153e2c;2276;Make mutable matrices not hashable (issue 880)
+9348a9a589598e0ca0c238f83bb4d10ed427504b;2286;Refactored the heuristic code and rewrote the second heuristic
+423d51c458c8cc14baa4adcf4e1598e46936e73e;2318;Single Python 2 and 3 compatible codebase
+11c0bd394ce130463733190a0e32a0576081d4fb;2322;Issue 1756: don't do division by order term
+cca64e928b0b0d0f1fab7e61c9bfa717d272958f;2308;Heuristics, for assumptions on xi and eta
+69e8a9a68173af7eb5ebcb2bdc4ff66ae3ccc60d;2307;solving quadratic congruences
+36c31b952879b45f96d89cb83c0caf39ca3bd759;2497;"Report test name in case of runtest failure; add missing print_function."
+43053e196c4126f51852ef3f7e273c1bbc8d4ad7;2828;Ellipse
+15cd7f14bfc803519c33c995531a737ed96f1f74;2784;Update mpmath to 0.18
+15cd7f14bfc803519c33c995531a737ed96f1f74;2784;Update mpmath to 0.18
+15cd7f14bfc803519c33c995531a737ed96f1f74;2784;Update mpmath to 0.18
+15cd7f14bfc803519c33c995531a737ed96f1f74;2784;Update mpmath to 0.18
+c432cabf0709cacbb217d6382067accff3648283;7342_;Wrong error message in diop_linear
+c432cabf0709cacbb217d6382067accff3648283;7343;Wrong result with a single variable equation with diophantine
+c432cabf0709cacbb217d6382067accff3648283;7448;Filter diophantine solutions using assumptions issue #7444
+79f3570b89af66116de721b06c69c3496ce3c184;5669;Remove bare except statements
+79f3570b89af66116de721b06c69c3496ce3c184;5669;Remove bare except statements
+79f3570b89af66116de721b06c69c3496ce3c184;5669;Remove bare except statements
+221d645e79efcc27eeac18ab77010b7754572cce;7576;"Replace ""except:"" with ""except Exception:"""
+221d645e79efcc27eeac18ab77010b7754572cce;7576;"Replace ""except:"" with ""except Exception:"""
+221d645e79efcc27eeac18ab77010b7754572cce;7576;"Replace ""except:"" with ""except Exception:"""
+cba01485059c200cb693db1e36ad4cebe10f6358;7566;Basic Vector framework
+cba01485059c200cb693db1e36ad4cebe10f6358;7566;Basic Vector framework
+b815b0a668c5f122d9c1761268faf1c53149a423;3;1985
+5162de4a7f2767744205856cc6627dba695e8919;7733;Added more Tests to the Plane class.
+f863b349f99d60fa6ab3c9ee53400145c1fc9eb7;7638;consolidate exp._eval_power and Pow._eval_power
+a9efae9f179eb6675e8d2db0a63970d474b2857c;7876;Wrong result in `==` comparison of two FiniteSet
+bee839304e3ede6ad2d949c417cc54881249a7b2;7879;Typecast Poly to PurePoly in RoofOf._new
+29312686d60dfb4d61b87c2a60afdc82fc1f0319;8355;8247: use minpoly in Expr._eval_is_zero
+7b208beabd00d4f3e617b0dc7e925e5a7e55e1d1;8239;nsimplify applied to ints should be fast
+427bc0d6931170461c65b70320674416f83a17e6;8459;fixes #8239
+427bc0d6931170461c65b70320674416f83a17e6;8239;nsimplify applied to ints should be fast
+302497d960c0a9f692485827c6183d467ecda0ca;8821;N(<decimal string>) limited to double precision
+d12404067b1ae75ac1b5af123c2bd0c4c8372d10;8826;  Float: losslessly convert strings to high-precision Floats
+3a45e0c3eaf1409a7b2b0d3290b08c2f3cb3dfc3;8921;Fixed incompatiblity with latest version of pyglet (1.2alpha1)
+3a45e0c3eaf1409a7b2b0d3290b08c2f3cb3dfc3;8921;Fixed incompatiblity with latest version of pyglet (1.2alpha1)
+f13ed6d61273c30ee26be08b8505aa1bceef7991;68;Property doctests: Fix the bug where @property methods' docstrings are not doctested (issue 1947)
+f13ed6d61273c30ee26be08b8505aa1bceef7991;68;Property doctests: Fix the bug where @property methods' docstrings are not doctested (issue 1947)
+f13ed6d61273c30ee26be08b8505aa1bceef7991;68;Property doctests: Fix the bug where @property methods' docstrings are not doctested (issue 1947)
+f13ed6d61273c30ee26be08b8505aa1bceef7991;68;Property doctests: Fix the bug where @property methods' docstrings are not doctested (issue 1947)
+f13ed6d61273c30ee26be08b8505aa1bceef7991;68;Property doctests: Fix the bug where @property methods' docstrings are not doctested (issue 1947)
+c82136305fda499f652d23df6d66ad7b25238181;9307;Tested Point3D
+838b3bbd9683f9d895e88c61e36cf59a06736015;72;Call remove: Remove the __call__ shortcut to subs in Basic (issue 1927)
+918c1a16daaeb52fd3f901bd36035a56f4dba7b5;9484;Separate metaclass hierarchy from class hierarchy
+c964b359c0e9aedbd3625fcc707fa70528eb777e;9441;GeometricEntities are now Sets
+ef3e72e63439461746a8d4c2c04defde206ba059;9553;splitting simplify.py
+ef3e72e63439461746a8d4c2c04defde206ba059;9553;splitting simplify.py
+c6ecbc13e13404fd0f9a3e017b7f06dd97aa404a;8432;Tests fail, seems like Cython is not configured to compile with numpy correctly
+98e62970c731ee342fc66bd41aebe75ac6cf1432;9647;autowrap: Don't fail if we can't delete the temporary directory
+7c4c82506ddea0b503823c0653a0cabf4201844d;9904;Build docs on Python3 : Update numpydoc
+6ef8db75733132eeae9cf7535971032165825134;9906;is_convergent method implementation for Sum
+42fccc47a96fdf8d71e6767104489d3c54845442;9982;is_convergent() for Product
+961a75bd0adc40fc1d405ffdae9f49b52d96bed0;10476;modify as_independent: quicker exit and preserve zero property of dependent part
+4eccdc20fdad5a7e384b3d7d0f888cd0bc01f3ee;3;1985
+bd8fc71a38de89b08f38a4c971569bf4d0cb9c58;10518;Simplification of simple finite sets
+6b07c2a991f698bbe4df5fdaf0bccdad34dd4f73;10504;Added support for the Python 3.5 matrix multiplication operator.
+6b07c2a991f698bbe4df5fdaf0bccdad34dd4f73;10504;Added support for the Python 3.5 matrix multiplication operator.
+d818db28da8f04d7f1b0c11a1b5536117f2fe1f5;9765;Remove autosimp from Abs
+d818db28da8f04d7f1b0c11a1b5536117f2fe1f5;9765;Remove autosimp from Abs
+131aab40385c38c2f9bc8ce32a4123fb49266294;10640;Accelerated callbacks for integration routines
+2c288450ae48e8c6d15913ec6c158861c8b482ae;1;Hydrogen
+3deef8890de62637e97eb56c4d2b9f3f2ed0b6e1;10997;Diophantine update
+41bfc4377a301f9150292c6a8c6eb6fef82a2f37;11062;Error while simplifying equations containing csc and sec using trigsimp_groebner 
+d9eb2cc0fc1e1efc524693db1ceaaa6386b05a38;11093;use builtin Fractions to help with Rational and igcd
+05308bdda7baffbab9fcedfdbc684b41e90ab18d;11112;ufuncify: Multiple output argument support
+b0ad7adff30b2d5531e40922a17657f13314def1;11330;Making the module holonomic usable
+684d1b310bcd38a9652f52f2adf3ea15bc155311;7;Change tuple to Tuple in sum and integral limits
+f9d420223b7c0504cdbd1057aa1cd964ec09cf9b;11277;Implementing method to determine the period of some trigonometric functions
+dfa73872baf8f80487e56cb469ac3db04cc2a718;11334;diophantine: permute signs to get missing solutions
+86f076b5eb6c1d202fd5c3eb3a3e2a0786be52a0;11954;Matrix Cleanup Phase 1
+bf9a9639c87c893dbad9dba656042287fc044a81;12099;Improve singular matrix power performance
+e287b317ff34a48f0d42aa9a7d2fac7902c60cc4;12042;Matrix Cleanup Step 2
+e287b317ff34a48f0d42aa9a7d2fac7902c60cc4;12042;Matrix Cleanup Step 2
+7a34d3b5ad1a72856b2b85ba7cf4ba310a183294;11666;sympify : Added support for translating basic numpy datatypes
+c981457281f8ac5fed44d4dd3f8b5619f56b6f51;12471;use domain when solving inequalities
+a0f997ad56eafa99925153d673074a3116c3a230;12489;combinatorics.Permutation: Proper use of classmethods to allow inheritance
+07ec06355234f5475da260f387fad8da282a2c87;12507;Fix 10295
+5ea9e0239ae3c347374dde1351dee008079b4210;12521;Matrix cleanup stage 5
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+a734dcbee184ecfc9c7e1c2f5d4bd7391f988cf5;12649;latex(re(x)) should use parentheses
+5896d13933556d46d062df782842c3b7f2f96811;12708;Matrix cleanup 6.5
+234823d404fa40cc7d1fa599b3932b099b3285bf;12725;Split `matrices.py`
+7efbee85cf49d767a11de8344b2b99b2b2460769;12508;Initial proposal for Expr construction postprocessors
+2089b469cf0e0bf77cfdb028f99a19f16575c769;12711;Matrix Cleanup 7
+9865348b70a18c2a0efa77c4a8773a0b42c4d067;12854;"Revert ""Merge pull request #12711 from siefkenj/commonmatrix7"""
+9865348b70a18c2a0efa77c4a8773a0b42c4d067;12711;Matrix Cleanup 7
+9ab4041226f8f472d278f393b92469cd4926ecee;12840;SymPy 1.1 release
+0426a2f6467eb11f27275d859c42859b53633f4d;12902;sympy/core/tests/test_sympify.py failure on 32-bit systems
+3b80516ed159cbda8109ad4169d37948cb52fa59;1;Hydrogen
+3b80516ed159cbda8109ad4169d37948cb52fa59;1;Hydrogen
+cf2505dfba14aba9d28a6891448f685120372dd6;12950;as_explicit raises an error for MatMul objects (regression in sympy 1.1)
+90039458a1bdd8861bca2f43995d264ba37c1f5e;12957;Fix Matrix Regressions
+05c8e4533cdb23f919924df8693975c562b494fd;12909;Fix a test failure on 32-bit systems
+de92f7a4c2d82a5ee0e0d8d8b6a050198f7f98b2;13018;Make Pow.subs to not use fractional powers for noncommutative objects
+3e8028612eadd92db65b0e756061bdc036a6141f;12911;1.1.1 bugfix release
+3e8028612eadd92db65b0e756061bdc036a6141f;12911;1.1.1 bugfix release
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+97b9c34b41d0b8372113c20cda970ac7d061cd38;2;Soc final fixed
+96074807d8d003dbd83198d82ee0d5b16390709d;12978;Rubi ruleset using MatchPy (Python 3.6 only)
+96074807d8d003dbd83198d82ee0d5b16390709d;12978;Rubi ruleset using MatchPy (Python 3.6 only)
+8850d4eb343002601ba3c8fb37cb20dcf4a551cb;13285;Implemented a class Quaternion
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+9537b11ad8652f909b97d092d4838b55b77bd0ce;12641;Can't solve Integral((sin(2*x)*cos(x))/(1+cos(x)), (x, 0, pi/2))
+ee13fa2b5af8c3be57f8f6913312dd1375e10880;3;1985
+ee13fa2b5af8c3be57f8f6913312dd1375e10880;3;1985
+ee13fa2b5af8c3be57f8f6913312dd1375e10880;3;1985
+85a8f56a2ecb37a99861192b6c3db751a961ab2b;13386;gruntz: Porting changes back from diofant
+f6d511b3661b2ad29a6db8dd2dd17855efebce0e;13204;Piecewise expr must be Basic
+f6d511b3661b2ad29a6db8dd2dd17855efebce0e;13204;Piecewise expr must be Basic
+f6d511b3661b2ad29a6db8dd2dd17855efebce0e;13204;Piecewise expr must be Basic
+fd4b40e63698ae4ad4437ecc5db91bb17aa597a6;12000;Getting rid of bare excepts where possible
+7d4a53768444dd511e3d7ece218d71a3a3ea8173;12587;Piecewise: _eval_interval and _eval_integral overhaul
+66e6069045f3529e8118fab99273a69b5e425b42;13468;Problem with sympy.physics.wigner
+99912b7d48e03ec23d035e06b217dfca2e791187;13580;Now can also calculate wigner9j symbol for half integer input.
+7d0231704a21c5dbe4740e1f354f736b5a313acc;13776;fix Matrix*list
+7d5d74e3dee72ba720d985271473a8aa33652622;13773;@/__matmul__ now only performs matrix multiplication
+44001838ed614bbfe38f7aca5eb775d53fcf8dcd;13924;sympy.S doesn't preserve numpy arrays of length 1, and unconditionally converts its member to float
+0f42e1775d47f8fe36afc46e02e1c05987ae38fe;13926;correct sympify for numpy arrays of size 1
+1e8b5da3edbdbfe23cb664e1fe4982d88133c9b9;13706;Add Experimental LaTeX parsing
+6a427258050f7bf0ee0bb9a9ee1f3c5bd56a4375;14253;solveset modifications for use of Piecewise
+f091a3cd813623284886ca2e382443cc50402ce5;14401;Limit comparison test introduced
+d685f5d8255832ba44db98db46df217af8bd16a1;14464;Test for convergence in Sum
+18fe2e1e5b07e3f8c7315a897c559b5911d143c3;14509;More general comparison test for convergence
+677c9b7bac53afd4bb73718bf5a47ed11711cf93;14348;improve identification of imaginary roots for CRootOf instances
+ac1749ffbf36182d695e0bc984aff0394626f2b1;14747;Clean up some cruft in the tests
+03268800330a27da9e43ebba9eb58c0b00683261;14838;SymPy 1.2 release
