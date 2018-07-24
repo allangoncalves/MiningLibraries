@@ -24,25 +24,24 @@ class Visitor(ast.NodeVisitor):
         if len(node.body) == 1 and all(isinstance(x, ast.Pass) for x in node.body) and node.lineno in self.modified_lines:
             self.except_found = True
 
-class Minner():
+class RepositoryParser():
+
+    header = {'Authorization': 'token e50dfcf370f8dd5d19e7c5611de271997ea58e50'}
 
     def __init__(self, username, repository_name):
         self.username = username
         self.repository_name = repository_name
-        self.header = {'Authorization': 'token f9aeefc6106b2022d58950abeade70da5a3e266d'}
         self.issues = []
         self.commits = []
         self.last_checked_file = ''
         
     def check_modifications(self, commit):
-        commit_info = []
-        issues = []
         for modification in commit.modifications:
             if modification.filename.endswith('.py') and self.last_checked_file != modification.filename:
                 try:
                     root = ast.parse(modification.source_code)
                 except (SyntaxError, ValueError) as e1:
-                    logging.error('{}\n\t{}'.format(e1.msg, e1.text))
+                    #logging.error('{}\n\t{}'.format(e1.msg, e1.text))
                     continue
                 except IndentationError as e2:
                     logging.error(e2.print_file_and_line)
@@ -50,9 +49,9 @@ class Minner():
                 v = Visitor(modification, self.repository_name)
                 v.visit(root)
                 if v.except_found:
-                    self.commits.append({'hash': commit.hash, 'message': commit.msg})
+                    self.commits.append({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date})
                     self.check_issues(commit)
-                    logging.error('{}\n{}'.format(commit_info, issues))
+                    logging.error('{}'.format({'hash': commit.hash, 'message': commit.msg, 'data': commit.author_date}))
             self.last_checked_file = modification.filename
 
     def check_issues(self, commit):
@@ -68,7 +67,7 @@ class Minner():
         return any(issue['number'] == number for issue in self.issues)
     
     def duplicated_commit(self, hash):
-        return any(commit['number'] == number for commit in self.commits)
+        return any(commit['hash'] == hash for commit in self.commits)
 
     def start_mining(self):
         for commit in RepositoryMining('repositories/'+self.repository_name, only_modifications_with_file_types=['.py']).traverse_commits():
@@ -92,6 +91,12 @@ class Minner():
 
 if __name__ == '__main__':
     for username, repository_name in repositories.iteritems():
-        minner = Minner(username, repository_name)
-        minner.start_mining()
-        minner.to_csv()
+        parser = RepositoryParser(username, repository_name)
+        try:
+            parser.start_mining()
+        except Exception as e:
+            logging.error(e)
+        finally:
+            parser.to_csv()
+        
+        

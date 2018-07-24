@@ -1,7 +1,7 @@
 repositories = {
-    #'pandas-dev': 'pandas',
-    #'sympy': 'sympy',
+    'pandas-dev': 'pandas',
+    'sympy': 'sympy',
     'request': 'request',
-    #'matplotlib': 'matplotlib',
+    'matplotlib': 'matplotlib',
     'scikit-learn': 'scikit-learn',
 }
